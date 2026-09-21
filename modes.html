@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Modes de jeu · EasyPvP</title>
+  <meta name="description" content="UHC Classique, Meetup et Run, Loup-Garou UHC, Practice et Skyblock : tous les modes de jeu du serveur EasyPvP.">
+  <meta name="theme-color" content="#070d1a">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&family=JetBrains+Mono:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="container nav" aria-label="Navigation principale">
+      <a href="index.html" class="logo"><span class="logo-mark">E</span><span>Easy<b>PvP</b></span></a>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="menu">Menu</button>
+      <ul class="nav-links" id="menu">
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="modes.html" aria-current="page">Modes de jeu</a></li>
+        <li><a href="boutique.html">Boutique &amp; vote</a></li>
+        <li><a href="reglement.html">Règlement &amp; staff</a></li>
+        <li><a data-link="discord" href="#">Discord</a></li>
+      </ul>
+      <a class="btn btn-primary btn-sm btn-nav" data-copy="ip" role="button" tabindex="0">Jouer</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="page-hero container">
+      <span class="kicker">Modes de jeu</span>
+      <h1>Choisis ton terrain</h1>
+      <p>Chaque mode a son serveur. On passe de l'un à l'autre depuis le lobby, avec la boussole au milieu de la barre d'inventaire.</p>
+    </div>
+
+    <section>
+      <div class="container">
+        <article class="mode" id="uhc">
+          <div class="mode-badge">⚔️</div>
+          <div>
+            <span class="tag">Hub UHC</span><span class="tag">Parties à la demande</span>
+            <h2>UHC</h2>
+            <p class="muted">Pas de régénération naturelle : on se soigne avec des pommes et des têtes en or. Une bordure se resserre au fil de la partie et le dernier survivant gagne. Chaque partie a son propre serveur, lancé quand on en a besoin et arrêté à la fin.</p>
+            <div class="grid grid-3" style="margin-top:20px">
+              <div class="card">
+                <h3>UHC Classique</h3>
+                <p>La partie complète : récolte, minage, craft, puis combat final. Elle est créée et réglée par un <strong>HOST</strong> ou un <strong>VIP+</strong>, qui ouvre la whitelist quand il est prêt.</p>
+              </div>
+              <div class="card">
+                <h3>UHC Meetup</h3>
+                <p>On commence directement équipé, sur une petite carte, et le combat démarre tout de suite. Partie automatique, sans hôte.</p>
+              </div>
+              <div class="card">
+                <h3>UHC Run</h3>
+                <p>Minerais et nourriture déjà cuits (CutClean) et outils enchantés d'office (Hastey Boys) : une partie UHC en accéléré, automatique elle aussi.</p>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="mode" id="loup-garou">
+          <div class="mode-badge">🐺</div>
+          <div>
+            <span class="tag">Rôles cachés</span><span class="tag">Vocal de proximité</span>
+            <h2>Loup-Garou UHC</h2>
+            <p class="muted">Le jeu du Loup-Garou dans une partie UHC. Chacun reçoit un rôle secret : les villageois doivent démasquer les loups avant d'être dévorés, et certains rôles ont leurs propres objectifs. Tout se joue sur le bluff, les votes et les combats.</p>
+            <div class="grid grid-2" style="margin-top:20px">
+              <div class="card">
+                <h3>LG UHC</h3>
+                <p>La partie complète, créée par un HOST ou un VIP+ qui choisit les rôles et les règles.</p>
+              </div>
+              <div class="card">
+                <h3>LG Meetup</h3>
+                <p>Rôles et trahisons en version courte : équipés dès le départ, on passe vite aux choses sérieuses.</p>
+              </div>
+            </div>
+            <p class="muted" style="margin-top:16px">Avec le vocal Mumble, tu entends les joueurs proches de toi. Les joueurs éliminés sont placés dans un salon à part et n'entendent plus les vivants.</p>
+          </div>
+        </article>
+
+        <article class="mode" id="practice">
+          <div class="mode-badge">🗡️</div>
+          <div>
+            <span class="tag">Duels 1v1</span><span class="tag">Classé &amp; non classé</span>
+            <h2>Practice</h2>
+            <p class="muted">L'endroit pour progresser au PvP : lance un duel classé ou amical, avec un knockback réglé pour le PvP compétitif. Pendant ton combat, tu partages un salon vocal avec ton adversaire.</p>
+            <div class="card" style="margin-top:20px">
+              <h3>8 kits disponibles</h3>
+              <span class="tag">NoDebuff</span><span class="tag">UHC</span><span class="tag">BuildUHC</span><span class="tag">UHC Meetup</span>
+              <span class="tag">Combo</span><span class="tag">Diamond</span><span class="tag">Iron</span><span class="tag">Archer</span>
+              <p>Chaque kit peut être réorganisé dans l'éditeur. Quitter un combat avec /spawn compte comme un abandon.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="mode" id="skyblock">
+          <div class="mode-badge">🏝️</div>
+          <div>
+            <span class="tag">Survie</span><span class="tag">Économie</span>
+            <h2>Skyblock</h2>
+            <p class="muted">Tu démarres sur une petite île perdue dans le vide, avec presque rien. Agrandis-la, automatise tes fermes, vends au magasin et ouvre des caisses pour des récompenses rares.</p>
+            <div class="grid grid-3" style="margin-top:20px">
+              <div class="card"><h3>Ton île</h3><p>Construis et agrandis ton île, et invite tes amis à la développer avec toi.</p></div>
+              <div class="card"><h3>Magasin</h3><p>Achète et vends tes ressources pour faire tourner ton économie.</p></div>
+              <div class="card"><h3>Caisses</h3><p>Clés Vote, Rare, Épique et Légendaire, à gagner en votant ou à la boutique.</p></div>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <div class="cta">
+          <h2>Envie d'essayer ?</h2>
+          <p>Connecte-toi sur <strong class="accent">play.easypvp.fr</strong> et choisis ton mode depuis le lobby.</p>
+          <button class="btn btn-primary" data-copy="ip">Copier l'adresse</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div><strong>EasyPvP</strong> · play.easypvp.fr</div>
+        <div class="footer-links">
+          <a href="modes.html">Modes</a>
+          <a href="boutique.html">Boutique</a>
+          <a href="reglement.html">Règlement</a>
+          <a href="mentions-legales.html">Mentions légales</a>
+          <a data-link="discord" href="#">Discord</a>
+        </div>
+      </div>
+      <p class="disclaimer">© <span data-year></span> EasyPvP. Serveur non officiel, non affilié à Mojang Studios ni à Microsoft. Minecraft est une marque de Mojang Studios.</p>
+    </div>
+  </footer>
+  <script src="assets/site.js"></script>
+</body>
+</html>

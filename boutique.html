@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Boutique &amp; vote · EasyPvP</title>
+  <meta name="description" content="Grades VIP, HOST et VIP+, EasyCoins et récompenses de vote du serveur EasyPvP.">
+  <meta name="theme-color" content="#070d1a">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&family=JetBrains+Mono:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="container nav" aria-label="Navigation principale">
+      <a href="index.html" class="logo"><span class="logo-mark">E</span><span>Easy<b>PvP</b></span></a>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="menu">Menu</button>
+      <ul class="nav-links" id="menu">
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="modes.html">Modes de jeu</a></li>
+        <li><a href="boutique.html" aria-current="page">Boutique &amp; vote</a></li>
+        <li><a href="reglement.html">Règlement &amp; staff</a></li>
+        <li><a data-link="discord" href="#">Discord</a></li>
+      </ul>
+      <a class="btn btn-primary btn-sm btn-nav" data-copy="ip" role="button" tabindex="0">Jouer</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="page-hero container">
+      <span class="kicker">Boutique &amp; vote</span>
+      <h1>Soutiens le serveur</h1>
+      <p>Les achats paient l'hébergement et le développement. Ils donnent du style et des outils pour organiser des parties, <strong>jamais d'avantage en combat</strong>.</p>
+    </div>
+
+    <section>
+      <div class="container">
+        <div class="section-head">
+          <h2>Les grades</h2>
+          <p>Chaque grade comprend tout ce que donne le grade précédent.</p>
+        </div>
+        <div class="grid grid-3">
+          <div class="card offer">
+            <h3>VIP</h3>
+            <div class="price">6 €<small> / mois</small></div>
+            <ul>
+              <li>Grade VIP dans le chat et le tab</li>
+              <li>Accès aux cosmétiques de base : chapeaux, particules, familiers, gadgets…</li>
+            </ul>
+            <a class="btn btn-ghost" data-link="boutique" href="#">Voir sur la boutique</a>
+          </div>
+          <div class="card offer">
+            <h3>HOST</h3>
+            <div class="price">10 €<small> / mois</small></div>
+            <ul>
+              <li>Tout le grade VIP</li>
+              <li>Crée tes parties <strong>UHC Classique</strong> et <strong>Loup-Garou UHC</strong></li>
+              <li>Règle toi-même les options de la partie et choisis quand ouvrir la whitelist</li>
+            </ul>
+            <a class="btn btn-ghost" data-link="boutique" href="#">Voir sur la boutique</a>
+          </div>
+          <div class="card offer featured">
+            <span class="ribbon">Le plus complet</span>
+            <h3>VIP+</h3>
+            <div class="price">13 €<small> / mois</small></div>
+            <ul>
+              <li>Tout le grade HOST</li>
+              <li>Cosmétiques premium en plus</li>
+              <li>Priorité pour rejoindre les parties pleines</li>
+            </ul>
+            <a class="btn btn-primary" data-link="boutique" href="#">Voir sur la boutique</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <div class="section-head">
+          <span class="kicker">Monnaie du réseau</span>
+          <h2>Les EasyCoins</h2>
+          <p>Un seul solde pour tout le réseau. Dépense-les en jeu à la boutique du lobby (marchand au spawn ou <strong>/boutique</strong>) : grades de 7 ou 30 jours, clés de coffres cosmétiques et clés Skyblock.</p>
+        </div>
+        <div class="grid grid-3">
+          <div class="card offer">
+            <h3>500 EasyCoins</h3>
+            <div class="price">5 €</div>
+            <ul><li>Juste ce qu'il faut pour une clé Légendaire ou un grade de 7 jours</li></ul>
+            <a class="btn btn-ghost" data-link="boutique" href="#">Acheter</a>
+          </div>
+          <div class="card offer featured">
+            <span class="ribbon">+10 % offerts</span>
+            <h3>1 100 EasyCoins</h3>
+            <div class="price">10 €</div>
+            <ul><li>1 000 EasyCoins + 100 offerts</li></ul>
+            <a class="btn btn-primary" data-link="boutique" href="#">Acheter</a>
+          </div>
+          <div class="card offer">
+            <span class="ribbon">+12,5 % offerts</span>
+            <h3>2 250 EasyCoins</h3>
+            <div class="price">20 €</div>
+            <ul><li>2 000 EasyCoins + 250 offerts</li></ul>
+            <a class="btn btn-ghost" data-link="boutique" href="#">Acheter</a>
+          </div>
+        </div>
+        <p class="muted" style="text-align:center;margin-top:18px">Les EasyCoins ne s'échangent pas entre joueurs. Les coins achetés arrivent sur ton compte en quelques instants, sur le lobby.</p>
+      </div>
+    </section>
+
+    <section id="vote">
+      <div class="container">
+        <div class="section-head">
+          <span class="kicker">Gratuit</span>
+          <h2>Vote pour EasyPvP</h2>
+          <p>Voter fait monter le serveur dans les classements et te rapporte des récompenses à chaque fois.</p>
+        </div>
+        <div class="grid grid-3">
+          <div class="card"><div class="icon">🪙</div><h3>5 EasyCoins</h3><p>Crédités tout de suite sur ton compte.</p></div>
+          <div class="card"><div class="icon">💰</div><h3>500 $</h3><p>De l'argent pour le magasin du Skyblock.</p></div>
+          <div class="card"><div class="icon">🔑</div><h3>1 clé de vote</h3><p>À ouvrir dans le Skyblock. Tu peux en garder jusqu'à 5 en réserve.</p></div>
+        </div>
+        <div class="callout" style="margin-top:24px">
+          <div class="icon" style="font-size:1.6rem">💡</div>
+          <p><strong>Tape bien ton pseudo Minecraft exact</strong> sur le site de vote, majuscules comprises. L'argent et la clé de vote te sont remis sur le Skyblock, même si tu votes en étant sur un autre serveur. Chaque vote n'est récompensé qu'une fois.</p>
+        </div>
+        <div style="text-align:center;margin-top:28px">
+          <a class="btn btn-primary" data-link="vote" href="#">Voter sur serveur-prive.net</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div><strong>EasyPvP</strong> · play.easypvp.fr</div>
+        <div class="footer-links">
+          <a href="modes.html">Modes</a>
+          <a href="boutique.html">Boutique</a>
+          <a href="reglement.html">Règlement</a>
+          <a href="mentions-legales.html">Mentions légales</a>
+          <a data-link="discord" href="#">Discord</a>
+        </div>
+      </div>
+      <p class="disclaimer">© <span data-year></span> EasyPvP. Serveur non officiel, non affilié à Mojang Studios ni à Microsoft. Minecraft est une marque de Mojang Studios.</p>
+    </div>
+  </footer>
+  <script src="assets/site.js"></script>
+</body>
+</html>
