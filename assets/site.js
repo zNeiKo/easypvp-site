@@ -4,7 +4,8 @@ const EASYPVP = {
   mumble: "mumble.easypvp.fr:35976",
   discord: "https://discord.gg/8E5PF7N",
   vote: "https://serveur-prive.net/minecraft/easypvp-4924/vote",
-  boutique: "https://easypvp.tebex.io",
+  // Vide tant que la boutique Tebex n'est pas publiée : les boutons affichent « Bientôt disponible ».
+  boutique: "",
 };
 
 // Liens pilotés par data-link="discord|vote|boutique"
@@ -14,6 +15,11 @@ document.querySelectorAll("[data-link]").forEach((a) => {
     a.href = url;
     a.target = "_blank";
     a.rel = "noopener";
+  } else {
+    a.removeAttribute("href");
+    a.setAttribute("aria-disabled", "true");
+    a.classList.add("is-disabled");
+    a.textContent = "Bientôt disponible";
   }
 });
 

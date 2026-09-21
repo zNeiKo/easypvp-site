@@ -102,6 +102,7 @@ p { margin: 0 0 1em; }
 .btn-discord { background: #5865f2; color: #fff; }
 .btn-discord:hover { color: #fff; background: #4752c4; }
 .btn-sm { padding: 8px 14px; font-size: .9rem; }
+.btn.is-disabled { opacity: .55; cursor: default; pointer-events: none; box-shadow: none; }
 
 /* ---------- Héros ---------- */
 .hero { padding: 88px 0 64px; text-align: center; position: relative; }
