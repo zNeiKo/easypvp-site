@@ -69,6 +69,7 @@ p { margin: 0 0 1em; }
   color: #fff; font-size: 1rem; font-weight: 900;
   box-shadow: 0 0 20px rgba(56, 189, 248, .35);
 }
+.logo img { width: 34px; height: 34px; image-rendering: pixelated; filter: drop-shadow(0 0 8px rgba(56, 189, 248, .45)); }
 .logo span b { color: var(--cyan); }
 .nav-links { display: flex; align-items: center; gap: 4px; list-style: none; margin: 0; padding: 0; }
 .nav-links a { color: var(--muted); padding: 8px 12px; border-radius: 8px; font-weight: 500; }
@@ -235,3 +236,23 @@ table.clean th { color: var(--muted); font-weight: 600; font-size: .9rem; }
 .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 .prose h2 { margin-top: 1.6em; font-size: 1.4rem; }
 .prose p, .prose li { color: var(--muted); }
+
+/* ---------- Photos du serveur ---------- */
+.hero-photo {
+  background:
+    linear-gradient(180deg, rgba(7, 13, 26, .55) 0%, rgba(7, 13, 26, .8) 60%, var(--bg) 100%),
+    url("img/lobby-jour.jpg") center 35% / cover no-repeat;
+  padding-top: 56px;
+}
+.hero-photo::after { display: none; }
+.hero-photo .lead { color: #c9d6ee; }
+.hero-logo {
+  width: 240px; max-width: 60vw; height: auto; margin: 0 auto 18px;
+  filter: drop-shadow(0 10px 30px rgba(0, 0, 0, .55));
+}
+.gallery { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+.gallery img {
+  width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover;
+  border-radius: var(--radius); border: 1px solid var(--line);
+}
+@media (max-width: 640px) { .gallery { grid-template-columns: 1fr; } }
