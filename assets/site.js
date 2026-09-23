@@ -4,8 +4,7 @@ const EASYPVP = {
   mumble: "mumble.easypvp.fr:35976",
   discord: "https://discord.gg/8E5PF7N",
   vote: "https://serveur-prive.net/minecraft/easypvp-4924/vote",
-  // Vide tant que la boutique Tebex n'est pas publiée : les boutons affichent « Bientôt disponible ».
-  boutique: "",
+  boutique: "https://easypvp.tebex.store",
 };
 
 // Liens pilotés par data-link="discord|vote|boutique"
