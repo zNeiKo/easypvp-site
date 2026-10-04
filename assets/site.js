@@ -2,6 +2,8 @@
 const EASYPVP = {
   ip: "play.easypvp.fr",
   mumble: "mumble.easypvp.fr:35976",
+  // Bedrock (mobile, console, Windows) : adresse + port à taper à part.
+  bedrock: "bedrock.easypvp.fr",
   discord: "https://discord.gg/8E5PF7N",
   vote: "https://serveur-prive.net/minecraft/easypvp-4924/vote",
   boutique: "https://easypvp.tebex.store",
