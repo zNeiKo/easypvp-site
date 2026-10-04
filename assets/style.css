@@ -145,8 +145,14 @@ section { padding: 64px 0; }
 .grid-2 { grid-template-columns: repeat(2, 1fr); }
 .grid-3 { grid-template-columns: repeat(3, 1fr); }
 .grid-4 { grid-template-columns: repeat(4, 1fr); }
-@media (max-width: 960px) { .grid-3, .grid-4 { grid-template-columns: repeat(2, 1fr); } }
-@media (max-width: 640px) { .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; } }
+/* 5 cartes : 3 en haut, 2 en bas */
+@media (min-width: 961px) {
+  .grid-5 { grid-template-columns: repeat(6, 1fr); }
+  .grid-5 > * { grid-column: span 2; }
+  .grid-5 > :nth-last-child(-n+2) { grid-column: span 3; }
+}
+@media (max-width: 960px) { .grid-3, .grid-4, .grid-5 { grid-template-columns: repeat(2, 1fr); } .grid-5 > :last-child { grid-column: span 2; } }
+@media (max-width: 640px) { .grid-2, .grid-3, .grid-4, .grid-5 { grid-template-columns: 1fr; } .grid-5 > :last-child { grid-column: auto; } }
 
 .card {
   background: linear-gradient(180deg, var(--card), var(--bg-2));
