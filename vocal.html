@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rejoindre le vocal · EasyPvP</title>
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#070d1a">
+  <link rel="icon" href="assets/img/epees-64.png" type="image/png">
+  <link rel="apple-touch-icon" href="assets/img/epees-180.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&family=JetBrains+Mono:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="container nav" aria-label="Navigation principale">
+      <a href="/accueil" class="logo"><img src="assets/img/epees-64.png" alt="" width="34" height="34"><span>Easy<b>PvP</b></span></a>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="menu">Menu</button>
+      <ul class="nav-links" id="menu">
+        <li><a href="/accueil">Accueil</a></li>
+        <li><a href="/modes">Modes de jeu</a></li>
+        <li><a href="/boutique">Boutique &amp; vote</a></li>
+        <li><a href="/reglement">Règlement &amp; staff</a></li>
+        <li><a data-link="discord" href="#">Discord</a></li>
+      </ul>
+      <a class="btn btn-primary btn-sm btn-nav" data-copy="ip" role="button" tabindex="0">Jouer</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="page-hero container">
+      <h1>Rejoindre le vocal</h1>
+    </div>
+    <section style="padding-top:16px">
+      <div class="container prose" style="max-width:780px">
+        <p><strong>Mumble va s'ouvrir</strong>, déjà connecté au serveur vocal d'EasyPvP<span id="pseudo-texte"></span>.
+          Si ton navigateur te demande l'autorisation d'ouvrir Mumble, accepte. Tu peux ensuite fermer cette page
+          et retourner en jeu : tu seras placé tout seul dans le salon de ton serveur.</p>
+        <p><a class="btn btn-primary" id="ouvrir-mumble" href="#">Ouvrir Mumble</a></p>
+
+        <h2>Rien ne s'ouvre ?</h2>
+        <p>Il faut que <strong>Mumble</strong> soit installé sur ton PC : télécharge-le gratuitement sur
+          <a href="https://www.mumble.info/downloads/" target="_blank" rel="noopener">mumble.info</a>, puis reviens
+          cliquer sur le bouton ci-dessus.</p>
+        <p>Tu peux aussi te connecter à la main : dans Mumble, « Serveur » puis « Connexion », ajoute
+          l'adresse <strong class="accent">mumble.easypvp.fr</strong>, port <strong class="accent">35976</strong>,
+          avec ton pseudo Minecraft. En jeu, tape <strong>/mb</strong> pour lier ton compte.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div><strong>EasyPvP</strong> · play.easypvp.fr</div>
+        <div class="footer-links">
+          <a href="/modes">Modes</a>
+          <a href="/boutique">Boutique</a>
+          <a href="/reglement">Règlement</a>
+          <a href="/mentions-legales">Mentions légales</a>
+          <a data-link="discord" href="#">Discord</a>
+        </div>
+      </div>
+      <p class="disclaimer">© <span data-year></span> EasyPvP. Serveur non officiel, non affilié à Mojang Studios ni à Microsoft. Minecraft est une marque de Mojang Studios.</p>
+    </div>
+  </footer>
+  <script src="assets/site.js"></script>
+  <script>
+    // Lien ouvert depuis le chat du serveur : easypvp.fr/vocal#Pseudo (le pseudo reste
+    // dans le navigateur, la partie après # n'est jamais envoyée au site).
+    (function () {
+      var pseudo = decodeURIComponent((location.hash || "").slice(1));
+      if (!/^[A-Za-z0-9_.]{1,16}$/.test(pseudo)) pseudo = "";
+      var adresse = "mumble.easypvp.fr:35976";
+      var lien = "mumble://" + (pseudo ? encodeURIComponent(pseudo) + "@" : "") + adresse + "/?version=1.2.0";
+      var bouton = document.getElementById("ouvrir-mumble");
+      bouton.href = lien;
+      if (pseudo) document.getElementById("pseudo-texte").textContent = " sous le pseudo " + pseudo;
+      // Ouverture automatique au chargement (le navigateur peut demander une confirmation).
+      setTimeout(function () { location.href = lien; }, 400);
+    })();
+  </script>
+</body>
+</html>
