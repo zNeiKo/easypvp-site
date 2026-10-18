@@ -156,7 +156,7 @@
   {
    "nom": "Frelon111",
    "valeur": 5,
-   "xp": 680,
+   "xp": 733,
    "titre": "Novice"
   },
   {
@@ -178,11 +178,17 @@
    "titre": "Novice"
   },
   {
+   "nom": "Men0t",
+   "valeur": 1,
+   "xp": 2,
+   "titre": "Novice"
+  },
+  {
    "nom": "narcoperbell",
    "valeur": 1,
    "xp": 2,
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-18T21:07"
+ "maj": "2026-10-18T22:07"
 }
