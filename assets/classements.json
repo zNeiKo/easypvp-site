@@ -1,0 +1,144 @@
+{
+ "uhc": [
+  {
+   "id": "uhcclassique",
+   "mode": "UHC Host",
+   "top": []
+  },
+  {
+   "id": "uhcmeetup",
+   "mode": "UHC Meetup",
+   "top": []
+  },
+  {
+   "id": "uhcrun",
+   "mode": "UHC Run",
+   "top": []
+  },
+  {
+   "id": "lgmeetup",
+   "mode": "Loups-Garous Meetup",
+   "top": []
+  },
+  {
+   "id": "lguhc",
+   "mode": "Host Loups-Garous UHC",
+   "top": []
+  },
+  {
+   "id": "taupegun",
+   "mode": "Taupe Gun",
+   "top": []
+  },
+  {
+   "id": "taupehost",
+   "mode": "Host Taupe Gun",
+   "top": []
+  }
+ ],
+ "practice": {
+  "kits": [
+   {
+    "kit": "Archer",
+    "top": [
+     {
+      "nom": "thib_thib",
+      "valeur": 1007
+     }
+    ]
+   },
+   {
+    "kit": "BuildUHC",
+    "top": [
+     {
+      "nom": "_drawzen_",
+      "valeur": 1042
+     },
+     {
+      "nom": "frywynn",
+      "valeur": 1022
+     },
+     {
+      "nom": "thib_thib",
+      "valeur": 1020
+     },
+     {
+      "nom": "carottin",
+      "valeur": 969
+     },
+     {
+      "nom": "frelons_",
+      "valeur": 950
+     }
+    ]
+   },
+   {
+    "kit": "Combo",
+    "top": [
+     {
+      "nom": "frywynn",
+      "valeur": 1016
+     },
+     {
+      "nom": "venoxy123",
+      "valeur": 984
+     }
+    ]
+   },
+   {
+    "kit": "GApple",
+    "top": [
+     {
+      "nom": "venoxy123",
+      "valeur": 1016
+     },
+     {
+      "nom": "frelons_",
+      "valeur": 1011
+     },
+     {
+      "nom": "frywynn",
+      "valeur": 984
+     }
+    ]
+   },
+   {
+    "kit": "NoDebuff",
+    "top": [
+     {
+      "nom": "frelons_",
+      "valeur": 1013
+     }
+    ]
+   },
+   {
+    "kit": "UHC",
+    "top": [
+     {
+      "nom": "frelons_",
+      "valeur": 999
+     }
+    ]
+   }
+  ],
+  "victoires": [
+   {
+    "nom": "frelons_",
+    "valeur": 2
+   },
+   {
+    "nom": "frywynn",
+    "valeur": 1
+   }
+  ]
+ },
+ "skyblock": [
+  {
+   "nom": "Wisteriashrim40",
+   "ile": "DIH",
+   "valeur": 168
+  }
+ ],
+ "niveau": [],
+ "maj": "2026-10-18T04:08"
+}

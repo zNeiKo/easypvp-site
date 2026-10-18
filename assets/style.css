@@ -266,3 +266,32 @@ table.clean th { color: var(--muted); font-weight: 600; font-size: .9rem; }
   width: 100%; height: auto; aspect-ratio: 16 / 7; object-fit: cover; margin: 18px 0 4px;
   border-radius: var(--radius); border: 1px solid var(--line);
 }
+
+/* Classements (/classements) */
+.classements { padding-top: 8px; }
+.onglets { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 28px; }
+.onglets button {
+  font: 600 .95rem "Inter", system-ui, sans-serif; color: var(--muted); background: var(--card);
+  border: 1px solid var(--line); border-radius: 999px; padding: 9px 18px; cursor: pointer;
+}
+.onglets button[aria-selected="true"] { color: var(--text); border-color: var(--cyan); background: rgba(56, 189, 248, .12); }
+.onglets button:hover { color: var(--text); }
+.onglets button:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+.classements-grille { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 18px; }
+.classement { background: linear-gradient(180deg, var(--card), var(--bg-2)); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 18px 12px; min-width: 0; }
+.classement header { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+.classement h3 { margin: 0; font: 700 1.1rem "Outfit", sans-serif; }
+.classement header span { color: var(--muted); font-size: .82rem; }
+.classement ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
+.classement li { display: grid; grid-template-columns: 26px 24px minmax(0, 1fr) auto; align-items: center; gap: 10px; padding: 6px 8px; border-radius: 8px; }
+.classement li:nth-child(odd) { background: rgba(255, 255, 255, .025); }
+.classement .rang { font: 700 .9rem "JetBrains Mono", monospace; color: var(--muted); text-align: center; }
+.classement .rang-1 .rang { color: #fbbf24; }
+.classement .rang-2 .rang { color: #cbd5e1; }
+.classement .rang-3 .rang { color: #d6a16b; }
+.classement img { border-radius: 4px; image-rendering: pixelated; }
+.classement .pseudo { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 600; }
+.classement .score { font: 700 .9rem "JetBrains Mono", monospace; font-variant-numeric: tabular-nums; color: var(--cyan); white-space: nowrap; }
+.classement .score small { display: block; font: 500 .72rem "Inter", sans-serif; color: var(--muted); text-align: right; }
+.classement .vide { color: var(--muted); margin: 6px 0 10px; }
+.classements .maj { text-align: center; margin-top: 24px; font-size: .9rem; }
