@@ -112,6 +112,19 @@
     ]
    },
    {
+    "kit": "SG",
+    "top": [
+     {
+      "nom": "frelon111",
+      "valeur": 1018
+     },
+     {
+      "nom": "thimote0270",
+      "valeur": 982
+     }
+    ]
+   },
+   {
     "kit": "UHC",
     "top": [
      {
@@ -141,6 +154,18 @@
  ],
  "niveau": [
   {
+   "nom": "Frelon111",
+   "valeur": 5,
+   "xp": 672,
+   "titre": "Novice"
+  },
+  {
+   "nom": "thimote0270",
+   "valeur": 3,
+   "xp": 250,
+   "titre": "Novice"
+  },
+  {
    "nom": "NinjaBowlMC",
    "valeur": 1,
    "xp": 10,
@@ -153,5 +178,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-18T16:07"
+ "maj": "2026-10-18T20:07"
 }
