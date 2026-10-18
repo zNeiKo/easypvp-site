@@ -139,6 +139,13 @@
    "valeur": 168
   }
  ],
- "niveau": [],
- "maj": "2026-10-18T04:08"
+ "niveau": [
+  {
+   "nom": "NinjaBowlMC",
+   "valeur": 1,
+   "xp": 10,
+   "titre": "Novice"
+  }
+ ],
+ "maj": "2026-10-18T12:07"
 }
