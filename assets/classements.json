@@ -145,7 +145,13 @@
    "valeur": 1,
    "xp": 10,
    "titre": "Novice"
+  },
+  {
+   "nom": "slaiser_12",
+   "valeur": 1,
+   "xp": 2,
+   "titre": "Novice"
   }
  ],
- "maj": "2026-10-18T12:07"
+ "maj": "2026-10-18T16:07"
 }
