@@ -68,6 +68,38 @@
 "nom": "elee_py",
 "vu": "2026-09-30"
 },
+"ep_byby": {
+"grade": "Owner",
+"nom": "EP_ByBy",
+"practice": {
+"elo": {
+"Archer": 993,
+"BuildUHC": 937,
+"Combo": 1103,
+"Diamond": 1022,
+"NoDebuff": 956
+},
+"rangs": {
+"Archer": 2,
+"BuildUHC": 7,
+"Combo": 1,
+"Diamond": 1,
+"NoDebuff": 3
+},
+"victoires": 1
+},
+"uhc": {
+"kills": 1,
+"morts": 0,
+"victoires": [
+{
+"mode": "UHC Meetup",
+"victoires": 1
+}
+]
+},
+"vu": "2026-10-12"
+},
 "eryt953": {
 "nom": "eryt953",
 "vu": "2026-09-28"
@@ -138,7 +170,7 @@
 },
 "rangs": {
 "BuildUHC": 3,
-"Combo": 1,
+"Combo": 2,
 "GApple": 4
 },
 "victoires": 1
@@ -351,8 +383,8 @@
 },
 "rangs": {
 "BuildUHC": 1,
-"Combo": 3,
-"Diamond": 1,
+"Combo": 4,
+"Diamond": 2,
 "GApple": 3,
 "NoDebuff": 1,
 "UHC": 1
@@ -397,6 +429,11 @@
 "shadowclaw2134": {
 "nom": "ShadowClaw2134",
 "vu": "2026-10-17"
+},
+"skisio02": {
+"grade": "Modo",
+"nom": "SkiSio02",
+"vu": "2026-10-03"
 },
 "slaiser_12": {
 "niveau": {
@@ -507,7 +544,7 @@
 "GApple": 1016
 },
 "rangs": {
-"Combo": 2,
+"Combo": 3,
 "GApple": 1
 },
 "victoires": 0

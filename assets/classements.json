@@ -8,7 +8,12 @@
   {
    "id": "uhcmeetup",
    "mode": "UHC Meetup",
-   "top": []
+   "top": [
+    {
+     "nom": "EP_ByBy",
+     "valeur": 1
+    }
+   ]
   },
   {
    "id": "uhcrun",
@@ -44,6 +49,10 @@
      {
       "nom": "thib_thib",
       "valeur": 1007
+     },
+     {
+      "nom": "ep_byby",
+      "valeur": 993
      }
     ]
    },
@@ -73,12 +82,20 @@
      {
       "nom": "frelons_",
       "valeur": 950
+     },
+     {
+      "nom": "ep_byby",
+      "valeur": 937
      }
     ]
    },
    {
     "kit": "Combo",
     "top": [
+     {
+      "nom": "ep_byby",
+      "valeur": 1103
+     },
      {
       "nom": "frywynn",
       "valeur": 1016
@@ -96,6 +113,10 @@
    {
     "kit": "Diamond",
     "top": [
+     {
+      "nom": "ep_byby",
+      "valeur": 1022
+     },
      {
       "nom": "neikotv",
       "valeur": 978
@@ -133,6 +154,10 @@
      {
       "nom": "frelons_",
       "valeur": 1013
+     },
+     {
+      "nom": "ep_byby",
+      "valeur": 956
      }
     ]
    },
@@ -167,6 +192,10 @@
    {
     "nom": "frelons_",
     "valeur": 2
+   },
+   {
+    "nom": "ep_byby",
+    "valeur": 1
    },
    {
     "nom": "frywynn",
@@ -329,5 +358,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-19T23:31"
+ "maj": "2026-10-19T23:45"
 }
