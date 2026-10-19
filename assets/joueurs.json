@@ -1,0 +1,570 @@
+{
+"1m37": {
+"nom": "1m37",
+"vu": "2026-10-07"
+},
+"2w8hr92": {
+"nom": "2w8hr92",
+"vu": "2026-10-03"
+},
+"3l1_k0pt3r": {
+"nom": "3L1_K0PT3R",
+"vu": "2026-09-22"
+},
+"_drawzen_": {
+"nom": "_DrawZen_",
+"practice": {
+"elo": {
+"BuildUHC": 1042
+},
+"rangs": {
+"BuildUHC": 2
+},
+"victoires": 0
+},
+"vu": "2020-05-23"
+},
+"abdu73": {
+"nom": "abdu73"
+},
+"bedrock-bybyv29982": {
+"nom": ".ByByV29982",
+"vu": "2026-10-05"
+},
+"ben1759": {
+"nom": "Ben1759",
+"vu": "2026-10-02"
+},
+"bybyv2": {
+"nom": "ByByV2",
+"vu": "2020-05-22"
+},
+"carottin": {
+"nom": "Carottin",
+"practice": {
+"elo": {
+"BuildUHC": 969
+},
+"rangs": {
+"BuildUHC": 5
+},
+"victoires": 0
+},
+"vu": "2020-05-23"
+},
+"chai_pas": {
+"nom": "chai_pas",
+"vu": "2026-10-01"
+},
+"darkdragon478": {
+"nom": "darkdragon478",
+"vu": "2020-05-22"
+},
+"diamantred": {
+"nom": "DiamantRed",
+"vu": "2026-10-09"
+},
+"elee_py": {
+"nom": "elee_py",
+"vu": "2026-09-30"
+},
+"eryt953": {
+"nom": "eryt953",
+"vu": "2026-09-28"
+},
+"floconcmoi": {
+"nom": "FloconCmoi",
+"vu": "2026-10-05"
+},
+"frelon111": {
+"grade": "Joueur",
+"niveau": {
+"dans": 187,
+"niveau": 10,
+"pour": 325,
+"rang": 1,
+"titre": "Apprenti",
+"xp": 1987
+},
+"nom": "Frelon111",
+"practice": {
+"elo": {
+"SG": 1018
+},
+"rangs": {
+"SG": 1
+},
+"victoires": 0
+},
+"vagues": {
+"mois": {
+"2026-10": 16
+},
+"record": 16
+},
+"vu": "2026-10-18"
+},
+"frelons_": {
+"grade": "HOST",
+"nom": "Frelons_",
+"practice": {
+"elo": {
+"BuildUHC": 950,
+"GApple": 1011,
+"NoDebuff": 1013,
+"UHC": 999
+},
+"rangs": {
+"BuildUHC": 6,
+"GApple": 2,
+"NoDebuff": 2,
+"UHC": 2
+},
+"victoires": 2
+},
+"vu": "2026-09-20"
+},
+"fromagelebgg": {
+"nom": "FromageLeBgg",
+"vu": "2026-10-09"
+},
+"frywynn": {
+"nom": "FryWynn",
+"practice": {
+"elo": {
+"BuildUHC": 1022,
+"Combo": 1016,
+"GApple": 984
+},
+"rangs": {
+"BuildUHC": 3,
+"Combo": 1,
+"GApple": 4
+},
+"victoires": 1
+},
+"vu": "2020-05-22"
+},
+"hkzw": {
+"nom": "hkzw",
+"vu": "2026-10-17"
+},
+"idontyt": {
+"nom": "IDONTYT",
+"vu": "2026-10-07"
+},
+"imune__": {
+"nom": "imune__",
+"vu": "2026-10-13"
+},
+"jeuneherisson": {
+"nom": "JeuneHerisson",
+"vu": "2026-10-13"
+},
+"josef_aime_mange": {
+"grade": "VIP",
+"niveau": {
+"dans": 6,
+"niveau": 1,
+"pour": 100,
+"rang": 6,
+"titre": "Novice",
+"xp": 6
+},
+"nom": "Josef_aime_mange",
+"vu": "2026-10-19"
+},
+"justg0od": {
+"nom": "JustG0OD",
+"vu": "2026-09-24"
+},
+"koyatomi_i": {
+"nom": "Koyatomi_i",
+"vu": "2020-05-21"
+},
+"laizihuoxin": {
+"nom": "laizihuoxin"
+},
+"lilsy_mc": {
+"nom": "LILSY_MC",
+"vu": "2026-09-23"
+},
+"luckybro49": {
+"nom": "luckybro49",
+"vu": "2026-10-07"
+},
+"malix_gaming": {
+"nom": "Malix_Gaming",
+"vu": "2026-10-03"
+},
+"matiange": {
+"nom": "matiange",
+"vu": "2026-10-06"
+},
+"men0t": {
+"niveau": {
+"dans": 10,
+"niveau": 1,
+"pour": 100,
+"rang": 4,
+"titre": "Novice",
+"xp": 10
+},
+"nom": "Men0t",
+"vu": "2026-10-18"
+},
+"merijak": {
+"nom": "Merijak",
+"vu": "2026-10-04"
+},
+"mgk667": {
+"nom": "mgk667",
+"vu": "2026-10-05"
+},
+"mikaljackson_fan": {
+"nom": "mikaljackson_fan",
+"vu": "2026-10-17"
+},
+"modxyor": {
+"nom": "Modxyor",
+"vu": "2026-10-10"
+},
+"moutonvaudou": {
+"nom": "MoutonVaudou",
+"vu": "2026-10-16"
+},
+"narcoperbell": {
+"niveau": {
+"dans": 2,
+"niveau": 1,
+"pour": 100,
+"rang": 8,
+"titre": "Novice",
+"xp": 2
+},
+"nom": "narcoperbell",
+"vu": "2026-10-18"
+},
+"neikotv": {
+"dropper": [
+{
+"id": "marathon",
+"nom": "Marathon",
+"rang": 1,
+"sur": 1,
+"temps": 126779
+},
+{
+"id": "complet",
+"nom": "Parcours complet",
+"rang": 1,
+"sur": 1,
+"temps": 43916
+},
+{
+"id": "glacier",
+"nom": "Glacier",
+"rang": 1,
+"sur": 1,
+"temps": 4701
+},
+{
+"id": "jungle",
+"nom": "Temple de la jungle",
+"rang": 1,
+"sur": 1,
+"temps": 4700
+},
+{
+"id": "desert",
+"nom": "Pyramide",
+"rang": 1,
+"sur": 1,
+"temps": 4700
+},
+{
+"id": "mine",
+"nom": "Mine abandonnée",
+"rang": 1,
+"sur": 1,
+"temps": 4712
+},
+{
+"id": "abysses",
+"nom": "Abysses",
+"rang": 1,
+"sur": 1,
+"temps": 4791
+},
+{
+"id": "prisme",
+"nom": "Prisme",
+"rang": 1,
+"sur": 1,
+"temps": 4812
+},
+{
+"id": "j1",
+"nom": "Map de NeiKoTV (map de joueur)",
+"rang": 1,
+"sur": 1,
+"temps": 4799
+}
+],
+"entrainement": [
+{
+"nom": "Combos",
+"rang": 1,
+"score": 182
+},
+{
+"nom": "Sauvetage au seau",
+"rang": 1,
+"score": 8
+}
+],
+"grade": "Owner",
+"maps": [
+{
+"essais": 4,
+"jaime": 0,
+"nom": "Map de NeiKoTV"
+}
+],
+"niveau": {
+"dans": 101,
+"niveau": 5,
+"pour": 200,
+"rang": 2,
+"titre": "Novice",
+"xp": 651
+},
+"nom": "NeiKoTV",
+"practice": {
+"elo": {
+"BuildUHC": 1060,
+"Combo": 897,
+"Diamond": 978,
+"GApple": 989,
+"NoDebuff": 1031,
+"UHC": 1001
+},
+"rangs": {
+"BuildUHC": 1,
+"Combo": 3,
+"Diamond": 1,
+"GApple": 3,
+"NoDebuff": 1,
+"UHC": 1
+},
+"victoires": 0
+},
+"uhc": {
+"kills": 0,
+"morts": 1,
+"victoires": []
+},
+"vu": "2026-10-19"
+},
+"ninjabowlmc": {
+"niveau": {
+"dans": 10,
+"niveau": 1,
+"pour": 100,
+"rang": 5,
+"titre": "Novice",
+"xp": 10
+},
+"nom": "NinjaBowlMC",
+"vu": "2026-10-18"
+},
+"ouicestmoi52": {
+"nom": "ouiCestMoi52",
+"vu": "2026-09-20"
+},
+"pika1830": {
+"nom": "pika1830",
+"vu": "2026-10-07"
+},
+"sachapomme": {
+"nom": "sachapomme",
+"vu": "2020-05-24"
+},
+"sayanelle98": {
+"nom": "sayanelle98",
+"vu": "2026-10-14"
+},
+"shadowclaw2134": {
+"nom": "ShadowClaw2134",
+"vu": "2026-10-17"
+},
+"slaiser_12": {
+"niveau": {
+"dans": 2,
+"niveau": 1,
+"pour": 100,
+"rang": 7,
+"titre": "Novice",
+"xp": 2
+},
+"nom": "slaiser_12",
+"vu": "2026-10-19"
+},
+"smarrtiz": {
+"nom": "Smarrtiz",
+"vu": "2026-09-27"
+},
+"spindo_": {
+"nom": "Spindo_",
+"vu": "2026-09-29"
+},
+"spl33mers": {
+"nom": "spl33mers"
+},
+"spliity": {
+"nom": "Spliity",
+"vu": "2026-09-24"
+},
+"synoz_": {
+"nom": "Synoz_",
+"vu": "2026-09-29"
+},
+"testbot01": {
+"nom": "testbot01"
+},
+"testbot02": {
+"nom": "testbot02"
+},
+"testbot03": {
+"nom": "testbot03"
+},
+"testbot04": {
+"nom": "testbot04"
+},
+"testbot05": {
+"nom": "testbot05"
+},
+"testbot06": {
+"nom": "testbot06"
+},
+"testeur1": {
+"nom": "testeur1"
+},
+"testeur2": {
+"nom": "testeur2"
+},
+"testeur3": {
+"nom": "testeur3"
+},
+"thegoatex": {
+"nom": "TheGoatex",
+"vu": "2026-09-22"
+},
+"thib_thib": {
+"grade": "HOST",
+"nom": "Thib_Thib",
+"practice": {
+"elo": {
+"Archer": 1007,
+"BuildUHC": 1020
+},
+"rangs": {
+"Archer": 1,
+"BuildUHC": 4
+},
+"victoires": 0
+},
+"vu": "2020-05-24"
+},
+"thimote0270": {
+"niveau": {
+"dans": 25,
+"niveau": 3,
+"pour": 150,
+"rang": 3,
+"titre": "Novice",
+"xp": 250
+},
+"nom": "thimote0270",
+"practice": {
+"elo": {
+"SG": 982
+},
+"rangs": {
+"SG": 2
+},
+"victoires": 0
+},
+"vu": "2026-10-18"
+},
+"tooeasyforme_": {
+"nom": "TooEasyForMe_",
+"vu": "2026-10-16"
+},
+"tristan4317": {
+"grade": "VIP",
+"nom": "Tristan4317",
+"vu": "2026-10-05"
+},
+"tunestay": {
+"nom": "tunestay",
+"vu": "2026-09-18"
+},
+"tzatziki69": {
+"nom": "Tzatziki69",
+"vu": "2026-10-17"
+},
+"ultramax2000": {
+"nom": "UltraMax2000",
+"vu": "2020-05-23"
+},
+"unfindable052": {
+"nom": "unfindable052",
+"vu": "2026-09-19"
+},
+"us_b": {
+"nom": "US_B",
+"vu": "2026-10-06"
+},
+"venoxy123": {
+"nom": "Venoxy123",
+"practice": {
+"elo": {
+"Combo": 984,
+"GApple": 1016
+},
+"rangs": {
+"Combo": 2,
+"GApple": 1
+},
+"victoires": 0
+},
+"vu": "2020-05-22"
+},
+"warui_": {
+"nom": "Warui_",
+"vu": "2020-05-21"
+},
+"wisteriashrim40": {
+"grade": "Joueur",
+"ile": {
+"nom": "DIH",
+"rang": 1,
+"valeur": 168
+},
+"nom": "Wisteriashrim40",
+"vu": "2026-10-06"
+},
+"worl2": {
+"nom": "worl2",
+"vu": "2026-10-13"
+},
+"xbebertx": {
+"nom": "xBEBERTx",
+"vu": "2026-10-05"
+},
+"zebulon17000": {
+"nom": "Zebulon17000",
+"vu": "2026-09-30"
+}
+}

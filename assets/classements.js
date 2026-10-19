@@ -6,6 +6,7 @@
   const pluriel = (n, mot) => nb(n) + " " + mot + (n > 1 ? "s" : "");
   const chrono = (ms) => ms < 60000 ? (ms / 1000).toLocaleString("fr-FR", { minimumFractionDigits: 3, maximumFractionDigits: 3 }) + " s"
     : Math.floor(ms / 60000) + ":" + ((ms % 60000) / 1000).toLocaleString("fr-FR", { minimumIntegerDigits: 2, minimumFractionDigits: 3, maximumFractionDigits: 3 });
+  const slug = (nom) => { const n = nom.toLowerCase(); return n.startsWith(".") ? "bedrock-" + n.slice(1) : n; };
   const echapper = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
   function carte(titre, sousTitre, lignes, valeur, vide) {
@@ -21,7 +22,7 @@
         html += `<li class="${i < 3 ? "rang-" + (i + 1) : ""}">
           <span class="rang">${i + 1}</span>
           <img src="https://mc-heads.net/avatar/${tete}/24" alt="" width="24" height="24" loading="lazy">
-          <span class="pseudo">${echapper(l.nom)}</span>
+          <span class="pseudo"><a href="/joueur/${encodeURIComponent(slug(l.nom))}/">${echapper(l.nom)}</a></span>
           <span class="score">${valeur(l)}</span>
         </li>`;
       });

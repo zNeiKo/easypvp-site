@@ -295,3 +295,37 @@ table.clean th { color: var(--muted); font-weight: 600; font-size: .9rem; }
 .classement .score small { display: block; font: 500 .72rem "Inter", sans-serif; color: var(--muted); text-align: right; }
 .classement .vide { color: var(--muted); margin: 6px 0 10px; }
 .classements .maj { text-align: center; margin-top: 24px; font-size: .9rem; }
+
+/* ===== Profils des joueurs (/joueur/<pseudo>/, assets/joueur.js) ===== */
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.profil-page { padding: 32px 0 64px; }
+.profil-recherche { display: flex; gap: 8px; max-width: 460px; margin: 0 0 28px auto; }
+.profil-recherche input { flex: 1; min-width: 0; background: var(--card); border: 1px solid var(--line); color: var(--text); border-radius: 10px; padding: 9px 12px; font: inherit; }
+.profil-recherche input:focus { outline: 2px solid var(--cyan, #38bdf8); outline-offset: 1px; }
+.profil-tete { display: flex; gap: 20px; align-items: center; }
+.profil-tete img { border-radius: 12px; image-rendering: pixelated; background: var(--card); }
+.profil-tete h1 { margin: 0 0 6px; font-size: clamp(1.8rem, 5vw, 2.6rem); }
+.profil-badges { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 4px; }
+.profil-xp { height: 10px; border-radius: 999px; background: var(--card); border: 1px solid var(--line); margin: 22px 0 6px; overflow: hidden; }
+.profil-xp span { display: block; height: 100%; background: linear-gradient(90deg, #3b82f6, #38bdf8); }
+.profil-xp-txt { margin: 0 0 24px; font-size: .9rem; }
+.profil-grille { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 16px; }
+.profil-bloc { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; }
+.profil-bloc h2 { font-size: 1.05rem; margin: 0 0 10px; }
+.profil-bloc p { margin: 10px 0 0; font-size: .9rem; }
+.profil-lignes { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.profil-lignes li { display: flex; justify-content: space-between; gap: 12px; padding: 5px 0; border-bottom: 1px solid var(--line); font-size: .93rem; }
+.profil-lignes li:last-child { border-bottom: 0; }
+.profil-lignes span { color: var(--muted); min-width: 0; overflow-wrap: anywhere; }
+.profil-lignes b { white-space: nowrap; font-weight: 600; }
+.rang-badge { display: inline-block; margin-left: 6px; padding: 0 7px; border-radius: 999px; font-size: .75rem; background: var(--card-2); border: 1px solid var(--line); color: var(--muted); }
+.rang-badge.or { color: #facc15; border-color: rgba(250, 204, 21, .45); }
+.rang-txt { margin-left: 6px; font-size: .8rem; color: var(--muted); font-weight: 400; }
+.profil-liste { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 10px; }
+.profil-liste a { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border-radius: 12px; background: var(--card); border: 1px solid var(--line); color: var(--text); text-decoration: none; }
+.profil-liste a:hover, .profil-liste a:focus-visible { border-color: #38bdf8; }
+.profil-liste img { border-radius: 6px; image-rendering: pixelated; }
+.profil-liste span { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 600; }
+.profil-liste small { color: var(--muted); }
+.classement .pseudo a { color: inherit; text-decoration: none; }
+.classement .pseudo a:hover { text-decoration: underline; }
