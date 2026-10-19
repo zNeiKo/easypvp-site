@@ -51,6 +51,10 @@
     "kit": "BuildUHC",
     "top": [
      {
+      "nom": "neikotv",
+      "valeur": 1060
+     },
+     {
       "nom": "_drawzen_",
       "valeur": 1042
      },
@@ -82,6 +86,19 @@
      {
       "nom": "venoxy123",
       "valeur": 984
+     },
+     {
+      "nom": "neikotv",
+      "valeur": 897
+     }
+    ]
+   },
+   {
+    "kit": "Diamond",
+    "top": [
+     {
+      "nom": "neikotv",
+      "valeur": 978
      }
     ]
    },
@@ -97,6 +114,10 @@
       "valeur": 1011
      },
      {
+      "nom": "neikotv",
+      "valeur": 989
+     },
+     {
       "nom": "frywynn",
       "valeur": 984
      }
@@ -105,6 +126,10 @@
    {
     "kit": "NoDebuff",
     "top": [
+     {
+      "nom": "neikotv",
+      "valeur": 1031
+     },
      {
       "nom": "frelons_",
       "valeur": 1013
@@ -127,6 +152,10 @@
    {
     "kit": "UHC",
     "top": [
+     {
+      "nom": "neikotv",
+      "valeur": 1001
+     },
      {
       "nom": "frelons_",
       "valeur": 999
@@ -153,23 +182,48 @@
   }
  ],
  "dropper": {
-  "complet": [],
-  "marathon": [],
+  "complet": [
+   {
+    "nom": "NeiKoTV",
+    "valeur": 43916
+   }
+  ],
+  "marathon": [
+   {
+    "nom": "NeiKoTV",
+    "valeur": 126779
+   }
+  ],
   "maps": [
    {
     "id": "glacier",
     "nom": "Glacier",
-    "top": []
+    "top": [
+     {
+      "nom": "NeiKoTV",
+      "valeur": 4701
+     }
+    ]
    },
    {
     "id": "jungle",
     "nom": "Temple de la jungle",
-    "top": []
+    "top": [
+     {
+      "nom": "NeiKoTV",
+      "valeur": 4700
+     }
+    ]
    },
    {
     "id": "desert",
     "nom": "Pyramide",
-    "top": []
+    "top": [
+     {
+      "nom": "NeiKoTV",
+      "valeur": 4700
+     }
+    ]
    },
    {
     "id": "bibliotheque",
@@ -179,7 +233,12 @@
    {
     "id": "mine",
     "nom": "Mine abandonnée",
-    "top": []
+    "top": [
+     {
+      "nom": "NeiKoTV",
+      "valeur": 4712
+     }
+    ]
    },
    {
     "id": "nether",
@@ -189,7 +248,12 @@
    {
     "id": "abysses",
     "nom": "Abysses",
-    "top": []
+    "top": [
+     {
+      "nom": "NeiKoTV",
+      "valeur": 4791
+     }
+    ]
    },
    {
     "id": "celeste",
@@ -204,7 +268,12 @@
    {
     "id": "prisme",
     "nom": "Prisme",
-    "top": []
+    "top": [
+     {
+      "nom": "NeiKoTV",
+      "valeur": 4812
+     }
+    ]
    }
   ],
   "victoires": [],
@@ -216,6 +285,12 @@
    "valeur": 10,
    "xp": 1987,
    "titre": "Apprenti"
+  },
+  {
+   "nom": "NeiKoTV",
+   "valeur": 5,
+   "xp": 651,
+   "titre": "Novice"
   },
   {
    "nom": "thimote0270",
@@ -254,5 +329,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-19T22:14"
+ "maj": "2026-10-19T23:31"
 }
