@@ -47,9 +47,13 @@
       .concat(pr.kits.map((k) => carte(k.kit, "ELO classé", k.top, (l) => nb(l.valeur) + " ELO"))));
     grille("p-skyblock", [carte("Les plus belles îles", "Valeur de l'île, comme /is top", d.skyblock || [],
       (l) => nb(l.valeur) + " pts")]);
-    const dr = d.dropper || { complet: [], maps: [], victoires: [] };
-    grille("p-dropper", [carte("Parcours complet", "Les 5 maps d'affilée", dr.complet, (l) => chrono(l.valeur)),
-      carte("Victoires en course", "Courses à plusieurs", dr.victoires, (l) => pluriel(l.valeur, "victoire"))]
+    const dr = d.dropper || { complet: [], marathon: [], maps: [], victoires: [], joueurs: [] };
+    grille("p-dropper", [carte("Parcours complet", "5 maps tirées au sort", dr.complet, (l) => chrono(l.valeur)),
+      carte("Marathon", "Les 10 maps officielles", dr.marathon || [], (l) => chrono(l.valeur)),
+      carte("Victoires en course", "Courses à plusieurs", dr.victoires, (l) => pluriel(l.valeur, "victoire")),
+      carte("Créateurs de maps", "Maps des joueurs les plus aimées", dr.joueurs || [],
+        (l) => `${echapper(l.map)} <small>${pluriel(l.valeur, "j'aime")}</small>`,
+        "Aucune map publiée pour l'instant : crée la tienne à l'atelier du Dropper !")]
       .concat(dr.maps.map((m) => carte(m.nom, "Meilleurs temps", m.top, (l) => chrono(l.valeur)))));
     grille("p-niveau", [carte("Niveau réseau", "Tous serveurs confondus", d.niveau || [],
       (l) => "Niv. " + nb(l.valeur) + (l.titre ? ` <small>${echapper(l.titre)}</small>` : ""),
