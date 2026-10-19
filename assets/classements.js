@@ -62,7 +62,7 @@
       const t = new Date(d.maj);
       document.getElementById("maj").textContent = "Dernière mise à jour : " +
         t.toLocaleDateString("fr-FR", { day: "numeric", month: "long" }) + " à " +
-        t.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }) + ". Le staff n'apparaît pas dans les classements.";
+        t.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }) + ".";
     }
   }
 
