@@ -209,6 +209,12 @@
    "titre": "Novice"
   },
   {
+   "nom": "Josef_aime_mange",
+   "valeur": 1,
+   "xp": 6,
+   "titre": "Novice"
+  },
+  {
    "nom": "slaiser_12",
    "valeur": 1,
    "xp": 2,
@@ -221,5 +227,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-19T17:18"
+ "maj": "2026-10-19T18:07"
 }
