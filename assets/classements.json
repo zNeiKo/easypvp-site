@@ -166,8 +166,18 @@
     "top": []
    },
    {
+    "id": "desert",
+    "nom": "Pyramide",
+    "top": []
+   },
+   {
     "id": "bibliotheque",
     "nom": "Bibliothèque",
+    "top": []
+   },
+   {
+    "id": "mine",
+    "nom": "Mine abandonnée",
     "top": []
    },
    {
@@ -176,8 +186,73 @@
     "top": []
    },
    {
+    "id": "abysses",
+    "nom": "Abysses",
+    "top": []
+   },
+   {
     "id": "celeste",
     "nom": "Cité céleste",
+    "top": []
+   },
+   {
+    "id": "end",
+    "nom": "L",
+    "top": []
+   },
+   {
+    "id": "prisme",
+    "nom": "Prisme",
+    "top": []
+   },
+   {
+    "id": "glacier",
+    "nom": "Glacier",
+    "top": []
+   },
+   {
+    "id": "jungle",
+    "nom": "Temple de la jungle",
+    "top": []
+   },
+   {
+    "id": "desert",
+    "nom": "Pyramide",
+    "top": []
+   },
+   {
+    "id": "bibliotheque",
+    "nom": "Bibliothèque",
+    "top": []
+   },
+   {
+    "id": "mine",
+    "nom": "Mine abandonnée",
+    "top": []
+   },
+   {
+    "id": "nether",
+    "nom": "Nether",
+    "top": []
+   },
+   {
+    "id": "abysses",
+    "nom": "Abysses",
+    "top": []
+   },
+   {
+    "id": "celeste",
+    "nom": "Cité céleste",
+    "top": []
+   },
+   {
+    "id": "end",
+    "nom": "L",
+    "top": []
+   },
+   {
+    "id": "prisme",
+    "nom": "Prisme",
     "top": []
    }
   ],
@@ -227,5 +302,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-19T18:07"
+ "maj": "2026-10-19T22:07"
 }
