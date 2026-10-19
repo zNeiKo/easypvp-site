@@ -1,9 +1,11 @@
 // Classements : lit assets/classements.json (publie toutes les heures par le serveur) et affiche
 // un onglet par jeu. Un classement vide invite a prendre la premiere place.
 (function () {
-  const ONGLETS = ["uhc", "practice", "skyblock", "niveau"];
+  const ONGLETS = ["uhc", "practice", "skyblock", "dropper", "niveau"];
   const nb = (n) => Number(n).toLocaleString("fr-FR");
   const pluriel = (n, mot) => nb(n) + " " + mot + (n > 1 ? "s" : "");
+  const chrono = (ms) => ms < 60000 ? (ms / 1000).toLocaleString("fr-FR", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " s"
+    : Math.floor(ms / 60000) + ":" + ((ms % 60000) / 1000).toLocaleString("fr-FR", { minimumIntegerDigits: 2, minimumFractionDigits: 2, maximumFractionDigits: 2 });
   const echapper = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
   function carte(titre, sousTitre, lignes, valeur, vide) {
@@ -45,6 +47,10 @@
       .concat(pr.kits.map((k) => carte(k.kit, "ELO classé", k.top, (l) => nb(l.valeur) + " ELO"))));
     grille("p-skyblock", [carte("Les plus belles îles", "Valeur de l'île, comme /is top", d.skyblock || [],
       (l) => nb(l.valeur) + " pts")]);
+    const dr = d.dropper || { complet: [], maps: [], victoires: [] };
+    grille("p-dropper", [carte("Parcours complet", "Les 5 maps d'affilée", dr.complet, (l) => chrono(l.valeur)),
+      carte("Victoires en course", "Courses à plusieurs", dr.victoires, (l) => pluriel(l.valeur, "victoire"))]
+      .concat(dr.maps.map((m) => carte(m.nom, "Meilleurs temps", m.top, (l) => chrono(l.valeur)))));
     grille("p-niveau", [carte("Niveau réseau", "Tous serveurs confondus", d.niveau || [],
       (l) => "Niv. " + nb(l.valeur) + (l.titre ? ` <small>${echapper(l.titre)}</small>` : ""),
       "Le niveau réseau arrive bientôt : chaque partie, chaque kill et chaque quête te feront monter.")]);

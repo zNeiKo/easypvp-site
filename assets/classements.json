@@ -152,6 +152,37 @@
    "valeur": 168
   }
  ],
+ "dropper": {
+  "complet": [],
+  "maps": [
+   {
+    "id": "glacier",
+    "nom": "Glacier",
+    "top": []
+   },
+   {
+    "id": "jungle",
+    "nom": "Temple de la jungle",
+    "top": []
+   },
+   {
+    "id": "bibliotheque",
+    "nom": "Bibliothèque",
+    "top": []
+   },
+   {
+    "id": "nether",
+    "nom": "Nether",
+    "top": []
+   },
+   {
+    "id": "celeste",
+    "nom": "Cité céleste",
+    "top": []
+   }
+  ],
+  "victoires": []
+ },
  "niveau": [
   {
    "nom": "Frelon111",
@@ -190,5 +221,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-18T23:07"
+ "maj": "2026-10-19T17:18"
 }
