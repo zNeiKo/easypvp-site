@@ -4,8 +4,8 @@
   const ONGLETS = ["uhc", "practice", "skyblock", "dropper", "niveau"];
   const nb = (n) => Number(n).toLocaleString("fr-FR");
   const pluriel = (n, mot) => nb(n) + " " + mot + (n > 1 ? "s" : "");
-  const chrono = (ms) => ms < 60000 ? (ms / 1000).toLocaleString("fr-FR", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " s"
-    : Math.floor(ms / 60000) + ":" + ((ms % 60000) / 1000).toLocaleString("fr-FR", { minimumIntegerDigits: 2, minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  const chrono = (ms) => ms < 60000 ? (ms / 1000).toLocaleString("fr-FR", { minimumFractionDigits: 3, maximumFractionDigits: 3 }) + " s"
+    : Math.floor(ms / 60000) + ":" + ((ms % 60000) / 1000).toLocaleString("fr-FR", { minimumIntegerDigits: 2, minimumFractionDigits: 3, maximumFractionDigits: 3 });
   const echapper = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
   function carte(titre, sousTitre, lignes, valeur, vide) {
