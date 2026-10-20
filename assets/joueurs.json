@@ -69,8 +69,81 @@
 "vu": "2026-09-30"
 },
 "ep_byby": {
+"dropper": [
+{
+"id": "glacier",
+"nom": "Glacier",
+"rang": 2,
+"sur": 2,
+"temps": 4710
+},
+{
+"id": "end",
+"nom": "L'End",
+"rang": 1,
+"sur": 1,
+"temps": 4809
+},
+{
+"id": "prisme",
+"nom": "Prisme",
+"rang": 1,
+"sur": 2,
+"temps": 4711
+},
+{
+"id": "j1",
+"nom": "Map de NeiKoTV (map de joueur)",
+"rang": 2,
+"sur": 2,
+"temps": 4811
+},
+{
+"id": "j2",
+"nom": "ez en vrai (map de joueur)",
+"rang": 1,
+"sur": 1,
+"temps": 4897
+}
+],
+"entrainement": [
+{
+"nom": "Clutch",
+"rang": 1,
+"score": 2
+},
+{
+"nom": "Combos",
+"rang": 2,
+"score": 177
+},
+{
+"nom": "Sauvetage au seau",
+"rang": 1,
+"score": 9
+}
+],
 "grade": "Owner",
+"maps": [
+{
+"essais": 14,
+"jaime": 0,
+"nom": "ez en vrai"
+}
+],
+"niveau": {
+"dans": 196,
+"niveau": 6,
+"pour": 225,
+"rang": 2,
+"titre": "Novice",
+"xp": 946
+},
 "nom": "EP_ByBy",
+"passeport": {
+"etapes": 6,
+"fini": true
+},
 "practice": {
 "elo": {
 "Archer": 993,
@@ -98,7 +171,13 @@
 }
 ]
 },
-"vu": "2026-10-12"
+"vagues": {
+"mois": {
+"2026-10": 9
+},
+"record": 9
+},
+"vu": "2026-10-20"
 },
 "eryt953": {
 "nom": "eryt953",
@@ -199,7 +278,7 @@
 "dans": 6,
 "niveau": 1,
 "pour": 100,
-"rang": 6,
+"rang": 7,
 "titre": "Novice",
 "xp": 6
 },
@@ -238,7 +317,7 @@
 "dans": 10,
 "niveau": 1,
 "pour": 100,
-"rang": 4,
+"rang": 5,
 "titre": "Novice",
 "xp": 10
 },
@@ -270,7 +349,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 8,
+"rang": 9,
 "titre": "Novice",
 "xp": 2
 },
@@ -297,7 +376,7 @@
 "id": "glacier",
 "nom": "Glacier",
 "rang": 1,
-"sur": 1,
+"sur": 2,
 "temps": 4701
 },
 {
@@ -331,15 +410,15 @@
 {
 "id": "prisme",
 "nom": "Prisme",
-"rang": 1,
-"sur": 1,
+"rang": 2,
+"sur": 2,
 "temps": 4812
 },
 {
 "id": "j1",
 "nom": "Map de NeiKoTV (map de joueur)",
 "rang": 1,
-"sur": 1,
+"sur": 2,
 "temps": 4799
 }
 ],
@@ -351,15 +430,15 @@
 },
 {
 "nom": "Sauvetage au seau",
-"rang": 1,
+"rang": 2,
 "score": 8
 }
 ],
 "grade": "Owner",
 "maps": [
 {
-"essais": 4,
-"jaime": 0,
+"essais": 10,
+"jaime": 1,
 "nom": "Map de NeiKoTV"
 }
 ],
@@ -367,7 +446,7 @@
 "dans": 101,
 "niveau": 5,
 "pour": 200,
-"rang": 2,
+"rang": 3,
 "titre": "Novice",
 "xp": 651
 },
@@ -403,7 +482,7 @@
 "dans": 10,
 "niveau": 1,
 "pour": 100,
-"rang": 5,
+"rang": 6,
 "titre": "Novice",
 "xp": 10
 },
@@ -440,7 +519,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 7,
+"rang": 8,
 "titre": "Novice",
 "xp": 2
 },
@@ -491,7 +570,7 @@
 "dans": 25,
 "niveau": 3,
 "pour": 150,
-"rang": 3,
+"rang": 4,
 "titre": "Novice",
 "xp": 250
 },

@@ -231,6 +231,10 @@
      {
       "nom": "NeiKoTV",
       "valeur": 4701
+     },
+     {
+      "nom": "EP_ByBy",
+      "valeur": 4710
      }
     ]
    },
@@ -292,12 +296,21 @@
    {
     "id": "end",
     "nom": "L'End",
-    "top": []
+    "top": [
+     {
+      "nom": "EP_ByBy",
+      "valeur": 4809
+     }
+    ]
    },
    {
     "id": "prisme",
     "nom": "Prisme",
     "top": [
+     {
+      "nom": "EP_ByBy",
+      "valeur": 4711
+     },
      {
       "nom": "NeiKoTV",
       "valeur": 4812
@@ -306,7 +319,13 @@
    }
   ],
   "victoires": [],
-  "joueurs": []
+  "joueurs": [
+   {
+    "nom": "NeiKoTV",
+    "map": "Map de NeiKoTV",
+    "valeur": 1
+   }
+  ]
  },
  "niveau": [
   {
@@ -314,6 +333,12 @@
    "valeur": 10,
    "xp": 1987,
    "titre": "Apprenti"
+  },
+  {
+   "nom": "EP_ByBy",
+   "valeur": 6,
+   "xp": 946,
+   "titre": "Novice"
   },
   {
    "nom": "NeiKoTV",
@@ -358,5 +383,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-19T23:45"
+ "maj": "2026-10-20T11:07"
 }
