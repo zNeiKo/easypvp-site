@@ -336,6 +336,9 @@
 "nom": "mikaljackson_fan",
 "vu": "2026-10-17"
 },
+"mistblue_": {
+"nom": "mistblue_"
+},
 "modxyor": {
 "nom": "Modxyor",
 "vu": "2026-10-10"
@@ -450,16 +453,16 @@
 }
 ],
 "niveau": {
-"dans": 11,
-"niveau": 6,
-"pour": 225,
+"dans": 38,
+"niveau": 7,
+"pour": 250,
 "rang": 3,
 "titre": "Novice",
-"xp": 761
+"xp": 1013
 },
 "nom": "NeiKoTV",
 "passeport": {
-"etapes": 3,
+"etapes": 4,
 "fini": false
 },
 "practice": {
@@ -486,7 +489,7 @@
 "morts": 1,
 "victoires": []
 },
-"vu": "2026-10-20"
+"vu": "2026-10-21"
 },
 "ninjabowlmc": {
 "niveau": {
