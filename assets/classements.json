@@ -211,6 +211,10 @@
   }
  ],
  "dropper": {
+  "semaine": {
+   "nom": "Mine abandonnée",
+   "top": []
+  },
   "complet": [
    {
     "nom": "NeiKoTV",
@@ -388,5 +392,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-20T20:07"
+ "maj": "2026-10-20T20:24"
 }
