@@ -80,14 +80,14 @@
 {
 "id": "end",
 "nom": "L'End",
-"rang": 1,
-"sur": 1,
+"rang": 2,
+"sur": 2,
 "temps": 4809
 },
 {
 "id": "prisme",
 "nom": "Prisme",
-"rang": 1,
+"rang": 2,
 "sur": 2,
 "temps": 4711
 },
@@ -135,7 +135,7 @@
 "dans": 71,
 "niveau": 7,
 "pour": 250,
-"rang": 2,
+"rang": 3,
 "titre": "Novice",
 "xp": 1046
 },
@@ -411,11 +411,18 @@
 "temps": 4791
 },
 {
+"id": "end",
+"nom": "L'End",
+"rang": 1,
+"sur": 2,
+"temps": 4711
+},
+{
 "id": "prisme",
 "nom": "Prisme",
-"rang": 2,
+"rang": 1,
 "sur": 2,
-"temps": 4812
+"temps": 4711
 },
 {
 "id": "j1",
@@ -430,6 +437,13 @@
 "rang": 1,
 "sur": 2,
 "temps": 4810
+},
+{
+"id": "s26-43",
+"nom": "s26-43",
+"rang": 1,
+"sur": 1,
+"temps": 4710
 }
 ],
 "entrainement": [
@@ -445,6 +459,11 @@
 }
 ],
 "grade": "Owner",
+"ile": {
+"nom": "neiko",
+"rang": 1,
+"valeur": 1006
+},
 "maps": [
 {
 "essais": 10,
@@ -453,17 +472,17 @@
 }
 ],
 "niveau": {
-"dans": 38,
-"niveau": 7,
-"pour": 250,
-"rang": 3,
-"titre": "Novice",
-"xp": 1013
+"dans": 35,
+"niveau": 10,
+"pour": 325,
+"rang": 2,
+"titre": "Apprenti",
+"xp": 1835
 },
 "nom": "NeiKoTV",
 "passeport": {
-"etapes": 4,
-"fini": false
+"etapes": 6,
+"fini": true
 },
 "practice": {
 "elo": {
@@ -488,6 +507,12 @@
 "kills": 0,
 "morts": 1,
 "victoires": []
+},
+"vagues": {
+"mois": {
+"2026-10": 14
+},
+"record": 14
 },
 "vu": "2026-10-21"
 },
@@ -652,8 +677,8 @@
 "grade": "Joueur",
 "ile": {
 "nom": "DIH",
-"rang": 1,
-"valeur": 168
+"rang": 2,
+"valeur": 248
 },
 "nom": "Wisteriashrim40",
 "vu": "2026-10-06"

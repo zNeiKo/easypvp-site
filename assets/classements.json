@@ -205,15 +205,25 @@
  },
  "skyblock": [
   {
+   "nom": "NeiKoTV",
+   "ile": "neiko",
+   "valeur": 1006
+  },
+  {
    "nom": "Wisteriashrim40",
    "ile": "DIH",
-   "valeur": 168
+   "valeur": 248
   }
  ],
  "dropper": {
   "semaine": {
    "nom": "Mine abandonnée",
-   "top": []
+   "top": [
+    {
+     "nom": "NeiKoTV",
+     "valeur": 4710
+    }
+   ]
   },
   "complet": [
    {
@@ -302,6 +312,10 @@
     "nom": "L'End",
     "top": [
      {
+      "nom": "NeiKoTV",
+      "valeur": 4711
+     },
+     {
       "nom": "EP_ByBy",
       "valeur": 4809
      }
@@ -317,7 +331,7 @@
      },
      {
       "nom": "NeiKoTV",
-      "valeur": 4812
+      "valeur": 4711
      }
     ]
    }
@@ -339,7 +353,7 @@
  "parcours": [
   {
    "nom": "NeiKoTV",
-   "valeur": 49099
+   "valeur": 44600
   }
  ],
  "niveau": [
@@ -350,15 +364,15 @@
    "titre": "Apprenti"
   },
   {
+   "nom": "NeiKoTV",
+   "valeur": 10,
+   "xp": 1835,
+   "titre": "Apprenti"
+  },
+  {
    "nom": "EP_ByBy",
    "valeur": 7,
    "xp": 1046,
-   "titre": "Novice"
-  },
-  {
-   "nom": "NeiKoTV",
-   "valeur": 7,
-   "xp": 1013,
    "titre": "Novice"
   },
   {
@@ -398,5 +412,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-21T00:07"
+ "maj": "2026-10-21T00:41"
 }
