@@ -462,7 +462,7 @@
 "ile": {
 "nom": "neiko",
 "rang": 1,
-"valeur": 1006
+"valeur": 1007
 },
 "maps": [
 {
@@ -472,12 +472,12 @@
 }
 ],
 "niveau": {
-"dans": 35,
+"dans": 51,
 "niveau": 10,
 "pour": 325,
 "rang": 2,
 "titre": "Apprenti",
-"xp": 1835
+"xp": 1851
 },
 "nom": "NeiKoTV",
 "passeport": {

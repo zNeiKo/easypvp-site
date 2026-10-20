@@ -207,7 +207,7 @@
   {
    "nom": "NeiKoTV",
    "ile": "neiko",
-   "valeur": 1006
+   "valeur": 1007
   },
   {
    "nom": "Wisteriashrim40",
@@ -366,7 +366,7 @@
   {
    "nom": "NeiKoTV",
    "valeur": 10,
-   "xp": 1835,
+   "xp": 1851,
    "titre": "Apprenti"
   },
   {
@@ -412,5 +412,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-21T00:41"
+ "maj": "2026-10-21T01:07"
 }
