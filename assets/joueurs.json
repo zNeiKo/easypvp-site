@@ -120,7 +120,7 @@
 {
 "nom": "Sauvetage au seau",
 "rang": 1,
-"score": 9
+"score": 14
 }
 ],
 "grade": "Owner",
@@ -132,12 +132,12 @@
 }
 ],
 "niveau": {
-"dans": 196,
-"niveau": 6,
-"pour": 225,
+"dans": 69,
+"niveau": 7,
+"pour": 250,
 "rang": 2,
 "titre": "Novice",
-"xp": 946
+"xp": 1044
 },
 "nom": "EP_ByBy",
 "passeport": {
