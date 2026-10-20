@@ -321,6 +321,11 @@
   "victoires": [],
   "joueurs": [
    {
+    "nom": "EP_ByBy",
+    "map": "ez en vrai",
+    "valeur": 1
+   },
+   {
     "nom": "NeiKoTV",
     "map": "Map de NeiKoTV",
     "valeur": 1
@@ -342,8 +347,8 @@
   },
   {
    "nom": "NeiKoTV",
-   "valeur": 5,
-   "xp": 651,
+   "valeur": 6,
+   "xp": 761,
    "titre": "Novice"
   },
   {
@@ -383,5 +388,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-20T16:07"
+ "maj": "2026-10-20T20:07"
 }

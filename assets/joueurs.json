@@ -101,8 +101,8 @@
 {
 "id": "j2",
 "nom": "ez en vrai (map de joueur)",
-"rang": 1,
-"sur": 1,
+"rang": 2,
+"sur": 2,
 "temps": 4897
 }
 ],
@@ -115,7 +115,7 @@
 {
 "nom": "Combos",
 "rang": 2,
-"score": 177
+"score": 181
 },
 {
 "nom": "Sauvetage au seau",
@@ -126,8 +126,8 @@
 "grade": "Owner",
 "maps": [
 {
-"essais": 14,
-"jaime": 0,
+"essais": 76,
+"jaime": 1,
 "nom": "ez en vrai"
 }
 ],
@@ -420,6 +420,13 @@
 "rang": 1,
 "sur": 2,
 "temps": 4799
+},
+{
+"id": "j2",
+"nom": "ez en vrai (map de joueur)",
+"rang": 1,
+"sur": 2,
+"temps": 4810
 }
 ],
 "entrainement": [
@@ -443,14 +450,18 @@
 }
 ],
 "niveau": {
-"dans": 101,
-"niveau": 5,
-"pour": 200,
+"dans": 11,
+"niveau": 6,
+"pour": 225,
 "rang": 3,
 "titre": "Novice",
-"xp": 651
+"xp": 761
 },
 "nom": "NeiKoTV",
+"passeport": {
+"etapes": 3,
+"fini": false
+},
 "practice": {
 "elo": {
 "BuildUHC": 1060,
@@ -475,7 +486,7 @@
 "morts": 1,
 "victoires": []
 },
-"vu": "2026-10-19"
+"vu": "2026-10-20"
 },
 "ninjabowlmc": {
 "niveau": {
