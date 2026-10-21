@@ -207,12 +207,17 @@
   {
    "nom": "NeiKoTV",
    "ile": "neiko",
-   "valeur": 1007
+   "valeur": 1064
   },
   {
    "nom": "Wisteriashrim40",
    "ile": "DIH",
    "valeur": 248
+  },
+  {
+   "nom": "EP_ByBy",
+   "ile": "bibouze",
+   "valeur": 69
   }
  ],
  "dropper": {
@@ -353,7 +358,7 @@
  "parcours": [
   {
    "nom": "NeiKoTV",
-   "valeur": 44600
+   "valeur": 39821
   }
  ],
  "niveau": [
@@ -366,13 +371,13 @@
   {
    "nom": "NeiKoTV",
    "valeur": 10,
-   "xp": 1853,
+   "xp": 1914,
    "titre": "Apprenti"
   },
   {
    "nom": "EP_ByBy",
-   "valeur": 7,
-   "xp": 1094,
+   "valeur": 8,
+   "xp": 1259,
    "titre": "Novice"
   },
   {
@@ -412,5 +417,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-21T03:07"
+ "maj": "2026-10-21T03:52"
 }

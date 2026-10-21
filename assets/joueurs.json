@@ -124,6 +124,11 @@
 }
 ],
 "grade": "Owner",
+"ile": {
+"nom": "bibouze",
+"rang": 3,
+"valeur": 69
+},
 "maps": [
 {
 "essais": 76,
@@ -132,12 +137,12 @@
 }
 ],
 "niveau": {
-"dans": 119,
-"niveau": 7,
-"pour": 250,
+"dans": 34,
+"niveau": 8,
+"pour": 275,
 "rang": 3,
 "titre": "Novice",
-"xp": 1094
+"xp": 1259
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -462,7 +467,7 @@
 "ile": {
 "nom": "neiko",
 "rang": 1,
-"valeur": 1007
+"valeur": 1064
 },
 "maps": [
 {
@@ -472,12 +477,12 @@
 }
 ],
 "niveau": {
-"dans": 53,
+"dans": 114,
 "niveau": 10,
 "pour": 325,
 "rang": 2,
 "titre": "Apprenti",
-"xp": 1853
+"xp": 1914
 },
 "nom": "NeiKoTV",
 "passeport": {
