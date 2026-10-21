@@ -207,17 +207,17 @@
   {
    "nom": "NeiKoTV",
    "ile": "neiko",
-   "valeur": 1827
+   "valeur": 1738
+  },
+  {
+   "nom": "EP_ByBy",
+   "ile": "bibouze",
+   "valeur": 512
   },
   {
    "nom": "Wisteriashrim40",
    "ile": "DIH",
    "valeur": 248
-  },
-  {
-   "nom": "EP_ByBy",
-   "ile": "bibouze",
-   "valeur": 36
   }
  ],
  "dropper": {
@@ -388,7 +388,7 @@
   {
    "nom": "NeiKoTV",
    "valeur": 11,
-   "xp": 2323,
+   "xp": 2457,
    "titre": "Apprenti"
   },
   {
@@ -399,9 +399,9 @@
   },
   {
    "nom": "EP_ByBy",
-   "valeur": 9,
-   "xp": 1779,
-   "titre": "Novice"
+   "valeur": 10,
+   "xp": 1817,
+   "titre": "Apprenti"
   },
   {
    "nom": "thimote0270",
@@ -446,5 +446,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-21T20:07"
+ "maj": "2026-10-21T21:07"
 }

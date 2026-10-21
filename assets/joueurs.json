@@ -139,8 +139,8 @@
 "grade": "Owner",
 "ile": {
 "nom": "bibouze",
-"rang": 3,
-"valeur": 36
+"rang": 2,
+"valeur": 512
 },
 "maps": [
 {
@@ -150,12 +150,12 @@
 }
 ],
 "niveau": {
-"dans": 279,
-"niveau": 9,
-"pour": 300,
+"dans": 17,
+"niveau": 10,
+"pour": 325,
 "rang": 3,
-"titre": "Novice",
-"xp": 1779
+"titre": "Apprenti",
+"xp": 1817
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -486,7 +486,7 @@
 "ile": {
 "nom": "neiko",
 "rang": 1,
-"valeur": 1827
+"valeur": 1738
 },
 "maps": [
 {
@@ -496,12 +496,12 @@
 }
 ],
 "niveau": {
-"dans": 198,
+"dans": 332,
 "niveau": 11,
 "pour": 350,
 "rang": 1,
 "titre": "Apprenti",
-"xp": 2323
+"xp": 2457
 },
 "nom": "NeiKoTV",
 "passeport": {
@@ -717,7 +717,7 @@
 "grade": "Joueur",
 "ile": {
 "nom": "DIH",
-"rang": 2,
+"rang": 3,
 "valeur": 248
 },
 "nom": "Wisteriashrim40",
