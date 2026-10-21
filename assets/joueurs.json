@@ -104,6 +104,13 @@
 "rang": 2,
 "sur": 2,
 "temps": 4897
+},
+{
+"id": "s26-43",
+"nom": "s26-43",
+"rang": 2,
+"sur": 2,
+"temps": 4710
 }
 ],
 "entrainement": [
@@ -131,18 +138,18 @@
 },
 "maps": [
 {
-"essais": 76,
+"essais": 81,
 "jaime": 1,
 "nom": "ez en vrai"
 }
 ],
 "niveau": {
-"dans": 52,
+"dans": 140,
 "niveau": 9,
 "pour": 300,
 "rang": 3,
 "titre": "Novice",
-"xp": 1552
+"xp": 1640
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -447,7 +454,7 @@
 "id": "s26-43",
 "nom": "s26-43",
 "rang": 1,
-"sur": 1,
+"sur": 2,
 "temps": 4710
 }
 ],
