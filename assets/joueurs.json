@@ -134,7 +134,7 @@
 "ile": {
 "nom": "bibouze",
 "rang": 3,
-"valeur": 69
+"valeur": 36
 },
 "maps": [
 {
@@ -144,12 +144,12 @@
 }
 ],
 "niveau": {
-"dans": 140,
+"dans": 243,
 "niveau": 9,
 "pour": 300,
 "rang": 3,
 "titre": "Novice",
-"xp": 1640
+"xp": 1743
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -205,7 +205,7 @@
 "dans": 187,
 "niveau": 10,
 "pour": 325,
-"rang": 1,
+"rang": 2,
 "titre": "Apprenti",
 "xp": 1987
 },
@@ -474,7 +474,7 @@
 "ile": {
 "nom": "neiko",
 "rang": 1,
-"valeur": 1064
+"valeur": 1454
 },
 "maps": [
 {
@@ -484,12 +484,12 @@
 }
 ],
 "niveau": {
-"dans": 114,
+"dans": 189,
 "niveau": 10,
 "pour": 325,
-"rang": 2,
+"rang": 1,
 "titre": "Apprenti",
-"xp": 1914
+"xp": 1989
 },
 "nom": "NeiKoTV",
 "passeport": {
