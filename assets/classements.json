@@ -370,6 +370,7 @@
   }
  ],
  "cachecache": {
+  "points": [],
   "chercheurs": [],
   "cacheurs": [
    {
@@ -446,5 +447,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-21T22:07"
+ "maj": "2026-10-21T22:36"
 }

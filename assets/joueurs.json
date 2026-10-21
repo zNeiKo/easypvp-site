@@ -71,6 +71,7 @@
 "ep_byby": {
 "cachecache": {
 "parties": 1,
+"points": 0,
 "survies": 1,
 "trouves": 0,
 "victoires": 1
@@ -380,6 +381,7 @@
 "neikotv": {
 "cachecache": {
 "parties": 1,
+"points": 0,
 "survies": 0,
 "trouves": 0,
 "victoires": 0
