@@ -377,7 +377,7 @@
   {
    "nom": "EP_ByBy",
    "valeur": 8,
-   "xp": 1416,
+   "xp": 1444,
    "titre": "Novice"
   },
   {
@@ -405,7 +405,7 @@
    "titre": "Novice"
   },
   {
-   "nom": "slaiser_12",
+   "nom": "VulturesOne",
    "valeur": 1,
    "xp": 2,
    "titre": "Novice"
@@ -415,7 +415,13 @@
    "valeur": 1,
    "xp": 2,
    "titre": "Novice"
+  },
+  {
+   "nom": "slaiser_12",
+   "valeur": 1,
+   "xp": 2,
+   "titre": "Novice"
   }
  ],
- "maj": "2026-10-21T11:07"
+ "maj": "2026-10-21T14:07"
 }

@@ -137,12 +137,12 @@
 }
 ],
 "niveau": {
-"dans": 191,
+"dans": 219,
 "niveau": 8,
 "pour": 275,
 "rang": 3,
 "titre": "Novice",
-"xp": 1416
+"xp": 1444
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -673,6 +673,22 @@
 "victoires": 0
 },
 "vu": "2020-05-22"
+},
+"vulturesone": {
+"niveau": {
+"dans": 2,
+"niveau": 1,
+"pour": 100,
+"rang": 10,
+"titre": "Novice",
+"xp": 2
+},
+"nom": "VulturesOne",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-21"
 },
 "warui_": {
 "nom": "Warui_",
