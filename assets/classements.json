@@ -369,11 +369,16 @@
    "valeur": 39821
   }
  ],
+ "cachecache": {
+  "chercheurs": [],
+  "cacheurs": [],
+  "victoires": []
+ },
  "niveau": [
   {
    "nom": "NeiKoTV",
    "valeur": 10,
-   "xp": 1989,
+   "xp": 1991,
    "titre": "Apprenti"
   },
   {
@@ -385,7 +390,7 @@
   {
    "nom": "EP_ByBy",
    "valeur": 9,
-   "xp": 1743,
+   "xp": 1745,
    "titre": "Novice"
   },
   {
@@ -431,5 +436,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-21T18:07"
+ "maj": "2026-10-21T19:14"
 }

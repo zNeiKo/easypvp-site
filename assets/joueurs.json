@@ -144,12 +144,12 @@
 }
 ],
 "niveau": {
-"dans": 243,
+"dans": 245,
 "niveau": 9,
 "pour": 300,
 "rang": 3,
 "titre": "Novice",
-"xp": 1743
+"xp": 1745
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -484,12 +484,12 @@
 }
 ],
 "niveau": {
-"dans": 189,
+"dans": 191,
 "niveau": 10,
 "pour": 325,
 "rang": 1,
 "titre": "Apprenti",
-"xp": 1989
+"xp": 1991
 },
 "nom": "NeiKoTV",
 "passeport": {
