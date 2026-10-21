@@ -366,13 +366,13 @@
   {
    "nom": "NeiKoTV",
    "valeur": 10,
-   "xp": 1851,
+   "xp": 1853,
    "titre": "Apprenti"
   },
   {
    "nom": "EP_ByBy",
    "valeur": 7,
-   "xp": 1046,
+   "xp": 1094,
    "titre": "Novice"
   },
   {
@@ -412,5 +412,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-21T01:07"
+ "maj": "2026-10-21T03:07"
 }

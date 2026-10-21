@@ -132,12 +132,12 @@
 }
 ],
 "niveau": {
-"dans": 71,
+"dans": 119,
 "niveau": 7,
 "pour": 250,
 "rang": 3,
 "titre": "Novice",
-"xp": 1046
+"xp": 1094
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -177,7 +177,7 @@
 },
 "record": 9
 },
-"vu": "2026-10-20"
+"vu": "2026-10-21"
 },
 "eryt953": {
 "nom": "eryt953",
@@ -472,12 +472,12 @@
 }
 ],
 "niveau": {
-"dans": 51,
+"dans": 53,
 "niveau": 10,
 "pour": 325,
 "rang": 2,
 "titre": "Apprenti",
-"xp": 1851
+"xp": 1853
 },
 "nom": "NeiKoTV",
 "passeport": {
