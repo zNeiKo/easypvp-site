@@ -69,6 +69,12 @@
 "vu": "2026-09-30"
 },
 "ep_byby": {
+"cachecache": {
+"parties": 1,
+"survies": 1,
+"trouves": 0,
+"victoires": 1
+},
 "dropper": [
 {
 "id": "glacier",
@@ -144,12 +150,12 @@
 }
 ],
 "niveau": {
-"dans": 245,
+"dans": 279,
 "niveau": 9,
 "pour": 300,
 "rang": 3,
 "titre": "Novice",
-"xp": 1745
+"xp": 1779
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -372,6 +378,12 @@
 "vu": "2026-10-18"
 },
 "neikotv": {
+"cachecache": {
+"parties": 1,
+"survies": 0,
+"trouves": 0,
+"victoires": 0
+},
 "dropper": [
 {
 "id": "marathon",
@@ -474,7 +486,7 @@
 "ile": {
 "nom": "neiko",
 "rang": 1,
-"valeur": 1454
+"valeur": 1827
 },
 "maps": [
 {
@@ -484,12 +496,12 @@
 }
 ],
 "niveau": {
-"dans": 191,
-"niveau": 10,
-"pour": 325,
+"dans": 198,
+"niveau": 11,
+"pour": 350,
 "rang": 1,
 "titre": "Apprenti",
-"xp": 1991
+"xp": 2323
 },
 "nom": "NeiKoTV",
 "passeport": {

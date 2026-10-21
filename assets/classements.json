@@ -207,7 +207,7 @@
   {
    "nom": "NeiKoTV",
    "ile": "neiko",
-   "valeur": 1454
+   "valeur": 1827
   },
   {
    "nom": "Wisteriashrim40",
@@ -371,14 +371,24 @@
  ],
  "cachecache": {
   "chercheurs": [],
-  "cacheurs": [],
-  "victoires": []
+  "cacheurs": [
+   {
+    "nom": "EP_ByBy",
+    "valeur": 1
+   }
+  ],
+  "victoires": [
+   {
+    "nom": "EP_ByBy",
+    "valeur": 1
+   }
+  ]
  },
  "niveau": [
   {
    "nom": "NeiKoTV",
-   "valeur": 10,
-   "xp": 1991,
+   "valeur": 11,
+   "xp": 2323,
    "titre": "Apprenti"
   },
   {
@@ -390,7 +400,7 @@
   {
    "nom": "EP_ByBy",
    "valeur": 9,
-   "xp": 1745,
+   "xp": 1779,
    "titre": "Novice"
   },
   {
@@ -436,5 +446,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-21T19:14"
+ "maj": "2026-10-21T20:07"
 }
