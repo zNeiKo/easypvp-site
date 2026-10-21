@@ -55,6 +55,8 @@
       (p.entrainement || []).forEach((e) => l.push([echapper(e.nom), "score " + nb(e.score) + " " + rang(e.rang)]));
       blocs.push(bloc("Vagues et entraînement", lignes(l)));
     }
+    if (p.cachecache) blocs.push(bloc("Cache-cache", lignes([["Parties", nb(p.cachecache.parties)], ["Victoires", nb(p.cachecache.victoires)],
+      ["Cacheurs trouvés", nb(p.cachecache.trouves)], ["Parties survécues (cacheur)", nb(p.cachecache.survies)]])));
     if (p.ile) blocs.push(bloc("Skyblock", lignes([["Île", echapper(p.ile.nom || "sans nom")], ["Valeur", nb(p.ile.valeur) + " pts " + rang(p.ile.rang)]])));
     if (p.uhc) blocs.push(bloc("UHC, Loup-Garou, Taupe Gun", lignes(p.uhc.victoires.map((v) => [echapper(v.mode), pl(v.victoires, "victoire")])
       .concat([["Éliminations", nb(p.uhc.kills)], ["Morts", nb(p.uhc.morts)]]))));

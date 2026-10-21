@@ -1,7 +1,7 @@
 // Classements : lit assets/classements.json (publie toutes les heures par le serveur) et affiche
 // un onglet par jeu. Un classement vide invite a prendre la premiere place.
 (function () {
-  const ONGLETS = ["uhc", "practice", "skyblock", "dropper", "parcours", "niveau"];
+  const ONGLETS = ["uhc", "practice", "skyblock", "dropper", "cachecache", "parcours", "niveau"];
   const nb = (n) => Number(n).toLocaleString("fr-FR");
   const pluriel = (n, mot) => nb(n) + " " + mot + (n > 1 ? "s" : "");
   const chrono = (ms) => ms < 60000 ? (ms / 1000).toLocaleString("fr-FR", { minimumFractionDigits: 3, maximumFractionDigits: 3 }) + " s"
@@ -57,6 +57,11 @@
         (l) => `${echapper(l.map)} <small>${pluriel(l.valeur, "j'aime")}</small>`,
         "Aucune map publiée pour l'instant : crée la tienne à l'atelier du Dropper !")]
       .concat(dr.maps.map((m) => carte(m.nom, "Meilleurs temps", m.top, (l) => chrono(l.valeur))))));
+    const cc = d.cachecache || { chercheurs: [], cacheurs: [], victoires: [] };
+    const ccVide = "Pas encore de partie : rejoins le serveur Mini-jeux et entre dans le portail Cache-cache !";
+    grille("p-cachecache", [carte("Meilleurs chercheurs", "Cacheurs trouvés", cc.chercheurs, (l) => pluriel(l.valeur, "trouvé"), ccVide),
+      carte("Meilleurs cacheurs", "Parties survécues jusqu'au bout", cc.cacheurs, (l) => pluriel(l.valeur, "survie"), ccVide),
+      carte("Victoires", "Cacheurs et chercheurs", cc.victoires, (l) => pluriel(l.valeur, "victoire"), ccVide)]);
     grille("p-parcours", [carte("Parcours céleste", "Au-dessus du spawn du lobby", d.parcours || [], (l) => chrono(l.valeur),
       "Personne n'a encore atteint le sommet : entre dans le rayon de lumière près du spawn du lobby !")]);
     grille("p-niveau", [carte("Niveau réseau", "Tous serveurs confondus", d.niveau || [],
