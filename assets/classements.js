@@ -57,9 +57,10 @@
         (l) => `${echapper(l.map)} <small>${pluriel(l.valeur, "j'aime")}</small>`,
         "Aucune map publiée pour l'instant : crée la tienne à l'atelier du Dropper !")]
       .concat(dr.maps.map((m) => carte(m.nom, "Meilleurs temps", m.top, (l) => chrono(l.valeur))))));
-    const cc = d.cachecache || { chercheurs: [], cacheurs: [], victoires: [] };
+    const cc = d.cachecache || { points: [], chercheurs: [], cacheurs: [], victoires: [] };
     const ccVide = "Pas encore de partie : rejoins le serveur Mini-jeux et entre dans le portail Cache-cache !";
-    grille("p-cachecache", [carte("Meilleurs chercheurs", "Cacheurs trouvés", cc.chercheurs, (l) => pluriel(l.valeur, "trouvé"), ccVide),
+    grille("p-cachecache", [carte("Meilleurs scores", "Points gagnés en partie (taunts, survie, cacheurs trouvés)", cc.points || [], (l) => pluriel(l.valeur, "point"), ccVide),
+      carte("Meilleurs chercheurs", "Cacheurs trouvés", cc.chercheurs, (l) => pluriel(l.valeur, "trouvé"), ccVide),
       carte("Meilleurs cacheurs", "Parties survécues jusqu'au bout", cc.cacheurs, (l) => pluriel(l.valeur, "survie"), ccVide),
       carte("Victoires", "Cacheurs et chercheurs", cc.victoires, (l) => pluriel(l.valeur, "victoire"), ccVide)]);
     grille("p-parcours", [carte("Parcours céleste", "Au-dessus du spawn du lobby", d.parcours || [], (l) => chrono(l.valeur),
