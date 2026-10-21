@@ -357,6 +357,10 @@
  },
  "parcours": [
   {
+   "nom": "EP_ByBy",
+   "valeur": 38701
+  },
+  {
    "nom": "NeiKoTV",
    "valeur": 39821
   }
@@ -376,8 +380,8 @@
   },
   {
    "nom": "EP_ByBy",
-   "valeur": 8,
-   "xp": 1444,
+   "valeur": 9,
+   "xp": 1552,
    "titre": "Novice"
   },
   {
@@ -423,5 +427,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-21T14:07"
+ "maj": "2026-10-21T15:07"
 }

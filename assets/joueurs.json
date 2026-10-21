@@ -114,8 +114,8 @@
 },
 {
 "nom": "Combos",
-"rang": 2,
-"score": 181
+"rang": 1,
+"score": 195
 },
 {
 "nom": "Sauvetage au seau",
@@ -137,12 +137,12 @@
 }
 ],
 "niveau": {
-"dans": 219,
-"niveau": 8,
-"pour": 275,
+"dans": 52,
+"niveau": 9,
+"pour": 300,
 "rang": 3,
 "titre": "Novice",
-"xp": 1444
+"xp": 1552
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -454,7 +454,7 @@
 "entrainement": [
 {
 "nom": "Combos",
-"rang": 1,
+"rang": 2,
 "score": 182
 },
 {
