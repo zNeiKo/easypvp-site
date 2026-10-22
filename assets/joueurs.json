@@ -336,7 +336,7 @@
 "dans": 10,
 "niveau": 1,
 "pour": 100,
-"rang": 5,
+"rang": 6,
 "titre": "Novice",
 "xp": 10
 },
@@ -544,15 +544,19 @@
 },
 "ninjabowlmc": {
 "niveau": {
-"dans": 10,
-"niveau": 1,
-"pour": 100,
-"rang": 6,
+"dans": 18,
+"niveau": 2,
+"pour": 125,
+"rang": 5,
 "titre": "Novice",
-"xp": 10
+"xp": 118
 },
 "nom": "NinjaBowlMC",
-"vu": "2026-10-18"
+"passeport": {
+"etapes": 1,
+"fini": false
+},
+"vu": "2026-10-22"
 },
 "ouicestmoi52": {
 "nom": "ouiCestMoi52",

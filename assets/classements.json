@@ -411,13 +411,13 @@
    "titre": "Novice"
   },
   {
-   "nom": "Men0t",
-   "valeur": 1,
-   "xp": 10,
+   "nom": "NinjaBowlMC",
+   "valeur": 2,
+   "xp": 118,
    "titre": "Novice"
   },
   {
-   "nom": "NinjaBowlMC",
+   "nom": "Men0t",
    "valeur": 1,
    "xp": 10,
    "titre": "Novice"
@@ -447,5 +447,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-22T06:07"
+ "maj": "2026-10-22T09:07"
 }
