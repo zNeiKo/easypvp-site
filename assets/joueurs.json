@@ -151,12 +151,12 @@
 }
 ],
 "niveau": {
-"dans": 17,
+"dans": 93,
 "niveau": 10,
 "pour": 325,
 "rang": 3,
 "titre": "Apprenti",
-"xp": 1817
+"xp": 1893
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -196,7 +196,7 @@
 },
 "record": 9
 },
-"vu": "2026-10-21"
+"vu": "2026-10-22"
 },
 "eryt953": {
 "nom": "eryt953",
