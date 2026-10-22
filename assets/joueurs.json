@@ -204,7 +204,7 @@
 "ile": {
 "nom": "bibouze",
 "rang": 1,
-"valeur": 4990
+"valeur": 6432
 },
 "maps": [
 {
@@ -214,12 +214,12 @@
 }
 ],
 "niveau": {
-"dans": 24,
+"dans": 219,
 "niveau": 12,
 "pour": 375,
 "rang": 1,
 "titre": "Apprenti",
-"xp": 2499
+"xp": 2694
 },
 "nom": "EP_ByBy",
 "passeport": {

@@ -207,7 +207,7 @@
   {
    "nom": "EP_ByBy",
    "ile": "bibouze",
-   "valeur": 4990
+   "valeur": 6432
   },
   {
    "nom": "NeiKoTV",
@@ -428,7 +428,7 @@
   {
    "nom": "EP_ByBy",
    "valeur": 12,
-   "xp": 2499,
+   "xp": 2694,
    "titre": "Apprenti"
   },
   {
@@ -486,5 +486,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-22T12:07"
+ "maj": "2026-10-22T14:07"
 }
