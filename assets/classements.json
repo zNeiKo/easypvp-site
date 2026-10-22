@@ -205,14 +205,14 @@
  },
  "skyblock": [
   {
+   "nom": "EP_ByBy",
+   "ile": "bibouze",
+   "valeur": 4990
+  },
+  {
    "nom": "NeiKoTV",
    "ile": "neiko",
    "valeur": 1710
-  },
-  {
-   "nom": "EP_ByBy",
-   "ile": "bibouze",
-   "valeur": 1141
   },
   {
    "nom": "Wisteriashrim40",
@@ -236,11 +236,19 @@
   },
   "complet": [
    {
+    "nom": "EP_ByBy",
+    "valeur": 32011
+   },
+   {
     "nom": "NeiKoTV",
     "valeur": 43916
    }
   ],
   "marathon": [
+   {
+    "nom": "EP_ByBy",
+    "valeur": 70912
+   },
    {
     "nom": "NeiKoTV",
     "valeur": 126779
@@ -268,6 +276,10 @@
      {
       "nom": "NeiKoTV",
       "valeur": 4700
+     },
+     {
+      "nom": "EP_ByBy",
+      "valeur": 4811
      }
     ]
    },
@@ -278,13 +290,22 @@
      {
       "nom": "NeiKoTV",
       "valeur": 4700
+     },
+     {
+      "nom": "EP_ByBy",
+      "valeur": 4711
      }
     ]
    },
    {
     "id": "bibliotheque",
     "nom": "Bibliothèque",
-    "top": []
+    "top": [
+     {
+      "nom": "EP_ByBy",
+      "valeur": 4810
+     }
+    ]
    },
    {
     "id": "mine",
@@ -293,18 +314,31 @@
      {
       "nom": "NeiKoTV",
       "valeur": 4712
+     },
+     {
+      "nom": "EP_ByBy",
+      "valeur": 4810
      }
     ]
    },
    {
     "id": "nether",
     "nom": "Nether",
-    "top": []
+    "top": [
+     {
+      "nom": "EP_ByBy",
+      "valeur": 4811
+     }
+    ]
    },
    {
     "id": "abysses",
     "nom": "Abysses",
     "top": [
+     {
+      "nom": "EP_ByBy",
+      "valeur": 4712
+     },
      {
       "nom": "NeiKoTV",
       "valeur": 4791
@@ -314,7 +348,12 @@
    {
     "id": "celeste",
     "nom": "Cité céleste",
-    "top": []
+    "top": [
+     {
+      "nom": "EP_ByBy",
+      "valeur": 4710
+     }
+    ]
    },
    {
     "id": "end",
@@ -387,6 +426,12 @@
  },
  "niveau": [
   {
+   "nom": "EP_ByBy",
+   "valeur": 12,
+   "xp": 2499,
+   "titre": "Apprenti"
+  },
+  {
    "nom": "NeiKoTV",
    "valeur": 11,
    "xp": 2457,
@@ -396,12 +441,6 @@
    "nom": "Frelon111",
    "valeur": 10,
    "xp": 1987,
-   "titre": "Apprenti"
-  },
-  {
-   "nom": "EP_ByBy",
-   "valeur": 10,
-   "xp": 1893,
    "titre": "Apprenti"
   },
   {
@@ -447,5 +486,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-22T11:07"
+ "maj": "2026-10-22T12:07"
 }
