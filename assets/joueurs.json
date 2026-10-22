@@ -203,8 +203,8 @@
 "grade": "Owner",
 "ile": {
 "nom": "bibouze",
-"rang": 1,
-"valeur": 6432
+"rang": 2,
+"valeur": 6391
 },
 "maps": [
 {
@@ -550,8 +550,8 @@
 "grade": "Owner",
 "ile": {
 "nom": "neiko",
-"rang": 2,
-"valeur": 1710
+"rang": 1,
+"valeur": 25150
 },
 "maps": [
 {
@@ -561,12 +561,12 @@
 }
 ],
 "niveau": {
-"dans": 332,
-"niveau": 11,
-"pour": 350,
+"dans": 85,
+"niveau": 12,
+"pour": 375,
 "rang": 2,
 "titre": "Apprenti",
-"xp": 2457
+"xp": 2560
 },
 "nom": "NeiKoTV",
 "passeport": {
@@ -603,7 +603,7 @@
 },
 "record": 14
 },
-"vu": "2026-10-21"
+"vu": "2026-10-22"
 },
 "ninjabowlmc": {
 "niveau": {
