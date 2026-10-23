@@ -31,6 +31,22 @@
 "nom": ".ByByV29982",
 "vu": "2026-10-05"
 },
+"bedrock-nxthinzz": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 11,
+"titre": "Novice",
+"xp": 0
+},
+"nom": ".nxthinzz",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-23"
+},
 "ben1759": {
 "nom": "Ben1759",
 "vu": "2026-10-02"
