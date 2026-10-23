@@ -606,20 +606,32 @@
 "vu": "2026-10-22"
 },
 "ninjabowlmc": {
+"entrainement": [
+{
+"nom": "Combos",
+"rang": 3,
+"score": 27
+},
+{
+"nom": "Sauvetage au seau",
+"rang": 3,
+"score": 6
+}
+],
 "niveau": {
-"dans": 18,
-"niveau": 2,
-"pour": 125,
+"dans": 21,
+"niveau": 3,
+"pour": 150,
 "rang": 5,
 "titre": "Novice",
-"xp": 118
+"xp": 246
 },
 "nom": "NinjaBowlMC",
 "passeport": {
-"etapes": 1,
+"etapes": 2,
 "fini": false
 },
-"vu": "2026-10-22"
+"vu": "2026-10-23"
 },
 "ouicestmoi52": {
 "nom": "ouiCestMoi52",
