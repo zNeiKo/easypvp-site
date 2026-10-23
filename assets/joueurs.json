@@ -762,6 +762,22 @@
 },
 "vu": "2026-10-18"
 },
+"tobirama1800": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 13,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "Tobirama1800",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-23"
+},
 "tooeasyforme_": {
 "nom": "TooEasyForMe_",
 "vu": "2026-10-16"
