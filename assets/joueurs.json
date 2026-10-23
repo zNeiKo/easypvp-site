@@ -36,7 +36,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 11,
+"rang": 12,
 "titre": "Novice",
 "xp": 0
 },
@@ -567,7 +567,7 @@
 "ile": {
 "nom": "neiko",
 "rang": 1,
-"valeur": 31069
+"valeur": 31070
 },
 "maps": [
 {
@@ -668,6 +668,22 @@
 "shadowclaw2134": {
 "nom": "ShadowClaw2134",
 "vu": "2026-10-17"
+},
+"skayards": {
+"niveau": {
+"dans": 2,
+"niveau": 1,
+"pour": 100,
+"rang": 11,
+"titre": "Novice",
+"xp": 2
+},
+"nom": "SkayarDs",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-23"
 },
 "skisio02": {
 "grade": "Modo",
