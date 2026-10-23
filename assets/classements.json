@@ -444,15 +444,15 @@
    "titre": "Apprenti"
   },
   {
-   "nom": "thimote0270",
-   "valeur": 3,
-   "xp": 250,
+   "nom": "NinjaBowlMC",
+   "valeur": 4,
+   "xp": 480,
    "titre": "Novice"
   },
   {
-   "nom": "NinjaBowlMC",
+   "nom": "thimote0270",
    "valeur": 3,
-   "xp": 246,
+   "xp": 250,
    "titre": "Novice"
   },
   {
@@ -486,5 +486,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-23T10:07"
+ "maj": "2026-10-23T11:07"
 }

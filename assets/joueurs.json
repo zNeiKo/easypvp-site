@@ -610,7 +610,7 @@
 {
 "nom": "Combos",
 "rang": 3,
-"score": 27
+"score": 73
 },
 {
 "nom": "Sauvetage au seau",
@@ -619,12 +619,12 @@
 }
 ],
 "niveau": {
-"dans": 21,
-"niveau": 3,
-"pour": 150,
-"rang": 5,
+"dans": 105,
+"niveau": 4,
+"pour": 175,
+"rang": 4,
 "titre": "Novice",
-"xp": 246
+"xp": 480
 },
 "nom": "NinjaBowlMC",
 "passeport": {
@@ -714,7 +714,7 @@
 "dans": 25,
 "niveau": 3,
 "pour": 150,
-"rang": 4,
+"rang": 5,
 "titre": "Novice",
 "xp": 250
 },
