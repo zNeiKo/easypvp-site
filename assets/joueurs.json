@@ -27,6 +27,22 @@
 "abdu73": {
 "nom": "abdu73"
 },
+"b4th_": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 16,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "B4th_",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-24"
+},
 "bedrock-bybyv29982": {
 "nom": ".ByByV29982",
 "vu": "2026-10-05"
