@@ -32,7 +32,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 18,
+"rang": 19,
 "titre": "Novice",
 "xp": 0
 },
@@ -296,6 +296,22 @@
 "eryt953": {
 "nom": "eryt953",
 "vu": "2026-09-28"
+},
+"ewenn21212": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 17,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "ewenn21212",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-24"
 },
 "floconcmoi": {
 "nom": "FloconCmoi",
@@ -726,7 +742,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 17,
+"rang": 18,
 "titre": "Novice",
 "xp": 0
 },
