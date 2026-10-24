@@ -445,14 +445,20 @@
   },
   {
    "nom": "NinjaBowlMC",
-   "valeur": 4,
-   "xp": 480,
+   "valeur": 5,
+   "xp": 558,
    "titre": "Novice"
   },
   {
    "nom": "thimote0270",
    "valeur": 3,
    "xp": 250,
+   "titre": "Novice"
+  },
+  {
+   "nom": "funamboul",
+   "valeur": 1,
+   "xp": 12,
    "titre": "Novice"
   },
   {
@@ -478,13 +484,7 @@
    "valeur": 1,
    "xp": 2,
    "titre": "Novice"
-  },
-  {
-   "nom": "narcoperbell",
-   "valeur": 1,
-   "xp": 2,
-   "titre": "Novice"
   }
  ],
- "maj": "2026-10-23T16:07"
+ "maj": "2026-10-24T13:07"
 }

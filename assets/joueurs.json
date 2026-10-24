@@ -36,7 +36,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 12,
+"rang": 13,
 "titre": "Novice",
 "xp": 0
 },
@@ -354,6 +354,22 @@
 },
 "vu": "2020-05-22"
 },
+"funamboul": {
+"niveau": {
+"dans": 12,
+"niveau": 1,
+"pour": 100,
+"rang": 6,
+"titre": "Novice",
+"xp": 12
+},
+"nom": "funamboul",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-24"
+},
 "hkzw": {
 "nom": "hkzw",
 "vu": "2026-10-17"
@@ -376,7 +392,7 @@
 "dans": 6,
 "niveau": 1,
 "pour": 100,
-"rang": 7,
+"rang": 8,
 "titre": "Novice",
 "xp": 6
 },
@@ -415,7 +431,7 @@
 "dans": 10,
 "niveau": 1,
 "pour": 100,
-"rang": 6,
+"rang": 7,
 "titre": "Novice",
 "xp": 10
 },
@@ -450,7 +466,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 9,
+"rang": 10,
 "titre": "Novice",
 "xp": 2
 },
@@ -635,19 +651,19 @@
 }
 ],
 "niveau": {
-"dans": 105,
-"niveau": 4,
-"pour": 175,
+"dans": 8,
+"niveau": 5,
+"pour": 200,
 "rang": 4,
 "titre": "Novice",
-"xp": 480
+"xp": 558
 },
 "nom": "NinjaBowlMC",
 "passeport": {
 "etapes": 2,
 "fini": false
 },
-"vu": "2026-10-23"
+"vu": "2026-10-24"
 },
 "ouicestmoi52": {
 "nom": "ouiCestMoi52",
@@ -656,6 +672,22 @@
 "pika1830": {
 "nom": "pika1830",
 "vu": "2026-10-07"
+},
+"poriginqll_": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 15,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "PoriGinqll_",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-24"
 },
 "sachapomme": {
 "nom": "sachapomme",
@@ -674,7 +706,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 11,
+"rang": 12,
 "titre": "Novice",
 "xp": 2
 },
@@ -695,7 +727,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 8,
+"rang": 9,
 "titre": "Novice",
 "xp": 2
 },
@@ -767,7 +799,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 13,
+"rang": 14,
 "titre": "Novice",
 "xp": 0
 },
@@ -827,7 +859,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 10,
+"rang": 11,
 "titre": "Novice",
 "xp": 2
 },
