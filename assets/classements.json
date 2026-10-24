@@ -409,8 +409,22 @@
   }
  ],
  "cachecache": {
-  "points": [],
-  "chercheurs": [],
+  "points": [
+   {
+    "nom": "EP_ByBy",
+    "valeur": 35
+   },
+   {
+    "nom": "NeiKoTV",
+    "valeur": 33
+   }
+  ],
+  "chercheurs": [
+   {
+    "nom": "NeiKoTV",
+    "valeur": 1
+   }
+  ],
   "cacheurs": [
    {
     "nom": "EP_ByBy",
@@ -420,6 +434,10 @@
   "victoires": [
    {
     "nom": "EP_ByBy",
+    "valeur": 2
+   },
+   {
+    "nom": "NeiKoTV",
     "valeur": 1
    }
   ]
@@ -428,13 +446,13 @@
   {
    "nom": "EP_ByBy",
    "valeur": 12,
-   "xp": 2704,
+   "xp": 2787,
    "titre": "Apprenti"
   },
   {
    "nom": "NeiKoTV",
    "valeur": 12,
-   "xp": 2592,
+   "xp": 2645,
    "titre": "Apprenti"
   },
   {
@@ -486,5 +504,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-24T22:07"
+ "maj": "2026-10-24T23:07"
 }

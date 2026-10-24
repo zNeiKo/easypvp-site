@@ -102,11 +102,11 @@
 },
 "ep_byby": {
 "cachecache": {
-"parties": 1,
-"points": 0,
+"parties": 2,
+"points": 35,
 "survies": 1,
 "trouves": 0,
-"victoires": 1
+"victoires": 2
 },
 "dropper": [
 {
@@ -246,12 +246,12 @@
 }
 ],
 "niveau": {
-"dans": 229,
+"dans": 312,
 "niveau": 12,
 "pour": 375,
 "rang": 1,
 "titre": "Apprenti",
-"xp": 2704
+"xp": 2787
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -291,7 +291,7 @@
 },
 "record": 9
 },
-"vu": "2026-10-22"
+"vu": "2026-10-24"
 },
 "eryt953": {
 "nom": "eryt953",
@@ -507,11 +507,11 @@
 },
 "neikotv": {
 "cachecache": {
-"parties": 1,
-"points": 0,
+"parties": 2,
+"points": 33,
 "survies": 0,
-"trouves": 0,
-"victoires": 0
+"trouves": 1,
+"victoires": 1
 },
 "dropper": [
 {
@@ -625,12 +625,12 @@
 }
 ],
 "niveau": {
-"dans": 117,
+"dans": 170,
 "niveau": 12,
 "pour": 375,
 "rang": 2,
 "titre": "Apprenti",
-"xp": 2592
+"xp": 2645
 },
 "nom": "NeiKoTV",
 "passeport": {
