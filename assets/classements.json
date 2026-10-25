@@ -452,7 +452,7 @@
   {
    "nom": "NeiKoTV",
    "valeur": 12,
-   "xp": 2645,
+   "xp": 2653,
    "titre": "Apprenti"
   },
   {
@@ -476,7 +476,7 @@
   {
    "nom": ".IINeiKoII1818",
    "valeur": 1,
-   "xp": 16,
+   "xp": 20,
    "titre": "Novice"
   },
   {
@@ -504,5 +504,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-25T18:07"
+ "maj": "2026-10-25T19:07"
 }

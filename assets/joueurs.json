@@ -65,12 +65,12 @@
 },
 "bedrock-iineikoii1818": {
 "niveau": {
-"dans": 16,
+"dans": 20,
 "niveau": 1,
 "pour": 100,
 "rang": 6,
 "titre": "Novice",
-"xp": 16
+"xp": 20
 },
 "nom": ".IINeiKoII1818",
 "passeport": {
@@ -673,12 +673,12 @@
 }
 ],
 "niveau": {
-"dans": 170,
+"dans": 178,
 "niveau": 12,
 "pour": 375,
 "rang": 2,
 "titre": "Apprenti",
-"xp": 2645
+"xp": 2653
 },
 "nom": "NeiKoTV",
 "passeport": {
@@ -715,7 +715,7 @@
 },
 "record": 14
 },
-"vu": "2026-10-24"
+"vu": "2026-10-25"
 },
 "ninjabowlmc": {
 "entrainement": [
