@@ -57,6 +57,12 @@
     }
     if (p.cachecache) blocs.push(bloc("Cache-cache", lignes([["Points", nb(p.cachecache.points || 0)], ["Parties", nb(p.cachecache.parties)], ["Victoires", nb(p.cachecache.victoires)],
       ["Cacheurs trouvés", nb(p.cachecache.trouves)], ["Parties survécues (cacheur)", nb(p.cachecache.survies)]])));
+    if (p.rush) {
+      const l = (p.rush.elo || []).map((e) => ["ELO " + echapper(e.mode), nb(e.elo) + " <small>(" + pl(e.victoires, "victoire") + ")</small>"]);
+      if (p.rush.hika) l.push(["HikaBrain", pl(p.rush.hika.victoires, "victoire") + " · " + pl(p.rush.hika.points, "point")]);
+      if (p.rush.rush) l.push(["Rush", pl(p.rush.rush.victoires, "victoire") + " · " + pl(p.rush.rush.lits, "lit") + " cassé" + (p.rush.rush.lits > 1 ? "s" : "") + " · " + pl(p.rush.rush.finales, "kill") + " final" + (p.rush.rush.finales > 1 ? "s" : "")]);
+      if (l.length) blocs.push(bloc("Rush & HikaBrain", lignes(l)));
+    }
     if (p.ile) blocs.push(bloc("Skyblock", lignes([["Île", echapper(p.ile.nom || "sans nom")], ["Valeur", nb(p.ile.valeur) + " pts " + rang(p.ile.rang)]])));
     if (p.uhc) blocs.push(bloc("UHC, Loup-Garou, Taupe Gun", lignes(p.uhc.victoires.map((v) => [echapper(v.mode), pl(v.victoires, "victoire")])
       .concat([["Éliminations", nb(p.uhc.kills)], ["Morts", nb(p.uhc.morts)]]))));

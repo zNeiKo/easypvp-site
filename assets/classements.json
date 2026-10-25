@@ -442,6 +442,39 @@
    }
   ]
  },
+ "rush": {
+  "elo": [
+   {
+    "mode": "HikaBrain 1v1",
+    "top": []
+   },
+   {
+    "mode": "HikaBrain 2v2",
+    "top": []
+   },
+   {
+    "mode": "Rush 2v2",
+    "top": []
+   },
+   {
+    "mode": "Rush 4v4",
+    "top": []
+   },
+   {
+    "mode": "Rush 4×1",
+    "top": []
+   },
+   {
+    "mode": "Rush 4×2",
+    "top": []
+   }
+  ],
+  "hika_victoires": [],
+  "hika_points": [],
+  "rush_victoires": [],
+  "rush_finales": [],
+  "rush_lits": []
+ },
  "niveau": [
   {
    "nom": "EP_ByBy",
@@ -504,5 +537,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-25T19:07"
+ "maj": "2026-10-25T19:10"
 }
