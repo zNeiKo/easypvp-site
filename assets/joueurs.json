@@ -29,19 +29,19 @@
 },
 "b4th_": {
 "niveau": {
-"dans": 0,
+"dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 19,
+"rang": 13,
 "titre": "Novice",
-"xp": 0
+"xp": 2
 },
 "nom": "B4th_",
 "passeport": {
 "etapes": 0,
 "fini": false
 },
-"vu": "2026-10-24"
+"vu": "2026-10-25"
 },
 "bedrock-bybyv29982": {
 "nom": ".ByByV29982",
@@ -52,7 +52,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 14,
+"rang": 15,
 "titre": "Novice",
 "xp": 0
 },
@@ -302,7 +302,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 17,
+"rang": 18,
 "titre": "Novice",
 "xp": 0
 },
@@ -463,7 +463,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 15,
+"rang": 16,
 "titre": "Novice",
 "xp": 0
 },
@@ -742,7 +742,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 18,
+"rang": 19,
 "titre": "Novice",
 "xp": 0
 },
@@ -770,7 +770,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 13,
+"rang": 14,
 "titre": "Novice",
 "xp": 2
 },
@@ -863,7 +863,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 16,
+"rang": 17,
 "titre": "Novice",
 "xp": 0
 },
