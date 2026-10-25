@@ -27,6 +27,22 @@
 "abdu73": {
 "nom": "abdu73"
 },
+"alboriss0accept": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 17,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "alboriss0accept",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-25"
+},
 "b4th_": {
 "niveau": {
 "dans": 2,
@@ -302,7 +318,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 18,
+"rang": 19,
 "titre": "Novice",
 "xp": 0
 },
@@ -742,7 +758,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 19,
+"rang": 20,
 "titre": "Novice",
 "xp": 0
 },
@@ -863,7 +879,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 17,
+"rang": 18,
 "titre": "Novice",
 "xp": 0
 },
