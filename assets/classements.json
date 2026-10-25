@@ -474,6 +474,12 @@
    "titre": "Novice"
   },
   {
+   "nom": ".IINeiKoII1818",
+   "valeur": 1,
+   "xp": 16,
+   "titre": "Novice"
+  },
+  {
    "nom": "funamboul",
    "valeur": 1,
    "xp": 12,
@@ -496,13 +502,7 @@
    "valeur": 1,
    "xp": 4,
    "titre": "Novice"
-  },
-  {
-   "nom": "B4th_",
-   "valeur": 1,
-   "xp": 2,
-   "titre": "Novice"
   }
  ],
- "maj": "2026-10-25T13:07"
+ "maj": "2026-10-25T18:07"
 }
