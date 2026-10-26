@@ -222,17 +222,8 @@
  ],
  "dropper": {
   "semaine": {
-   "nom": "Mine abandonnée",
-   "top": [
-    {
-     "nom": "NeiKoTV",
-     "valeur": 4710
-    },
-    {
-     "nom": "EP_ByBy",
-     "valeur": 4710
-    }
-   ]
+   "nom": "Pyramide",
+   "top": []
   },
   "complet": [
    {
@@ -537,5 +528,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-25T19:10"
+ "maj": "2026-10-26T06:07"
 }
