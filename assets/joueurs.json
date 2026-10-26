@@ -32,7 +32,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 18,
+"rang": 19,
 "titre": "Novice",
 "xp": 0
 },
@@ -48,7 +48,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 14,
+"rang": 15,
 "titre": "Novice",
 "xp": 2
 },
@@ -84,7 +84,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 16,
+"rang": 17,
 "titre": "Novice",
 "xp": 0
 },
@@ -102,6 +102,22 @@
 "bybyv2": {
 "nom": "ByByV2",
 "vu": "2020-05-22"
+},
+"c0y0tt": {
+"niveau": {
+"dans": 4,
+"niveau": 1,
+"pour": 100,
+"rang": 11,
+"titre": "Novice",
+"xp": 4
+},
+"nom": "c0y0tt",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-26"
 },
 "carottin": {
 "nom": "Carottin",
@@ -334,7 +350,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 20,
+"rang": 21,
 "titre": "Novice",
 "xp": 0
 },
@@ -487,7 +503,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 21,
+"rang": 22,
 "titre": "Novice",
 "xp": 0
 },
@@ -511,7 +527,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 17,
+"rang": 18,
 "titre": "Novice",
 "xp": 0
 },
@@ -562,7 +578,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 12,
+"rang": 13,
 "titre": "Novice",
 "xp": 2
 },
@@ -790,7 +806,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 22,
+"rang": 23,
 "titre": "Novice",
 "xp": 0
 },
@@ -818,7 +834,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 15,
+"rang": 16,
 "titre": "Novice",
 "xp": 2
 },
@@ -839,7 +855,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 11,
+"rang": 12,
 "titre": "Novice",
 "xp": 2
 },
@@ -911,7 +927,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 19,
+"rang": 20,
 "titre": "Novice",
 "xp": 0
 },
@@ -971,7 +987,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 13,
+"rang": 14,
 "titre": "Novice",
 "xp": 2
 },
