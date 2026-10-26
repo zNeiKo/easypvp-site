@@ -482,6 +482,22 @@
 "nom": "luckybro49",
 "vu": "2026-10-07"
 },
+"m4thys": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 21,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "M4thys",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-26"
+},
 "malix_gaming": {
 "nom": "Malix_Gaming",
 "vu": "2026-10-03"
@@ -774,7 +790,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 21,
+"rang": 22,
 "titre": "Novice",
 "xp": 0
 },
