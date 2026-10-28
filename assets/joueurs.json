@@ -350,7 +350,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 21,
+"rang": 22,
 "titre": "Novice",
 "xp": 0
 },
@@ -503,7 +503,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 22,
+"rang": 23,
 "titre": "Novice",
 "xp": 0
 },
@@ -806,7 +806,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 23,
+"rang": 24,
 "titre": "Novice",
 "xp": 0
 },
@@ -981,6 +981,22 @@
 "victoires": 0
 },
 "vu": "2020-05-22"
+},
+"vincentmoncombat": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 21,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "VincentMonCombat",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-10-28"
 },
 "vulturesone": {
 "niveau": {
