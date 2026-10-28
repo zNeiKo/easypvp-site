@@ -510,6 +510,12 @@
    "titre": "Novice"
   },
   {
+   "nom": "MasterMaxence",
+   "valeur": 1,
+   "xp": 11,
+   "titre": "Novice"
+  },
+  {
    "nom": "Men0t",
    "valeur": 1,
    "xp": 10,
@@ -520,13 +526,7 @@
    "valeur": 1,
    "xp": 6,
    "titre": "Novice"
-  },
-  {
-   "nom": "c0y0tt",
-   "valeur": 1,
-   "xp": 4,
-   "titre": "Novice"
   }
  ],
- "maj": "2026-10-26T19:07"
+ "maj": "2026-10-28T21:07"
 }
