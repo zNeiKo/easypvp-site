@@ -460,8 +460,18 @@
     "top": []
    }
   ],
-  "hika_victoires": [],
-  "hika_points": [],
+  "hika_victoires": [
+   {
+    "nom": "EP_ByBy",
+    "valeur": 1
+   }
+  ],
+  "hika_points": [
+   {
+    "nom": "EP_ByBy",
+    "valeur": 5
+   }
+  ],
   "rush_victoires": [],
   "rush_finales": [],
   "rush_lits": []
@@ -470,13 +480,13 @@
   {
    "nom": "EP_ByBy",
    "valeur": 12,
-   "xp": 2787,
+   "xp": 2839,
    "titre": "Apprenti"
   },
   {
    "nom": "NeiKoTV",
    "valeur": 12,
-   "xp": 2653,
+   "xp": 2680,
    "titre": "Apprenti"
   },
   {
@@ -528,5 +538,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-28T21:07"
+ "maj": "2026-10-30T16:07"
 }
