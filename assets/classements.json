@@ -227,22 +227,22 @@
   },
   "complet": [
    {
-    "nom": "EP_ByBy",
-    "valeur": 32011
+    "nom": "NeiKoTV",
+    "valeur": 27767
    },
    {
-    "nom": "NeiKoTV",
-    "valeur": 43916
+    "nom": "EP_ByBy",
+    "valeur": 32011
    }
   ],
   "marathon": [
    {
-    "nom": "EP_ByBy",
-    "valeur": 70912
+    "nom": "NeiKoTV",
+    "valeur": 70847
    },
    {
-    "nom": "NeiKoTV",
-    "valeur": 126779
+    "nom": "EP_ByBy",
+    "valeur": 70912
    }
   ],
   "maps": [
@@ -293,6 +293,10 @@
     "nom": "Bibliothèque",
     "top": [
      {
+      "nom": "NeiKoTV",
+      "valeur": 4711
+     },
+     {
       "nom": "EP_ByBy",
       "valeur": 4810
      }
@@ -332,7 +336,7 @@
      },
      {
       "nom": "NeiKoTV",
-      "valeur": 4791
+      "valeur": 4712
      }
     ]
    },
@@ -343,6 +347,10 @@
      {
       "nom": "EP_ByBy",
       "valeur": 4710
+     },
+     {
+      "nom": "NeiKoTV",
+      "valeur": 4712
      }
     ]
    },
@@ -384,7 +392,7 @@
    },
    {
     "nom": "NeiKoTV",
-    "map": "Map de NeiKoTV",
+    "map": "en vrai ez",
     "valeur": 1
    }
   ]
@@ -444,19 +452,39 @@
     "top": []
    },
    {
-    "mode": "Rush 2v2",
+    "mode": "Rush MDT 2v2",
     "top": []
    },
    {
-    "mode": "Rush 4v4",
+    "mode": "Rush MDT 4v4",
     "top": []
    },
    {
-    "mode": "Rush 4×1",
+    "mode": "Rush FAST 1v1",
     "top": []
    },
    {
-    "mode": "Rush 4×2",
+    "mode": "Rush FAST 2v2",
+    "top": []
+   },
+   {
+    "mode": "Rush FAST 4v4",
+    "top": []
+   },
+   {
+    "mode": "BedWars 2v2",
+    "top": []
+   },
+   {
+    "mode": "BedWars 4v4",
+    "top": []
+   },
+   {
+    "mode": "BedWars 4×1",
+    "top": []
+   },
+   {
+    "mode": "BedWars 4×2",
     "top": []
    }
   ],
@@ -478,15 +506,15 @@
  },
  "niveau": [
   {
-   "nom": "EP_ByBy",
+   "nom": "NeiKoTV",
    "valeur": 12,
-   "xp": 2839,
+   "xp": 2844,
    "titre": "Apprenti"
   },
   {
-   "nom": "NeiKoTV",
+   "nom": "EP_ByBy",
    "valeur": 12,
-   "xp": 2680,
+   "xp": 2841,
    "titre": "Apprenti"
   },
   {
@@ -538,5 +566,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-30T16:07"
+ "maj": "2026-10-30T16:41"
 }

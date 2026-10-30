@@ -64,13 +64,13 @@
       carte("Meilleurs cacheurs", "Parties survécues jusqu'au bout", cc.cacheurs, (l) => pluriel(l.valeur, "survie"), ccVide),
       carte("Victoires", "Cacheurs et chercheurs", cc.victoires, (l) => pluriel(l.valeur, "victoire"), ccVide)]);
     const ru = d.rush || { elo: [], hika_victoires: [], hika_points: [], rush_victoires: [], rush_finales: [], rush_lits: [] };
-    const ruVide = "Pas encore de partie : rejoins le serveur Rush & HikaBrain avec la boussole ou le PNJ du lobby !";
+    const ruVide = "Pas encore de partie : rejoins le serveur Rush & HikaBrain avec la boussole du lobby !";
     grille("p-rush", (ru.elo || []).map((m) => carte(m.mode, "ELO classé", m.top, (l) => nb(l.valeur) + " ELO", ruVide)).concat([
       carte("HikaBrain : victoires", "1v1 et 2v2", ru.hika_victoires, (l) => pluriel(l.valeur, "victoire"), ruVide),
       carte("HikaBrain : points", "Sauts dans le lit adverse", ru.hika_points, (l) => pluriel(l.valeur, "point"), ruVide),
-      carte("Rush : victoires", "Tous les modes", ru.rush_victoires, (l) => pluriel(l.valeur, "victoire"), ruVide),
-      carte("Rush : kills finaux", "Joueurs éliminés sans lit", ru.rush_finales, (l) => pluriel(l.valeur, "kill"), ruVide),
-      carte("Rush : lits cassés", "Tous les modes", ru.rush_lits, (l) => pluriel(l.valeur, "lit"), ruVide)]));
+      carte("Rush et BedWars : victoires", "Tous les modes", ru.rush_victoires, (l) => pluriel(l.valeur, "victoire"), ruVide),
+      carte("Rush et BedWars : kills finaux", "Joueurs éliminés sans lit", ru.rush_finales, (l) => pluriel(l.valeur, "kill"), ruVide),
+      carte("Rush et BedWars : lits détruits", "Tous les modes", ru.rush_lits, (l) => pluriel(l.valeur, "lit"), ruVide)]));
     grille("p-parcours", [carte("Parcours céleste", "Au-dessus du spawn du lobby", d.parcours || [], (l) => chrono(l.valeur),
       "Personne n'a encore atteint le sommet : entre dans le rayon de lumière près du spawn du lobby !")]);
     grille("p-niveau", [carte("Niveau réseau", "Tous serveurs confondus", d.niveau || [],
