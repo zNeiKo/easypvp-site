@@ -249,138 +249,52 @@
    {
     "id": "glacier",
     "nom": "Glacier",
-    "top": [
-     {
-      "nom": "NeiKoTV",
-      "valeur": 4701
-     },
-     {
-      "nom": "EP_ByBy",
-      "valeur": 4710
-     }
-    ]
+    "top": []
    },
    {
     "id": "jungle",
     "nom": "Temple de la jungle",
-    "top": [
-     {
-      "nom": "NeiKoTV",
-      "valeur": 4700
-     },
-     {
-      "nom": "EP_ByBy",
-      "valeur": 4811
-     }
-    ]
+    "top": []
    },
    {
     "id": "desert",
     "nom": "Pyramide",
-    "top": [
-     {
-      "nom": "NeiKoTV",
-      "valeur": 4700
-     },
-     {
-      "nom": "EP_ByBy",
-      "valeur": 4711
-     }
-    ]
+    "top": []
    },
    {
     "id": "bibliotheque",
     "nom": "Bibliothèque",
-    "top": [
-     {
-      "nom": "NeiKoTV",
-      "valeur": 4711
-     },
-     {
-      "nom": "EP_ByBy",
-      "valeur": 4810
-     }
-    ]
+    "top": []
    },
    {
     "id": "mine",
     "nom": "Mine abandonnée",
-    "top": [
-     {
-      "nom": "NeiKoTV",
-      "valeur": 4712
-     },
-     {
-      "nom": "EP_ByBy",
-      "valeur": 4810
-     }
-    ]
+    "top": []
    },
    {
     "id": "nether",
     "nom": "Nether",
-    "top": [
-     {
-      "nom": "EP_ByBy",
-      "valeur": 4811
-     }
-    ]
+    "top": []
    },
    {
     "id": "abysses",
     "nom": "Abysses",
-    "top": [
-     {
-      "nom": "EP_ByBy",
-      "valeur": 4712
-     },
-     {
-      "nom": "NeiKoTV",
-      "valeur": 4712
-     }
-    ]
+    "top": []
    },
    {
     "id": "celeste",
     "nom": "Cité céleste",
-    "top": [
-     {
-      "nom": "EP_ByBy",
-      "valeur": 4710
-     },
-     {
-      "nom": "NeiKoTV",
-      "valeur": 4712
-     }
-    ]
+    "top": []
    },
    {
     "id": "end",
     "nom": "L'End",
-    "top": [
-     {
-      "nom": "NeiKoTV",
-      "valeur": 4711
-     },
-     {
-      "nom": "EP_ByBy",
-      "valeur": 4809
-     }
-    ]
+    "top": []
    },
    {
     "id": "prisme",
     "nom": "Prisme",
-    "top": [
-     {
-      "nom": "EP_ByBy",
-      "valeur": 4711
-     },
-     {
-      "nom": "NeiKoTV",
-      "valeur": 4711
-     }
-    ]
+    "top": []
    }
   ],
   "victoires": [],
@@ -507,8 +421,8 @@
  "niveau": [
   {
    "nom": "NeiKoTV",
-   "valeur": 12,
-   "xp": 2844,
+   "valeur": 13,
+   "xp": 2962,
    "titre": "Apprenti"
   },
   {
@@ -566,5 +480,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-30T16:41"
+ "maj": "2026-10-30T17:07"
 }

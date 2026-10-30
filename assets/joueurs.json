@@ -160,107 +160,16 @@
 {
 "id": "marathon",
 "nom": "Marathon",
-"rang": 1,
+"rang": 2,
 "sur": 2,
 "temps": 70912
 },
 {
 "id": "complet",
 "nom": "Parcours complet",
-"rang": 1,
+"rang": 2,
 "sur": 2,
 "temps": 32011
-},
-{
-"id": "glacier",
-"nom": "Glacier",
-"rang": 2,
-"sur": 2,
-"temps": 4710
-},
-{
-"id": "jungle",
-"nom": "Temple de la jungle",
-"rang": 2,
-"sur": 2,
-"temps": 4811
-},
-{
-"id": "desert",
-"nom": "Pyramide",
-"rang": 2,
-"sur": 2,
-"temps": 4711
-},
-{
-"id": "bibliotheque",
-"nom": "Bibliothèque",
-"rang": 1,
-"sur": 1,
-"temps": 4810
-},
-{
-"id": "mine",
-"nom": "Mine abandonnée",
-"rang": 2,
-"sur": 2,
-"temps": 4810
-},
-{
-"id": "nether",
-"nom": "Nether",
-"rang": 1,
-"sur": 1,
-"temps": 4811
-},
-{
-"id": "abysses",
-"nom": "Abysses",
-"rang": 1,
-"sur": 2,
-"temps": 4712
-},
-{
-"id": "celeste",
-"nom": "Cité céleste",
-"rang": 1,
-"sur": 1,
-"temps": 4710
-},
-{
-"id": "end",
-"nom": "L'End",
-"rang": 2,
-"sur": 2,
-"temps": 4809
-},
-{
-"id": "prisme",
-"nom": "Prisme",
-"rang": 2,
-"sur": 2,
-"temps": 4711
-},
-{
-"id": "j1",
-"nom": "Map de NeiKoTV (map de joueur)",
-"rang": 2,
-"sur": 2,
-"temps": 4811
-},
-{
-"id": "j2",
-"nom": "ez en vrai (map de joueur)",
-"rang": 2,
-"sur": 2,
-"temps": 4897
-},
-{
-"id": "s26-43",
-"nom": "s26-43",
-"rang": 2,
-"sur": 2,
-"temps": 4710
 }
 ],
 "entrainement": [
@@ -294,12 +203,12 @@
 }
 ],
 "niveau": {
-"dans": 364,
+"dans": 366,
 "niveau": 12,
 "pour": 375,
-"rang": 1,
+"rang": 2,
 "titre": "Apprenti",
-"xp": 2839
+"xp": 2841
 },
 "nom": "EP_ByBy",
 "passeport": {
@@ -637,86 +546,16 @@
 {
 "id": "marathon",
 "nom": "Marathon",
-"rang": 2,
+"rang": 1,
 "sur": 2,
-"temps": 126779
+"temps": 70847
 },
 {
 "id": "complet",
 "nom": "Parcours complet",
-"rang": 2,
-"sur": 2,
-"temps": 43916
-},
-{
-"id": "glacier",
-"nom": "Glacier",
 "rang": 1,
 "sur": 2,
-"temps": 4701
-},
-{
-"id": "jungle",
-"nom": "Temple de la jungle",
-"rang": 1,
-"sur": 2,
-"temps": 4700
-},
-{
-"id": "desert",
-"nom": "Pyramide",
-"rang": 1,
-"sur": 2,
-"temps": 4700
-},
-{
-"id": "mine",
-"nom": "Mine abandonnée",
-"rang": 1,
-"sur": 2,
-"temps": 4712
-},
-{
-"id": "abysses",
-"nom": "Abysses",
-"rang": 2,
-"sur": 2,
-"temps": 4791
-},
-{
-"id": "end",
-"nom": "L'End",
-"rang": 1,
-"sur": 2,
-"temps": 4711
-},
-{
-"id": "prisme",
-"nom": "Prisme",
-"rang": 1,
-"sur": 2,
-"temps": 4711
-},
-{
-"id": "j1",
-"nom": "Map de NeiKoTV (map de joueur)",
-"rang": 1,
-"sur": 2,
-"temps": 4799
-},
-{
-"id": "j2",
-"nom": "ez en vrai (map de joueur)",
-"rang": 1,
-"sur": 2,
-"temps": 4810
-},
-{
-"id": "s26-43",
-"nom": "s26-43",
-"rang": 1,
-"sur": 2,
-"temps": 4710
+"temps": 27767
 }
 ],
 "entrainement": [
@@ -739,18 +578,18 @@
 },
 "maps": [
 {
-"essais": 10,
+"essais": 0,
 "jaime": 1,
-"nom": "Map de NeiKoTV"
+"nom": "en vrai ez"
 }
 ],
 "niveau": {
-"dans": 205,
-"niveau": 12,
-"pour": 375,
-"rang": 2,
+"dans": 112,
+"niveau": 13,
+"pour": 400,
+"rang": 1,
 "titre": "Apprenti",
-"xp": 2680
+"xp": 2962
 },
 "nom": "NeiKoTV",
 "passeport": {
