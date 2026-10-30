@@ -412,17 +412,26 @@
    {
     "nom": "EP_ByBy",
     "valeur": 5
+   },
+   {
+    "nom": "NeiKoTV",
+    "valeur": 3
    }
   ],
   "rush_victoires": [],
   "rush_finales": [],
-  "rush_lits": []
+  "rush_lits": [
+   {
+    "nom": "NeiKoTV",
+    "valeur": 2
+   }
+  ]
  },
  "niveau": [
   {
    "nom": "NeiKoTV",
    "valeur": 13,
-   "xp": 2962,
+   "xp": 3020,
    "titre": "Apprenti"
   },
   {
@@ -480,5 +489,5 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-30T17:07"
+ "maj": "2026-10-30T18:07"
 }
