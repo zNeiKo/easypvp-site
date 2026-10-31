@@ -596,12 +596,12 @@
 }
 ],
 "niveau": {
-"dans": 170,
+"dans": 174,
 "niveau": 13,
 "pour": 400,
 "rang": 1,
 "titre": "Apprenti",
-"xp": 3020
+"xp": 3024
 },
 "nom": "NeiKoTV",
 "passeport": {
@@ -653,7 +653,7 @@
 },
 "record": 14
 },
-"vu": "2026-10-30"
+"vu": "2026-10-31"
 },
 "ninjabowlmc": {
 "entrainement": [
