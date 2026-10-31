@@ -90,3 +90,31 @@ if (statusEls.length) {
 
 // Année du pied de page
 document.querySelectorAll("[data-year]").forEach((el) => (el.textContent = new Date().getFullYear()));
+
+// Objectif de vote du mois (bloc « votes » de classements.json, mis à jour toutes les heures)
+const voteObjectif = document.querySelectorAll("[data-vote-objectif]");
+if (voteObjectif.length) {
+  fetch("/assets/classements.json?" + Date.now())
+    .then((r) => r.json())
+    .then((d) => {
+      const v = d && d.votes;
+      if (!v || !v.paliers || !v.paliers.length) return;
+      const fin = v.paliers[v.paliers.length - 1].votes;
+      voteObjectif.forEach((el) => {
+        el.querySelector("[data-vo-mois]").textContent = v.mois;
+        el.querySelector("[data-vo-compte]").textContent = v.total + " / " + fin + " votes";
+        el.querySelector("[data-vo-plein]").style.width = Math.min(100, (100 * v.total) / fin) + "%";
+        const ul = el.querySelector("[data-vo-paliers]");
+        ul.innerHTML = "";
+        v.paliers.forEach((p, i) => {
+          const li = document.createElement("li");
+          if (p.atteint) li.className = "atteint";
+          li.innerHTML = (p.atteint ? "✅ " : "⬜ ") + "<b>Palier " + (i + 1) + " · " + p.votes + " votes</b> → ";
+          li.appendChild(document.createTextNode(p.recompense));
+          ul.appendChild(li);
+        });
+        el.hidden = false;
+      });
+    })
+    .catch(() => {});
+}

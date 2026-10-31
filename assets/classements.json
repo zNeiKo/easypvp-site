@@ -42,152 +42,7 @@
   }
  ],
  "practice": {
-  "kits": [
-   {
-    "kit": "Archer",
-    "top": [
-     {
-      "nom": "thib_thib",
-      "valeur": 1007
-     },
-     {
-      "nom": "ep_byby",
-      "valeur": 993
-     }
-    ]
-   },
-   {
-    "kit": "BuildUHC",
-    "top": [
-     {
-      "nom": "neikotv",
-      "valeur": 1060
-     },
-     {
-      "nom": "_drawzen_",
-      "valeur": 1042
-     },
-     {
-      "nom": "frywynn",
-      "valeur": 1022
-     },
-     {
-      "nom": "thib_thib",
-      "valeur": 1020
-     },
-     {
-      "nom": "carottin",
-      "valeur": 969
-     },
-     {
-      "nom": "frelons_",
-      "valeur": 950
-     },
-     {
-      "nom": "ep_byby",
-      "valeur": 937
-     }
-    ]
-   },
-   {
-    "kit": "Combo",
-    "top": [
-     {
-      "nom": "ep_byby",
-      "valeur": 1103
-     },
-     {
-      "nom": "frywynn",
-      "valeur": 1016
-     },
-     {
-      "nom": "venoxy123",
-      "valeur": 984
-     },
-     {
-      "nom": "neikotv",
-      "valeur": 897
-     }
-    ]
-   },
-   {
-    "kit": "Diamond",
-    "top": [
-     {
-      "nom": "ep_byby",
-      "valeur": 1022
-     },
-     {
-      "nom": "neikotv",
-      "valeur": 978
-     }
-    ]
-   },
-   {
-    "kit": "GApple",
-    "top": [
-     {
-      "nom": "venoxy123",
-      "valeur": 1016
-     },
-     {
-      "nom": "frelons_",
-      "valeur": 1011
-     },
-     {
-      "nom": "neikotv",
-      "valeur": 989
-     },
-     {
-      "nom": "frywynn",
-      "valeur": 984
-     }
-    ]
-   },
-   {
-    "kit": "NoDebuff",
-    "top": [
-     {
-      "nom": "neikotv",
-      "valeur": 1031
-     },
-     {
-      "nom": "frelons_",
-      "valeur": 1013
-     },
-     {
-      "nom": "ep_byby",
-      "valeur": 956
-     }
-    ]
-   },
-   {
-    "kit": "SG",
-    "top": [
-     {
-      "nom": "frelon111",
-      "valeur": 1018
-     },
-     {
-      "nom": "thimote0270",
-      "valeur": 982
-     }
-    ]
-   },
-   {
-    "kit": "UHC",
-    "top": [
-     {
-      "nom": "neikotv",
-      "valeur": 1001
-     },
-     {
-      "nom": "frelons_",
-      "valeur": 999
-     }
-    ]
-   }
-  ],
+  "kits": [],
   "victoires": [
    {
     "nom": "frelons_",
@@ -489,5 +344,28 @@
    "titre": "Novice"
   }
  ],
- "maj": "2026-10-31T17:07"
+ "votes": {
+  "mois": "novembre 2026",
+  "cle": "2026-11",
+  "total": 0,
+  "votants": 0,
+  "paliers": [
+   {
+    "votes": 100,
+    "recompense": "20 EasyCoins",
+    "atteint": false
+   },
+   {
+    "votes": 200,
+    "recompense": "30 EasyCoins + 1 clé Rare",
+    "atteint": false
+   },
+   {
+    "votes": 300,
+    "recompense": "50 EasyCoins + 1 clé Épique + XP x2 le week-end pour tout le réseau",
+    "atteint": false
+   }
+  ]
+ },
+ "maj": "2026-11-01T00:49"
 }

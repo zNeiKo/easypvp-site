@@ -329,3 +329,16 @@ table.clean th { color: var(--muted); font-weight: 600; font-size: .9rem; }
 .profil-liste small { color: var(--muted); }
 .classement .pseudo a { color: inherit; text-decoration: none; }
 .classement .pseudo a:hover { text-decoration: underline; }
+
+/* Objectif de vote du mois (accueil, boutique) */
+.vote-objectif { margin-bottom: 28px; padding: 22px; border-radius: var(--radius); background: var(--card); border: 1px solid var(--line); }
+.vo-tete { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.vo-tete h3 { margin: 0; }
+.vo-tete strong { font-family: "Outfit", sans-serif; font-size: 1.3rem; color: var(--cyan); }
+.vo-barre { height: 14px; margin: 14px 0 16px; border-radius: 999px; background: var(--card-2); overflow: hidden; }
+.vo-plein { height: 100%; width: 0; border-radius: 999px; background: linear-gradient(90deg, var(--blue), var(--cyan)); transition: width .8s ease; }
+.vo-paliers { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.vo-paliers li { color: var(--muted); }
+.vo-paliers li b { color: var(--text); }
+.vo-paliers li.atteint b { color: var(--cyan); }
+.vo-note { margin: 14px 0 0; color: var(--muted); font-size: .9rem; }
