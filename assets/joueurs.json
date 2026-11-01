@@ -311,12 +311,12 @@
 "hinokoji": {
 "grade": "Joueur",
 "niveau": {
-"dans": 10,
+"dans": 12,
 "niveau": 1,
 "pour": 100,
-"rang": 10,
+"rang": 8,
 "titre": "Novice",
-"xp": 10
+"xp": 12
 },
 "nom": "HinoKoji",
 "passeport": {
@@ -414,7 +414,7 @@
 "dans": 11,
 "niveau": 1,
 "pour": 100,
-"rang": 8,
+"rang": 9,
 "titre": "Novice",
 "xp": 11
 },
@@ -462,7 +462,7 @@
 "dans": 10,
 "niveau": 1,
 "pour": 100,
-"rang": 9,
+"rang": 10,
 "titre": "Novice",
 "xp": 10
 },

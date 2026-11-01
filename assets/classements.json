@@ -326,15 +326,15 @@
    "titre": "Novice"
   },
   {
-   "nom": "MasterMaxence",
+   "nom": "HinoKoji",
    "valeur": 1,
-   "xp": 11,
+   "xp": 12,
    "titre": "Novice"
   },
   {
-   "nom": "HinoKoji",
+   "nom": "MasterMaxence",
    "valeur": 1,
-   "xp": 10,
+   "xp": 11,
    "titre": "Novice"
   },
   {
@@ -367,5 +367,5 @@
    }
   ]
  },
- "maj": "2026-11-01T12:07"
+ "maj": "2026-11-01T14:07"
 }
