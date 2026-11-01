@@ -363,7 +363,7 @@
 "dans": 6,
 "niveau": 1,
 "pour": 100,
-"rang": 11,
+"rang": 12,
 "titre": "Novice",
 "xp": 6
 },
@@ -647,7 +647,7 @@
 "dans": 4,
 "niveau": 1,
 "pour": 100,
-"rang": 12,
+"rang": 13,
 "titre": "Novice",
 "xp": 4
 },
@@ -740,12 +740,12 @@
 },
 "sylveonoriginal": {
 "niveau": {
-"dans": 4,
+"dans": 8,
 "niveau": 1,
 "pour": 100,
-"rang": 13,
+"rang": 11,
 "titre": "Novice",
-"xp": 4
+"xp": 8
 },
 "nom": "sylveonoriginal",
 "passeport": {
