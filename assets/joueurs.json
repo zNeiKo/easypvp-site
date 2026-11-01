@@ -12,16 +12,8 @@
 "vu": "2026-09-22"
 },
 "_drawzen_": {
+"grade": "Joueur",
 "nom": "_DrawZen_",
-"practice": {
-"elo": {
-"BuildUHC": 1042
-},
-"rangs": {
-"BuildUHC": 2
-},
-"victoires": 0
-},
 "vu": "2020-05-23"
 },
 "abdu73": {
@@ -121,15 +113,6 @@
 },
 "carottin": {
 "nom": "Carottin",
-"practice": {
-"elo": {
-"BuildUHC": 969
-},
-"rangs": {
-"BuildUHC": 5
-},
-"victoires": 0
-},
 "vu": "2020-05-23"
 },
 "chai_pas": {
@@ -216,20 +199,7 @@
 "fini": true
 },
 "practice": {
-"elo": {
-"Archer": 993,
-"BuildUHC": 937,
-"Combo": 1103,
-"Diamond": 1022,
-"NoDebuff": 956
-},
-"rangs": {
-"Archer": 2,
-"BuildUHC": 7,
-"Combo": 1,
-"Diamond": 1,
-"NoDebuff": 3
-},
+"elo": {},
 "victoires": 1
 },
 "rush": {
@@ -293,15 +263,6 @@
 "xp": 1987
 },
 "nom": "Frelon111",
-"practice": {
-"elo": {
-"SG": 1018
-},
-"rangs": {
-"SG": 1
-},
-"victoires": 0
-},
 "vagues": {
 "mois": {
 "2026-10": 16
@@ -314,18 +275,7 @@
 "grade": "HOST",
 "nom": "Frelons_",
 "practice": {
-"elo": {
-"BuildUHC": 950,
-"GApple": 1011,
-"NoDebuff": 1013,
-"UHC": 999
-},
-"rangs": {
-"BuildUHC": 6,
-"GApple": 2,
-"NoDebuff": 2,
-"UHC": 2
-},
+"elo": {},
 "victoires": 2
 },
 "vu": "2026-09-20"
@@ -337,16 +287,7 @@
 "frywynn": {
 "nom": "FryWynn",
 "practice": {
-"elo": {
-"BuildUHC": 1022,
-"Combo": 1016,
-"GApple": 984
-},
-"rangs": {
-"BuildUHC": 3,
-"Combo": 2,
-"GApple": 4
-},
+"elo": {},
 "victoires": 1
 },
 "vu": "2020-05-22"
@@ -608,25 +549,6 @@
 "etapes": 6,
 "fini": true
 },
-"practice": {
-"elo": {
-"BuildUHC": 1060,
-"Combo": 897,
-"Diamond": 978,
-"GApple": 989,
-"NoDebuff": 1031,
-"UHC": 1001
-},
-"rangs": {
-"BuildUHC": 1,
-"Combo": 4,
-"Diamond": 2,
-"GApple": 3,
-"NoDebuff": 1,
-"UHC": 1
-},
-"victoires": 0
-},
 "rush": {
 "hika": {
 "kills": 2,
@@ -794,17 +716,6 @@
 "thib_thib": {
 "grade": "HOST",
 "nom": "Thib_Thib",
-"practice": {
-"elo": {
-"Archer": 1007,
-"BuildUHC": 1020
-},
-"rangs": {
-"Archer": 1,
-"BuildUHC": 4
-},
-"victoires": 0
-},
 "vu": "2020-05-24"
 },
 "thimote0270": {
@@ -817,15 +728,6 @@
 "xp": 250
 },
 "nom": "thimote0270",
-"practice": {
-"elo": {
-"SG": 982
-},
-"rangs": {
-"SG": 2
-},
-"victoires": 0
-},
 "vu": "2026-10-18"
 },
 "tobirama1800": {
@@ -891,17 +793,6 @@
 },
 "venoxy123": {
 "nom": "Venoxy123",
-"practice": {
-"elo": {
-"Combo": 984,
-"GApple": 1016
-},
-"rangs": {
-"Combo": 3,
-"GApple": 1
-},
-"victoires": 0
-},
 "vu": "2020-05-22"
 },
 "vincentmoncombat": {
