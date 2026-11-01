@@ -332,23 +332,23 @@
    "titre": "Novice"
   },
   {
-   "nom": "Men0t",
+   "nom": "HinoKoji",
    "valeur": 1,
    "xp": 10,
    "titre": "Novice"
   },
   {
-   "nom": "Josef_aime_mange",
+   "nom": "Men0t",
    "valeur": 1,
-   "xp": 6,
+   "xp": 10,
    "titre": "Novice"
   }
  ],
  "votes": {
   "mois": "novembre 2026",
   "cle": "2026-11",
-  "total": 0,
-  "votants": 0,
+  "total": 1,
+  "votants": 1,
   "paliers": [
    {
     "votes": 100,
@@ -367,5 +367,5 @@
    }
   ]
  },
- "maj": "2026-11-01T00:49"
+ "maj": "2026-11-01T12:07"
 }
