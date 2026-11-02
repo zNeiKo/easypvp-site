@@ -86,12 +86,12 @@
     "valeur": 27767
    },
    {
-    "nom": "EP_ByBy",
-    "valeur": 32011
+    "nom": "sylveonoriginal",
+    "valeur": 29241
    },
    {
-    "nom": "sylveonoriginal",
-    "valeur": 40072
+    "nom": "EP_ByBy",
+    "valeur": 32011
    }
   ],
   "marathon": [
@@ -102,6 +102,10 @@
    {
     "nom": "EP_ByBy",
     "valeur": 70912
+   },
+   {
+    "nom": "sylveonoriginal",
+    "valeur": 122116
    }
   ],
   "maps": [
@@ -198,7 +202,12 @@
    {
     "id": "prisme",
     "nom": "Prisme",
-    "top": []
+    "top": [
+     {
+      "nom": "sylveonoriginal",
+      "valeur": 5669
+     }
+    ]
    }
   ],
   "victoires": [],
@@ -206,12 +215,12 @@
    {
     "nom": "EP_ByBy",
     "map": "ez en vrai",
-    "valeur": 1
+    "valeur": 2
    },
    {
     "nom": "NeiKoTV",
     "map": "en vrai ez",
-    "valeur": 1
+    "valeur": 2
    }
   ]
  },
@@ -357,15 +366,15 @@
    "titre": "Novice"
   },
   {
-   "nom": "thimote0270",
-   "valeur": 3,
-   "xp": 250,
+   "nom": "sylveonoriginal",
+   "valeur": 4,
+   "xp": 422,
    "titre": "Novice"
   },
   {
-   "nom": "sylveonoriginal",
-   "valeur": 2,
-   "xp": 187,
+   "nom": "thimote0270",
+   "valeur": 3,
+   "xp": 250,
    "titre": "Novice"
   },
   {
@@ -416,5 +425,5 @@
    }
   ]
  },
- "maj": "2026-11-02T19:07"
+ "maj": "2026-11-02T20:07"
 }
