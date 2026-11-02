@@ -88,6 +88,10 @@
    {
     "nom": "EP_ByBy",
     "valeur": 32011
+   },
+   {
+    "nom": "sylveonoriginal",
+    "valeur": 40072
    }
   ],
   "marathon": [
@@ -104,47 +108,92 @@
    {
     "id": "glacier",
     "nom": "Glacier",
-    "top": []
+    "top": [
+     {
+      "nom": "sylveonoriginal",
+      "valeur": 6182
+     }
+    ]
    },
    {
     "id": "jungle",
     "nom": "Temple de la jungle",
-    "top": []
+    "top": [
+     {
+      "nom": "sylveonoriginal",
+      "valeur": 5988
+     }
+    ]
    },
    {
     "id": "desert",
     "nom": "Pyramide",
-    "top": []
+    "top": [
+     {
+      "nom": "sylveonoriginal",
+      "valeur": 5936
+     }
+    ]
    },
    {
     "id": "bibliotheque",
     "nom": "Bibliothèque",
-    "top": []
+    "top": [
+     {
+      "nom": "sylveonoriginal",
+      "valeur": 6039
+     }
+    ]
    },
    {
     "id": "mine",
     "nom": "Mine abandonnée",
-    "top": []
+    "top": [
+     {
+      "nom": "sylveonoriginal",
+      "valeur": 5988
+     }
+    ]
    },
    {
     "id": "nether",
     "nom": "Nether",
-    "top": []
+    "top": [
+     {
+      "nom": "sylveonoriginal",
+      "valeur": 5734
+     }
+    ]
    },
    {
     "id": "abysses",
     "nom": "Abysses",
-    "top": []
+    "top": [
+     {
+      "nom": "sylveonoriginal",
+      "valeur": 5987
+     }
+    ]
    },
    {
     "id": "celeste",
     "nom": "Cité céleste",
-    "top": []
+    "top": [
+     {
+      "nom": "sylveonoriginal",
+      "valeur": 5769
+     }
+    ]
    },
    {
     "id": "end",
     "nom": "L'End",
-    "top": []
+    "top": [
+     {
+      "nom": "sylveonoriginal",
+      "valeur": 6188
+     }
+    ]
    },
    {
     "id": "prisme",
@@ -314,6 +363,12 @@
    "titre": "Novice"
   },
   {
+   "nom": "sylveonoriginal",
+   "valeur": 2,
+   "xp": 187,
+   "titre": "Novice"
+  },
+  {
    "nom": ".IINeiKoII1818",
    "valeur": 1,
    "xp": 20,
@@ -335,12 +390,6 @@
    "nom": "MasterMaxence",
    "valeur": 1,
    "xp": 11,
-   "titre": "Novice"
-  },
-  {
-   "nom": "Men0t",
-   "valeur": 1,
-   "xp": 10,
    "titre": "Novice"
   }
  ],
@@ -367,5 +416,5 @@
    }
   ]
  },
- "maj": "2026-11-02T16:07"
+ "maj": "2026-11-02T19:07"
 }
