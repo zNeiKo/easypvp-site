@@ -253,7 +253,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 29,
+"rang": 30,
 "titre": "Novice",
 "xp": 0
 },
@@ -397,6 +397,22 @@
 "laizihuoxin": {
 "nom": "laizihuoxin"
 },
+"lev_java": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 29,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "Lev_Java",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-11-03"
+},
 "lilsy_mc": {
 "nom": "LILSY_MC",
 "vu": "2026-09-23"
@@ -410,7 +426,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 32,
+"rang": 33,
 "titre": "Novice",
 "xp": 0
 },
@@ -426,7 +442,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 30,
+"rang": 31,
 "titre": "Novice",
 "xp": 0
 },
@@ -683,7 +699,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 31,
+"rang": 32,
 "titre": "Novice",
 "xp": 0
 },
