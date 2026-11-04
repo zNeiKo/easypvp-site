@@ -426,7 +426,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 33,
+"rang": 34,
 "titre": "Novice",
 "xp": 0
 },
@@ -893,6 +893,22 @@
 "synoz_": {
 "nom": "Synoz_",
 "vu": "2026-09-29"
+},
+"the_death7695": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 33,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "The_Death7695",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-11-04"
 },
 "thegoatex": {
 "nom": "TheGoatex",
