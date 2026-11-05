@@ -1,0 +1,36 @@
+# Panneau de statut du Discord : passe au rouge si le PC du serveur s'eteint d'un coup.
+# Declenchement a la main possible : apercu (n'envoie rien), forcer (essai, le proxy remet le vert ensuite).
+name: Statut Discord
+
+on:
+  schedule:
+    - cron: '3-53/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      apercu:
+        description: "N'envoie rien, affiche seulement ce qui serait fait"
+        type: boolean
+        default: false
+      forcer:
+        description: "Essai : passe au rouge sans verifier"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  surveiller:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/statut
+      - name: Verifier le panneau
+        env:
+          STATUT_WEBHOOK: ${{ secrets.STATUT_WEBHOOK }}
+          STATUT_MESSAGE: ${{ secrets.STATUT_MESSAGE }}
+          APERCU: ${{ inputs.apercu }}
+          FORCER: ${{ inputs.forcer }}
+        run: python3 .github/statut/surveiller.py
