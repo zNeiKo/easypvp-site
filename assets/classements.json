@@ -384,13 +384,13 @@
    "titre": "Novice"
   },
   {
-   "nom": "funamboul",
+   "nom": "HinoKoji",
    "valeur": 1,
    "xp": 12,
    "titre": "Novice"
   },
   {
-   "nom": "HinoKoji",
+   "nom": "funamboul",
    "valeur": 1,
    "xp": 12,
    "titre": "Novice"
@@ -425,5 +425,5 @@
    }
   ]
  },
- "maj": "2026-11-05T12:07"
+ "maj": "2026-11-05T14:07"
 }
