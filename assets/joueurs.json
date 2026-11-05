@@ -474,7 +474,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 38,
+"rang": 39,
 "titre": "Novice",
 "xp": 0
 },
@@ -603,6 +603,22 @@
 "moutonvaudou": {
 "nom": "MoutonVaudou",
 "vu": "2026-10-16"
+},
+"mythicbleade": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 38,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "MythicBleade",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-11-05"
 },
 "narcoperbell": {
 "niveau": {
