@@ -6,7 +6,7 @@
   const nb = (n) => Number(n).toLocaleString("fr-FR");
   const pl = (n, mot) => nb(n) + " " + mot + (n > 1 ? "s" : "");
   const echapper = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-  const slug = (nom) => { const n = nom.toLowerCase(); return n.startsWith(".") ? "bedrock-" + n.slice(1) : n; };
+  const slug = (nom) => { const n = nom.toLowerCase(); return (n.startsWith(".") ? "bedrock-" + n.slice(1) : n).replace(/[^a-z0-9_-]/g, ""); };
   const tete = (nom, t) => `https://mc-heads.net/avatar/${encodeURIComponent(nom.replace(/^\./, ""))}/${t}`;
   const chrono = (ms) => ms < 60000 ? (ms / 1000).toLocaleString("fr-FR", { minimumFractionDigits: 3, maximumFractionDigits: 3 }) + " s"
     : Math.floor(ms / 60000) + ":" + ((ms % 60000) / 1000).toLocaleString("fr-FR", { minimumIntegerDigits: 2, minimumFractionDigits: 3, maximumFractionDigits: 3 });
