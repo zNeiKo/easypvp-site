@@ -40,7 +40,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 27,
+"rang": 28,
 "titre": "Novice",
 "xp": 0
 },
@@ -253,7 +253,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 32,
+"rang": 33,
 "titre": "Novice",
 "xp": 0
 },
@@ -434,7 +434,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 31,
+"rang": 32,
 "titre": "Novice",
 "xp": 0
 },
@@ -458,7 +458,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 36,
+"rang": 37,
 "titre": "Novice",
 "xp": 0
 },
@@ -474,7 +474,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 33,
+"rang": 34,
 "titre": "Novice",
 "xp": 0
 },
@@ -510,7 +510,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 28,
+"rang": 29,
 "titre": "Novice",
 "xp": 0
 },
@@ -526,7 +526,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 26,
+"rang": 27,
 "titre": "Novice",
 "xp": 0
 },
@@ -536,6 +536,22 @@
 "fini": false
 },
 "vu": "2026-10-24"
+},
+"medolinho": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 25,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "Medolinho",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-11-05"
 },
 "men0t": {
 "niveau": {
@@ -731,7 +747,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 34,
+"rang": 35,
 "titre": "Novice",
 "xp": 0
 },
@@ -931,7 +947,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 35,
+"rang": 36,
 "titre": "Novice",
 "xp": 0
 },
@@ -968,7 +984,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 29,
+"rang": 30,
 "titre": "Novice",
 "xp": 0
 },
@@ -1013,7 +1029,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 25,
+"rang": 26,
 "titre": "Novice",
 "xp": 0
 },
@@ -1033,7 +1049,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 30,
+"rang": 31,
 "titre": "Novice",
 "xp": 0
 },
