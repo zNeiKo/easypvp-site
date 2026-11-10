@@ -344,7 +344,7 @@
   {
    "nom": "NeiKoTV",
    "valeur": 13,
-   "xp": 3042,
+   "xp": 3072,
    "titre": "Apprenti"
   },
   {
@@ -405,8 +405,8 @@
  "votes": {
   "mois": "novembre 2026",
   "cle": "2026-11",
-  "total": 9,
-  "votants": 2,
+  "total": 12,
+  "votants": 3,
   "paliers": [
    {
     "votes": 100,
@@ -425,5 +425,5 @@
    }
   ]
  },
- "maj": "2026-11-09T06:07"
+ "maj": "2026-11-10T05:07"
 }
