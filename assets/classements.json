@@ -42,7 +42,21 @@
   }
  ],
  "practice": {
-  "kits": [],
+  "kits": [
+   {
+    "kit": "GApple",
+    "top": [
+     {
+      "nom": "ratisseur",
+      "valeur": 1006
+     },
+     {
+      "nom": "freddyeatpotato",
+      "valeur": 994
+     }
+    ]
+   }
+  ],
   "victoires": [
    {
     "nom": "frelons_",
@@ -54,6 +68,10 @@
    },
    {
     "nom": "frywynn",
+    "valeur": 1
+   },
+   {
+    "nom": "ratisseur",
     "valeur": 1
    }
   ]
@@ -378,15 +396,15 @@
    "titre": "Novice"
   },
   {
-   "nom": ".IINeiKoII1818",
+   "nom": "RATISSEUR",
    "valeur": 1,
-   "xp": 20,
+   "xp": 71,
    "titre": "Novice"
   },
   {
-   "nom": "HinoKoji",
+   "nom": ".IINeiKoII1818",
    "valeur": 1,
-   "xp": 12,
+   "xp": 20,
    "titre": "Novice"
   },
   {
@@ -396,16 +414,16 @@
    "titre": "Novice"
   },
   {
-   "nom": "MasterMaxence",
+   "nom": "HinoKoji",
    "valeur": 1,
-   "xp": 11,
+   "xp": 12,
    "titre": "Novice"
   }
  ],
  "votes": {
   "mois": "novembre 2026",
   "cle": "2026-11",
-  "total": 12,
+  "total": 13,
   "votants": 3,
   "paliers": [
    {
@@ -425,5 +443,5 @@
    }
   ]
  },
- "maj": "2026-11-10T05:07"
+ "maj": "2026-11-13T00:07"
 }
