@@ -768,12 +768,12 @@
 }
 ],
 "niveau": {
-"dans": 260,
+"dans": 326,
 "niveau": 13,
 "pour": 400,
 "rang": 1,
 "titre": "Apprenti",
-"xp": 3110
+"xp": 3176
 },
 "nom": "NeiKoTV",
 "passeport": {
@@ -980,12 +980,12 @@
 }
 ],
 "niveau": {
-"dans": 65,
+"dans": 69,
 "niveau": 2,
 "pour": 125,
 "rang": 7,
 "titre": "Novice",
-"xp": 165
+"xp": 169
 },
 "nom": "ScrYn0",
 "passeport": {
