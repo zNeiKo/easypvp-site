@@ -144,6 +144,14 @@
      {
       "nom": "sylveonoriginal",
       "valeur": 5988
+     },
+     {
+      "nom": "ScrYn0",
+      "valeur": 6802
+     },
+     {
+      "nom": "QtnRBT",
+      "valeur": 7570
      }
     ]
    },
@@ -162,8 +170,16 @@
     "nom": "Bibliothèque",
     "top": [
      {
+      "nom": "QtnRBT",
+      "valeur": 5974
+     },
+     {
       "nom": "sylveonoriginal",
       "valeur": 6039
+     },
+     {
+      "nom": "ScrYn0",
+      "valeur": 13133
      }
     ]
    },
@@ -202,8 +218,16 @@
     "nom": "Cité céleste",
     "top": [
      {
+      "nom": "QtnRBT",
+      "valeur": 5690
+     },
+     {
       "nom": "sylveonoriginal",
       "valeur": 5769
+     },
+     {
+      "nom": "ScrYn0",
+      "valeur": 6410
      }
     ]
    },
@@ -224,6 +248,10 @@
      {
       "nom": "sylveonoriginal",
       "valeur": 5669
+     },
+     {
+      "nom": "ScrYn0",
+      "valeur": 6267
      }
     ]
    }
@@ -362,7 +390,7 @@
   {
    "nom": "NeiKoTV",
    "valeur": 13,
-   "xp": 3072,
+   "xp": 3108,
    "titre": "Apprenti"
   },
   {
@@ -396,6 +424,18 @@
    "titre": "Novice"
   },
   {
+   "nom": "ScrYn0",
+   "valeur": 2,
+   "xp": 163,
+   "titre": "Novice"
+  },
+  {
+   "nom": "QtnRBT",
+   "valeur": 2,
+   "xp": 100,
+   "titre": "Novice"
+  },
+  {
    "nom": "RATISSEUR",
    "valeur": 1,
    "xp": 71,
@@ -405,18 +445,6 @@
    "nom": ".IINeiKoII1818",
    "valeur": 1,
    "xp": 20,
-   "titre": "Novice"
-  },
-  {
-   "nom": "HinoKoji",
-   "valeur": 1,
-   "xp": 12,
-   "titre": "Novice"
-  },
-  {
-   "nom": "funamboul",
-   "valeur": 1,
-   "xp": 12,
    "titre": "Novice"
   }
  ],
@@ -443,5 +471,5 @@
    }
   ]
  },
- "maj": "2026-11-17T18:07"
+ "maj": "2026-11-17T23:07"
 }
