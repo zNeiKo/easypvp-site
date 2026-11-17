@@ -408,13 +408,13 @@
    "titre": "Novice"
   },
   {
-   "nom": "funamboul",
+   "nom": "HinoKoji",
    "valeur": 1,
    "xp": 12,
    "titre": "Novice"
   },
   {
-   "nom": "HinoKoji",
+   "nom": "funamboul",
    "valeur": 1,
    "xp": 12,
    "titre": "Novice"
@@ -423,7 +423,7 @@
  "votes": {
   "mois": "novembre 2026",
   "cle": "2026-11",
-  "total": 13,
+  "total": 15,
   "votants": 3,
   "paliers": [
    {
@@ -443,5 +443,5 @@
    }
   ]
  },
- "maj": "2026-11-16T20:07"
+ "maj": "2026-11-17T18:07"
 }
