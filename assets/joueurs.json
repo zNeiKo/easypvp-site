@@ -281,7 +281,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 44,
+"rang": 45,
 "titre": "Novice",
 "xp": 0
 },
@@ -520,7 +520,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 43,
+"rang": 44,
 "titre": "Novice",
 "xp": 0
 },
@@ -560,7 +560,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 49,
+"rang": 50,
 "titre": "Novice",
 "xp": 0
 },
@@ -576,7 +576,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 45,
+"rang": 46,
 "titre": "Novice",
 "xp": 0
 },
@@ -695,7 +695,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 48,
+"rang": 49,
 "titre": "Novice",
 "xp": 0
 },
@@ -865,7 +865,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 46,
+"rang": 47,
 "titre": "Novice",
 "xp": 0
 },
@@ -1205,7 +1205,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 47,
+"rang": 48,
 "titre": "Novice",
 "xp": 0
 },
@@ -1265,6 +1265,22 @@
 "tunestay": {
 "nom": "tunestay",
 "vu": "2026-09-18"
+},
+"twile21": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 43,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "Twile21",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-11-18"
 },
 "tzatziki69": {
 "nom": "Tzatziki69",
