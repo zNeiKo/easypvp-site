@@ -289,11 +289,23 @@
    {
     "nom": "NeiKoTV",
     "valeur": 33
+   },
+   {
+    "nom": "QtnRBT",
+    "valeur": 26
+   },
+   {
+    "nom": "ScrYn0",
+    "valeur": 11
    }
   ],
   "chercheurs": [
    {
     "nom": "NeiKoTV",
+    "valeur": 1
+   },
+   {
+    "nom": "QtnRBT",
     "valeur": 1
    }
   ],
@@ -310,6 +322,14 @@
    },
    {
     "nom": "NeiKoTV",
+    "valeur": 1
+   },
+   {
+    "nom": "QtnRBT",
+    "valeur": 1
+   },
+   {
+    "nom": "ScrYn0",
     "valeur": 1
    }
   ]
@@ -414,7 +434,7 @@
   {
    "nom": "sylveonoriginal",
    "valeur": 4,
-   "xp": 448,
+   "xp": 460,
    "titre": "Novice"
   },
   {
@@ -426,13 +446,13 @@
   {
    "nom": "ScrYn0",
    "valeur": 2,
-   "xp": 169,
+   "xp": 209,
    "titre": "Novice"
   },
   {
    "nom": "QtnRBT",
    "valeur": 2,
-   "xp": 100,
+   "xp": 208,
    "titre": "Novice"
   },
   {
@@ -471,5 +491,5 @@
    }
   ]
  },
- "maj": "2026-11-18T00:07"
+ "maj": "2026-11-18T01:07"
 }

@@ -877,6 +877,13 @@
 "vu": "2026-10-24"
 },
 "qtnrbt": {
+"cachecache": {
+"parties": 1,
+"points": 26,
+"survies": 0,
+"trouves": 1,
+"victoires": 1
+},
 "dropper": [
 {
 "id": "jungle",
@@ -901,19 +908,19 @@
 }
 ],
 "niveau": {
-"dans": 0,
+"dans": 108,
 "niveau": 2,
 "pour": 125,
 "rang": 8,
 "titre": "Novice",
-"xp": 100
+"xp": 208
 },
 "nom": "QtnRBT",
 "passeport": {
-"etapes": 1,
+"etapes": 2,
 "fini": false
 },
-"vu": "2026-11-17"
+"vu": "2026-11-18"
 },
 "ratisseur": {
 "niveau": {
@@ -949,6 +956,13 @@
 "vu": "2026-10-14"
 },
 "scryn0": {
+"cachecache": {
+"parties": 1,
+"points": 11,
+"survies": 0,
+"trouves": 0,
+"victoires": 1
+},
 "dropper": [
 {
 "id": "jungle",
@@ -980,19 +994,19 @@
 }
 ],
 "niveau": {
-"dans": 69,
+"dans": 109,
 "niveau": 2,
 "pour": 125,
 "rang": 7,
 "titre": "Novice",
-"xp": 169
+"xp": 209
 },
 "nom": "ScrYn0",
 "passeport": {
 "etapes": 1,
 "fini": false
 },
-"vu": "2026-11-17"
+"vu": "2026-11-18"
 },
 "shadowclaw2134": {
 "nom": "ShadowClaw2134",
@@ -1168,19 +1182,19 @@
 ],
 "grade": "Joueur",
 "niveau": {
-"dans": 73,
+"dans": 85,
 "niveau": 4,
 "pour": 175,
 "rang": 5,
 "titre": "Novice",
-"xp": 448
+"xp": 460
 },
 "nom": "sylveonoriginal",
 "passeport": {
 "etapes": 1,
 "fini": false
 },
-"vu": "2026-11-02"
+"vu": "2026-11-18"
 },
 "synoz_": {
 "nom": "Synoz_",
