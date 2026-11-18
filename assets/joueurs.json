@@ -908,12 +908,12 @@
 }
 ],
 "niveau": {
-"dans": 108,
+"dans": 118,
 "niveau": 2,
 "pour": 125,
 "rang": 8,
 "titre": "Novice",
-"xp": 208
+"xp": 218
 },
 "nom": "QtnRBT",
 "passeport": {
@@ -994,12 +994,12 @@
 }
 ],
 "niveau": {
-"dans": 109,
+"dans": 119,
 "niveau": 2,
 "pour": 125,
 "rang": 7,
 "titre": "Novice",
-"xp": 209
+"xp": 219
 },
 "nom": "ScrYn0",
 "passeport": {
@@ -1182,12 +1182,12 @@
 ],
 "grade": "Joueur",
 "niveau": {
-"dans": 85,
+"dans": 111,
 "niveau": 4,
 "pour": 175,
 "rang": 5,
 "titre": "Novice",
-"xp": 460
+"xp": 486
 },
 "nom": "sylveonoriginal",
 "passeport": {

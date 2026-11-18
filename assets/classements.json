@@ -434,7 +434,7 @@
   {
    "nom": "sylveonoriginal",
    "valeur": 4,
-   "xp": 460,
+   "xp": 486,
    "titre": "Novice"
   },
   {
@@ -446,13 +446,13 @@
   {
    "nom": "ScrYn0",
    "valeur": 2,
-   "xp": 209,
+   "xp": 219,
    "titre": "Novice"
   },
   {
    "nom": "QtnRBT",
    "valeur": 2,
-   "xp": 208,
+   "xp": 218,
    "titre": "Novice"
   },
   {
@@ -491,5 +491,5 @@
    }
   ]
  },
- "maj": "2026-11-18T01:07"
+ "maj": "2026-11-18T02:07"
 }
