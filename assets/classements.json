@@ -44,6 +44,19 @@
  "practice": {
   "kits": [
    {
+    "kit": "Debuff",
+    "top": [
+     {
+      "nom": ".rangernoah2508",
+      "valeur": 1012
+     },
+     {
+      "nom": "noya_oha",
+      "valeur": 988
+     }
+    ]
+   },
+   {
     "kit": "GApple",
     "top": [
      {
@@ -61,6 +74,10 @@
    {
     "nom": "frelons_",
     "valeur": 2
+   },
+   {
+    "nom": ".rangernoah2508",
+    "valeur": 1
    },
    {
     "nom": "ep_byby",
@@ -456,22 +473,22 @@
    "titre": "Novice"
   },
   {
-   "nom": "RATISSEUR",
-   "valeur": 1,
-   "xp": 71,
+   "nom": ".RangerNoah2508",
+   "valeur": 2,
+   "xp": 110,
    "titre": "Novice"
   },
   {
-   "nom": "Ittoryu_",
+   "nom": "RATISSEUR",
    "valeur": 1,
-   "xp": 36,
+   "xp": 71,
    "titre": "Novice"
   }
  ],
  "votes": {
   "mois": "novembre 2026",
   "cle": "2026-11",
-  "total": 15,
+  "total": 16,
   "votants": 3,
   "paliers": [
    {
@@ -491,5 +508,5 @@
    }
   ]
  },
- "maj": "2026-11-19T00:07"
+ "maj": "2026-11-22T21:07"
 }
