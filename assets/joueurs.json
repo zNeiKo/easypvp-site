@@ -56,7 +56,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 49,
+"rang": 50,
 "titre": "Novice",
 "xp": 0
 },
@@ -209,7 +209,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 54,
+"rang": 55,
 "titre": "Novice",
 "xp": 0
 },
@@ -370,7 +370,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 58,
+"rang": 59,
 "titre": "Novice",
 "xp": 0
 },
@@ -584,7 +584,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 50,
+"rang": 51,
 "titre": "Novice",
 "xp": 0
 },
@@ -691,12 +691,28 @@
 "laizihuoxin": {
 "nom": "laizihuoxin"
 },
+"ld4cc": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 47,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "ld4cc",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-11-23"
+},
 "lev_java": {
 "niveau": {
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 57,
+"rang": 58,
 "titre": "Novice",
 "xp": 0
 },
@@ -752,7 +768,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 63,
+"rang": 64,
 "titre": "Novice",
 "xp": 0
 },
@@ -768,7 +784,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 59,
+"rang": 60,
 "titre": "Novice",
 "xp": 0
 },
@@ -804,7 +820,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 51,
+"rang": 52,
 "titre": "Novice",
 "xp": 0
 },
@@ -820,7 +836,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 48,
+"rang": 49,
 "titre": "Novice",
 "xp": 0
 },
@@ -887,7 +903,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 62,
+"rang": 63,
 "titre": "Novice",
 "xp": 0
 },
@@ -1098,7 +1114,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 60,
+"rang": 61,
 "titre": "Novice",
 "xp": 0
 },
@@ -1454,7 +1470,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 61,
+"rang": 62,
 "titre": "Novice",
 "xp": 0
 },
@@ -1491,7 +1507,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 53,
+"rang": 54,
 "titre": "Novice",
 "xp": 0
 },
@@ -1520,7 +1536,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 56,
+"rang": 57,
 "titre": "Novice",
 "xp": 0
 },
@@ -1552,7 +1568,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 47,
+"rang": 48,
 "titre": "Novice",
 "xp": 0
 },
@@ -1572,7 +1588,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 55,
+"rang": 56,
 "titre": "Novice",
 "xp": 0
 },
@@ -1630,7 +1646,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 52,
+"rang": 53,
 "titre": "Novice",
 "xp": 0
 },
