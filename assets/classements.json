@@ -169,6 +169,10 @@
      {
       "nom": "QtnRBT",
       "valeur": 7570
+     },
+     {
+      "nom": "ihqo",
+      "valeur": 9299
      }
     ]
    },
@@ -255,6 +259,10 @@
      {
       "nom": "sylveonoriginal",
       "valeur": 6188
+     },
+     {
+      "nom": "ihqo",
+      "valeur": 15103
      }
     ]
    },
@@ -265,6 +273,10 @@
      {
       "nom": "sylveonoriginal",
       "valeur": 5669
+     },
+     {
+      "nom": "ihqo",
+      "valeur": 6002
      },
      {
       "nom": "ScrYn0",
@@ -508,5 +520,5 @@
    }
   ]
  },
- "maj": "2026-11-22T21:07"
+ "maj": "2026-11-23T03:07"
 }
