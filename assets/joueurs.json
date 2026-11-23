@@ -1157,19 +1157,19 @@
 }
 ],
 "niveau": {
-"dans": 118,
-"niveau": 2,
-"pour": 125,
+"dans": 5,
+"niveau": 3,
+"pour": 150,
 "rang": 8,
 "titre": "Novice",
-"xp": 218
+"xp": 230
 },
 "nom": "QtnRBT",
 "passeport": {
 "etapes": 2,
 "fini": false
 },
-"vu": "2026-11-18"
+"vu": "2026-11-23"
 },
 "ratisseur": {
 "niveau": {
@@ -1256,15 +1256,23 @@
 "rang": 3,
 "sur": 3,
 "temps": 6267
+},
+{
+"id": "s26-48",
+"nom": "s26-48",
+"rang": 1,
+"sur": 1,
+"temps": 6732
 }
 ],
+"grade": "Joueur",
 "niveau": {
-"dans": 24,
+"dans": 71,
 "niveau": 5,
 "pour": 200,
 "rang": 4,
 "titre": "Novice",
-"xp": 574
+"xp": 621
 },
 "nom": "ScrYn0",
 "passeport": {

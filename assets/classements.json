@@ -113,7 +113,12 @@
  "dropper": {
   "semaine": {
    "nom": "Cité céleste",
-   "top": []
+   "top": [
+    {
+     "nom": "ScrYn0",
+     "valeur": 6732
+    }
+   ]
   },
   "complet": [
    {
@@ -457,7 +462,7 @@
   {
    "nom": "ScrYn0",
    "valeur": 5,
-   "xp": 574,
+   "xp": 621,
    "titre": "Novice"
   },
   {
@@ -480,8 +485,8 @@
   },
   {
    "nom": "QtnRBT",
-   "valeur": 2,
-   "xp": 218,
+   "valeur": 3,
+   "xp": 230,
    "titre": "Novice"
   },
   {
@@ -520,5 +525,5 @@
    }
   ]
  },
- "maj": "2026-11-23T22:07"
+ "maj": "2026-11-23T23:07"
 }
