@@ -1259,19 +1259,19 @@
 }
 ],
 "niveau": {
-"dans": 119,
-"niveau": 2,
-"pour": 125,
-"rang": 7,
+"dans": 61,
+"niveau": 4,
+"pour": 175,
+"rang": 6,
 "titre": "Novice",
-"xp": 219
+"xp": 436
 },
 "nom": "ScrYn0",
 "passeport": {
 "etapes": 1,
 "fini": false
 },
-"vu": "2026-11-18"
+"vu": "2026-11-23"
 },
 "shadowclaw2134": {
 "nom": "ShadowClaw2134",
@@ -1495,7 +1495,7 @@
 "dans": 25,
 "niveau": 3,
 "pour": 150,
-"rang": 6,
+"rang": 7,
 "titre": "Novice",
 "xp": 250
 },

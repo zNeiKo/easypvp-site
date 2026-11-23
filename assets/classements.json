@@ -467,15 +467,15 @@
    "titre": "Novice"
   },
   {
-   "nom": "thimote0270",
-   "valeur": 3,
-   "xp": 250,
+   "nom": "ScrYn0",
+   "valeur": 4,
+   "xp": 436,
    "titre": "Novice"
   },
   {
-   "nom": "ScrYn0",
-   "valeur": 2,
-   "xp": 219,
+   "nom": "thimote0270",
+   "valeur": 3,
+   "xp": 250,
    "titre": "Novice"
   },
   {
@@ -500,8 +500,8 @@
  "votes": {
   "mois": "novembre 2026",
   "cle": "2026-11",
-  "total": 16,
-  "votants": 3,
+  "total": 18,
+  "votants": 4,
   "paliers": [
    {
     "votes": 100,
@@ -520,5 +520,5 @@
    }
   ]
  },
- "maj": "2026-11-23T06:07"
+ "maj": "2026-11-23T21:07"
 }
