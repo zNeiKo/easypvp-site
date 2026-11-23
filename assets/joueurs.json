@@ -1033,7 +1033,7 @@
 "dans": 8,
 "niveau": 5,
 "pour": 200,
-"rang": 4,
+"rang": 5,
 "titre": "Novice",
 "xp": 558
 },
@@ -1259,12 +1259,12 @@
 }
 ],
 "niveau": {
-"dans": 61,
-"niveau": 4,
-"pour": 175,
-"rang": 6,
+"dans": 24,
+"niveau": 5,
+"pour": 200,
+"rang": 4,
 "titre": "Novice",
-"xp": 436
+"xp": 574
 },
 "nom": "ScrYn0",
 "passeport": {
@@ -1450,7 +1450,7 @@
 "dans": 111,
 "niveau": 4,
 "pour": 175,
-"rang": 5,
+"rang": 6,
 "titre": "Novice",
 "xp": 486
 },
