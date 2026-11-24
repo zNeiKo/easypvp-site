@@ -1283,19 +1283,19 @@
 ],
 "grade": "Joueur",
 "niveau": {
-"dans": 71,
+"dans": 75,
 "niveau": 5,
 "pour": 200,
 "rang": 4,
 "titre": "Novice",
-"xp": 621
+"xp": 625
 },
 "nom": "ScrYn0",
 "passeport": {
 "etapes": 1,
 "fini": false
 },
-"vu": "2026-11-23"
+"vu": "2026-11-24"
 },
 "shadowclaw2134": {
 "nom": "ShadowClaw2134",
