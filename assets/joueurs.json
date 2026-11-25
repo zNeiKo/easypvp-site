@@ -56,7 +56,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 53,
+"rang": 54,
 "titre": "Novice",
 "xp": 0
 },
@@ -209,7 +209,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 58,
+"rang": 59,
 "titre": "Novice",
 "xp": 0
 },
@@ -235,6 +235,22 @@
 "fini": false
 },
 "vu": "2026-11-18"
+},
+"crom67": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 53,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "Crom67",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-11-25"
 },
 "darkdragon478": {
 "nom": "darkdragon478",
@@ -386,7 +402,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 62,
+"rang": 63,
 "titre": "Novice",
 "xp": 0
 },
@@ -616,7 +632,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 54,
+"rang": 55,
 "titre": "Novice",
 "xp": 0
 },
@@ -760,7 +776,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 61,
+"rang": 62,
 "titre": "Novice",
 "xp": 0
 },
@@ -816,7 +832,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 67,
+"rang": 68,
 "titre": "Novice",
 "xp": 0
 },
@@ -832,7 +848,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 63,
+"rang": 64,
 "titre": "Novice",
 "xp": 0
 },
@@ -868,7 +884,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 55,
+"rang": 56,
 "titre": "Novice",
 "xp": 0
 },
@@ -951,7 +967,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 66,
+"rang": 67,
 "titre": "Novice",
 "xp": 0
 },
@@ -1162,7 +1178,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 64,
+"rang": 65,
 "titre": "Novice",
 "xp": 0
 },
@@ -1526,7 +1542,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 65,
+"rang": 66,
 "titre": "Novice",
 "xp": 0
 },
@@ -1563,7 +1579,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 57,
+"rang": 58,
 "titre": "Novice",
 "xp": 0
 },
@@ -1592,7 +1608,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 60,
+"rang": 61,
 "titre": "Novice",
 "xp": 0
 },
@@ -1644,7 +1660,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 59,
+"rang": 60,
 "titre": "Novice",
 "xp": 0
 },
@@ -1702,7 +1718,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 56,
+"rang": 57,
 "titre": "Novice",
 "xp": 0
 },
