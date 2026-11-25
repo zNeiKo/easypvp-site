@@ -21,7 +21,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 44,
+"rang": 45,
 "titre": "Novice",
 "xp": 2
 },
@@ -40,7 +40,7 @@
 "dans": 6,
 "niveau": 1,
 "pour": 100,
-"rang": 25,
+"rang": 26,
 "titre": "Novice",
 "xp": 6
 },
@@ -56,7 +56,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 54,
+"rang": 55,
 "titre": "Novice",
 "xp": 0
 },
@@ -72,7 +72,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 45,
+"rang": 46,
 "titre": "Novice",
 "xp": 2
 },
@@ -88,7 +88,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 35,
+"rang": 36,
 "titre": "Novice",
 "xp": 2
 },
@@ -108,7 +108,7 @@
 "dans": 20,
 "niveau": 1,
 "pour": 100,
-"rang": 13,
+"rang": 14,
 "titre": "Novice",
 "xp": 20
 },
@@ -124,7 +124,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 48,
+"rang": 49,
 "titre": "Novice",
 "xp": 0
 },
@@ -169,7 +169,7 @@
 "dans": 4,
 "niveau": 1,
 "pour": 100,
-"rang": 26,
+"rang": 27,
 "titre": "Novice",
 "xp": 4
 },
@@ -185,7 +185,7 @@
 "dans": 4,
 "niveau": 1,
 "pour": 100,
-"rang": 31,
+"rang": 32,
 "titre": "Novice",
 "xp": 4
 },
@@ -204,12 +204,28 @@
 "nom": "chai_pas",
 "vu": "2026-10-01"
 },
+"chouw3ps": {
+"niveau": {
+"dans": 72,
+"niveau": 1,
+"pour": 100,
+"rang": 10,
+"titre": "Novice",
+"xp": 72
+},
+"nom": "Chouw3ps",
+"passeport": {
+"etapes": 1,
+"fini": false
+},
+"vu": "2026-11-25"
+},
 "cornichon_furtif": {
 "niveau": {
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 59,
+"rang": 60,
 "titre": "Novice",
 "xp": 0
 },
@@ -225,7 +241,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 37,
+"rang": 38,
 "titre": "Novice",
 "xp": 2
 },
@@ -241,7 +257,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 53,
+"rang": 54,
 "titre": "Novice",
 "xp": 0
 },
@@ -261,7 +277,7 @@
 "dans": 4,
 "niveau": 1,
 "pour": 100,
-"rang": 34,
+"rang": 35,
 "titre": "Novice",
 "xp": 4
 },
@@ -281,7 +297,7 @@
 "dans": 10,
 "niveau": 1,
 "pour": 100,
-"rang": 17,
+"rang": 18,
 "titre": "Novice",
 "xp": 10
 },
@@ -402,7 +418,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 63,
+"rang": 64,
 "titre": "Novice",
 "xp": 0
 },
@@ -418,7 +434,7 @@
 "dans": 4,
 "niveau": 1,
 "pour": 100,
-"rang": 32,
+"rang": 33,
 "titre": "Novice",
 "xp": 4
 },
@@ -438,7 +454,7 @@
 "dans": 4,
 "niveau": 1,
 "pour": 100,
-"rang": 33,
+"rang": 34,
 "titre": "Novice",
 "xp": 4
 },
@@ -503,7 +519,7 @@
 "dans": 12,
 "niveau": 1,
 "pour": 100,
-"rang": 14,
+"rang": 15,
 "titre": "Novice",
 "xp": 12
 },
@@ -519,7 +535,7 @@
 "dans": 4,
 "niveau": 1,
 "pour": 100,
-"rang": 27,
+"rang": 28,
 "titre": "Novice",
 "xp": 4
 },
@@ -536,7 +552,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 40,
+"rang": 41,
 "titre": "Novice",
 "xp": 2
 },
@@ -552,7 +568,7 @@
 "dans": 6,
 "niveau": 1,
 "pour": 100,
-"rang": 24,
+"rang": 25,
 "titre": "Novice",
 "xp": 6
 },
@@ -569,7 +585,7 @@
 "dans": 12,
 "niveau": 1,
 "pour": 100,
-"rang": 15,
+"rang": 16,
 "titre": "Novice",
 "xp": 12
 },
@@ -616,7 +632,7 @@
 "dans": 49,
 "niveau": 1,
 "pour": 100,
-"rang": 11,
+"rang": 12,
 "titre": "Novice",
 "xp": 49
 },
@@ -632,7 +648,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 55,
+"rang": 56,
 "titre": "Novice",
 "xp": 0
 },
@@ -652,7 +668,7 @@
 "dans": 36,
 "niveau": 1,
 "pour": 100,
-"rang": 12,
+"rang": 13,
 "titre": "Novice",
 "xp": 36
 },
@@ -668,7 +684,7 @@
 "dans": 4,
 "niveau": 1,
 "pour": 100,
-"rang": 29,
+"rang": 30,
 "titre": "Novice",
 "xp": 4
 },
@@ -688,7 +704,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 41,
+"rang": 42,
 "titre": "Novice",
 "xp": 2
 },
@@ -705,7 +721,7 @@
 "dans": 6,
 "niveau": 1,
 "pour": 100,
-"rang": 23,
+"rang": 24,
 "titre": "Novice",
 "xp": 6
 },
@@ -717,7 +733,7 @@
 "dans": 6,
 "niveau": 1,
 "pour": 100,
-"rang": 20,
+"rang": 21,
 "titre": "Novice",
 "xp": 6
 },
@@ -737,7 +753,7 @@
 "dans": 6,
 "niveau": 1,
 "pour": 100,
-"rang": 22,
+"rang": 23,
 "titre": "Novice",
 "xp": 6
 },
@@ -760,7 +776,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 50,
+"rang": 51,
 "titre": "Novice",
 "xp": 0
 },
@@ -776,7 +792,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 62,
+"rang": 63,
 "titre": "Novice",
 "xp": 0
 },
@@ -796,7 +812,7 @@
 "dans": 4,
 "niveau": 1,
 "pour": 100,
-"rang": 30,
+"rang": 31,
 "titre": "Novice",
 "xp": 4
 },
@@ -812,7 +828,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 43,
+"rang": 44,
 "titre": "Novice",
 "xp": 2
 },
@@ -832,7 +848,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 68,
+"rang": 69,
 "titre": "Novice",
 "xp": 0
 },
@@ -848,7 +864,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 64,
+"rang": 65,
 "titre": "Novice",
 "xp": 0
 },
@@ -868,7 +884,7 @@
 "dans": 11,
 "niveau": 1,
 "pour": 100,
-"rang": 16,
+"rang": 17,
 "titre": "Novice",
 "xp": 11
 },
@@ -884,7 +900,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 56,
+"rang": 57,
 "titre": "Novice",
 "xp": 0
 },
@@ -900,7 +916,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 52,
+"rang": 53,
 "titre": "Novice",
 "xp": 0
 },
@@ -916,7 +932,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 49,
+"rang": 50,
 "titre": "Novice",
 "xp": 0
 },
@@ -932,7 +948,7 @@
 "dans": 10,
 "niveau": 1,
 "pour": 100,
-"rang": 18,
+"rang": 19,
 "titre": "Novice",
 "xp": 10
 },
@@ -967,7 +983,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 67,
+"rang": 68,
 "titre": "Novice",
 "xp": 0
 },
@@ -983,7 +999,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 39,
+"rang": 40,
 "titre": "Novice",
 "xp": 2
 },
@@ -1113,7 +1129,7 @@
 "dans": 8,
 "niveau": 1,
 "pour": 100,
-"rang": 19,
+"rang": 20,
 "titre": "Novice",
 "xp": 8
 },
@@ -1142,7 +1158,7 @@
 "dans": 4,
 "niveau": 1,
 "pour": 100,
-"rang": 28,
+"rang": 29,
 "titre": "Novice",
 "xp": 4
 },
@@ -1158,7 +1174,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 46,
+"rang": 47,
 "titre": "Novice",
 "xp": 2
 },
@@ -1178,7 +1194,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 65,
+"rang": 66,
 "titre": "Novice",
 "xp": 0
 },
@@ -1240,7 +1256,7 @@
 "dans": 71,
 "niveau": 1,
 "pour": 100,
-"rang": 10,
+"rang": 11,
 "titre": "Novice",
 "xp": 71
 },
@@ -1269,7 +1285,7 @@
 "dans": 6,
 "niveau": 1,
 "pour": 100,
-"rang": 21,
+"rang": 22,
 "titre": "Novice",
 "xp": 6
 },
@@ -1354,7 +1370,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 47,
+"rang": 48,
 "titre": "Novice",
 "xp": 2
 },
@@ -1375,7 +1391,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 36,
+"rang": 37,
 "titre": "Novice",
 "xp": 2
 },
@@ -1405,7 +1421,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 38,
+"rang": 39,
 "titre": "Novice",
 "xp": 2
 },
@@ -1542,7 +1558,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 66,
+"rang": 67,
 "titre": "Novice",
 "xp": 0
 },
@@ -1579,7 +1595,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 58,
+"rang": 59,
 "titre": "Novice",
 "xp": 0
 },
@@ -1608,7 +1624,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 61,
+"rang": 62,
 "titre": "Novice",
 "xp": 0
 },
@@ -1640,7 +1656,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 51,
+"rang": 52,
 "titre": "Novice",
 "xp": 0
 },
@@ -1660,7 +1676,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 60,
+"rang": 61,
 "titre": "Novice",
 "xp": 0
 },
@@ -1676,7 +1692,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 42,
+"rang": 43,
 "titre": "Novice",
 "xp": 2
 },
@@ -1718,7 +1734,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 57,
+"rang": 58,
 "titre": "Novice",
 "xp": 0
 },
