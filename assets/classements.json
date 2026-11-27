@@ -351,7 +351,7 @@
   },
   {
    "nom": "NeiKoTV",
-   "valeur": 39821
+   "valeur": 39401
   }
  ],
  "cachecache": {
@@ -484,7 +484,7 @@
   {
    "nom": "NeiKoTV",
    "valeur": 14,
-   "xp": 3258,
+   "xp": 3284,
    "titre": "Apprenti"
   },
   {
@@ -565,5 +565,5 @@
    }
   ]
  },
- "maj": "2026-11-27T02:07"
+ "maj": "2026-11-27T03:07"
 }
