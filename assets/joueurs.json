@@ -609,22 +609,22 @@
 {
 "id": "jungle",
 "nom": "Temple de la jungle",
-"rang": 4,
-"sur": 4,
+"rang": 5,
+"sur": 5,
 "temps": 9299
 },
 {
 "id": "end",
 "nom": "L'End",
-"rang": 2,
-"sur": 2,
+"rang": 3,
+"sur": 3,
 "temps": 15103
 },
 {
 "id": "prisme",
 "nom": "Prisme",
-"rang": 2,
-"sur": 3,
+"rang": 3,
+"sur": 4,
 "temps": 6002
 }
 ],
@@ -1028,6 +1028,76 @@
 "rang": 1,
 "sur": 3,
 "temps": 27767
+},
+{
+"id": "glacier",
+"nom": "Glacier",
+"rang": 1,
+"sur": 2,
+"temps": 5774
+},
+{
+"id": "jungle",
+"nom": "Temple de la jungle",
+"rang": 1,
+"sur": 5,
+"temps": 5747
+},
+{
+"id": "desert",
+"nom": "Pyramide",
+"rang": 1,
+"sur": 2,
+"temps": 5788
+},
+{
+"id": "bibliotheque",
+"nom": "Bibliothèque",
+"rang": 1,
+"sur": 4,
+"temps": 5687
+},
+{
+"id": "mine",
+"nom": "Mine abandonnée",
+"rang": 1,
+"sur": 2,
+"temps": 5746
+},
+{
+"id": "abysses",
+"nom": "Abysses",
+"rang": 1,
+"sur": 2,
+"temps": 5738
+},
+{
+"id": "celeste",
+"nom": "Cité céleste",
+"rang": 1,
+"sur": 4,
+"temps": 5664
+},
+{
+"id": "end",
+"nom": "L'End",
+"rang": 1,
+"sur": 3,
+"temps": 5687
+},
+{
+"id": "prisme",
+"nom": "Prisme",
+"rang": 2,
+"sur": 4,
+"temps": 5787
+},
+{
+"id": "s26-48",
+"nom": "s26-48",
+"rang": 1,
+"sur": 2,
+"temps": 5886
 }
 ],
 "entrainement": [
@@ -1056,12 +1126,12 @@
 }
 ],
 "niveau": {
-"dans": 326,
-"niveau": 13,
-"pour": 400,
+"dans": 8,
+"niveau": 14,
+"pour": 425,
 "rang": 1,
 "titre": "Apprenti",
-"xp": 3176
+"xp": 3258
 },
 "nom": "NeiKoTV",
 "passeport": {
@@ -1094,7 +1164,7 @@
 },
 "record": 14
 },
-"vu": "2026-11-17"
+"vu": "2026-11-27"
 },
 "ninjabowlmc": {
 "entrainement": [
@@ -1217,22 +1287,22 @@
 {
 "id": "jungle",
 "nom": "Temple de la jungle",
-"rang": 3,
-"sur": 4,
+"rang": 4,
+"sur": 5,
 "temps": 7570
 },
 {
 "id": "bibliotheque",
 "nom": "Bibliothèque",
-"rang": 1,
-"sur": 3,
+"rang": 2,
+"sur": 4,
 "temps": 5974
 },
 {
 "id": "celeste",
 "nom": "Cité céleste",
-"rang": 1,
-"sur": 3,
+"rang": 2,
+"sur": 4,
 "temps": 5690
 }
 ],
@@ -1312,36 +1382,36 @@
 {
 "id": "jungle",
 "nom": "Temple de la jungle",
-"rang": 2,
-"sur": 4,
+"rang": 3,
+"sur": 5,
 "temps": 6802
 },
 {
 "id": "bibliotheque",
 "nom": "Bibliothèque",
-"rang": 3,
-"sur": 3,
+"rang": 4,
+"sur": 4,
 "temps": 13133
 },
 {
 "id": "celeste",
 "nom": "Cité céleste",
-"rang": 3,
-"sur": 3,
+"rang": 4,
+"sur": 4,
 "temps": 6410
 },
 {
 "id": "prisme",
 "nom": "Prisme",
-"rang": 3,
-"sur": 3,
+"rang": 4,
+"sur": 4,
 "temps": 6267
 },
 {
 "id": "s26-48",
 "nom": "s26-48",
-"rang": 1,
-"sur": 1,
+"rang": 2,
+"sur": 2,
 "temps": 6732
 }
 ],
@@ -1451,36 +1521,36 @@
 {
 "id": "glacier",
 "nom": "Glacier",
-"rang": 1,
-"sur": 1,
+"rang": 2,
+"sur": 2,
 "temps": 6182
 },
 {
 "id": "jungle",
 "nom": "Temple de la jungle",
-"rang": 1,
-"sur": 4,
+"rang": 2,
+"sur": 5,
 "temps": 5988
 },
 {
 "id": "desert",
 "nom": "Pyramide",
-"rang": 1,
-"sur": 1,
+"rang": 2,
+"sur": 2,
 "temps": 5936
 },
 {
 "id": "bibliotheque",
 "nom": "Bibliothèque",
-"rang": 2,
-"sur": 3,
+"rang": 3,
+"sur": 4,
 "temps": 6039
 },
 {
 "id": "mine",
 "nom": "Mine abandonnée",
-"rang": 1,
-"sur": 1,
+"rang": 2,
+"sur": 2,
 "temps": 5988
 },
 {
@@ -1493,29 +1563,29 @@
 {
 "id": "abysses",
 "nom": "Abysses",
-"rang": 1,
-"sur": 1,
+"rang": 2,
+"sur": 2,
 "temps": 5987
 },
 {
 "id": "celeste",
 "nom": "Cité céleste",
-"rang": 2,
-"sur": 3,
+"rang": 3,
+"sur": 4,
 "temps": 5769
 },
 {
 "id": "end",
 "nom": "L'End",
-"rang": 1,
-"sur": 2,
+"rang": 2,
+"sur": 3,
 "temps": 6188
 },
 {
 "id": "prisme",
 "nom": "Prisme",
 "rang": 1,
-"sur": 3,
+"sur": 4,
 "temps": 5669
 },
 {
