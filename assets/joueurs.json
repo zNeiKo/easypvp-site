@@ -21,7 +21,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 48,
+"rang": 49,
 "titre": "Novice",
 "xp": 2
 },
@@ -72,7 +72,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 49,
+"rang": 50,
 "titre": "Novice",
 "xp": 2
 },
@@ -124,7 +124,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 52,
+"rang": 53,
 "titre": "Novice",
 "xp": 0
 },
@@ -270,19 +270,19 @@
 },
 "crom67": {
 "niveau": {
-"dans": 0,
+"dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 57,
+"rang": 41,
 "titre": "Novice",
-"xp": 0
+"xp": 2
 },
 "nom": "Crom67",
 "passeport": {
 "etapes": 0,
 "fini": false
 },
-"vu": "2026-11-25"
+"vu": "2026-11-28"
 },
 "darkdragon478": {
 "nom": "darkdragon478",
@@ -323,6 +323,22 @@
 "fini": false
 },
 "vu": "2026-11-24"
+},
+"eclipse_wazo": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 66,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "Eclipse_Wazo",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-11-28"
 },
 "elee_py": {
 "nom": "elee_py",
@@ -434,7 +450,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 67,
+"rang": 68,
 "titre": "Novice",
 "xp": 0
 },
@@ -568,7 +584,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 43,
+"rang": 44,
 "titre": "Novice",
 "xp": 2
 },
@@ -720,7 +736,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 44,
+"rang": 45,
 "titre": "Novice",
 "xp": 2
 },
@@ -792,7 +808,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 54,
+"rang": 55,
 "titre": "Novice",
 "xp": 0
 },
@@ -808,7 +824,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 66,
+"rang": 67,
 "titre": "Novice",
 "xp": 0
 },
@@ -844,7 +860,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 47,
+"rang": 48,
 "titre": "Novice",
 "xp": 2
 },
@@ -864,7 +880,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 72,
+"rang": 73,
 "titre": "Novice",
 "xp": 0
 },
@@ -880,7 +896,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 68,
+"rang": 69,
 "titre": "Novice",
 "xp": 0
 },
@@ -932,7 +948,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 56,
+"rang": 57,
 "titre": "Novice",
 "xp": 0
 },
@@ -948,7 +964,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 53,
+"rang": 54,
 "titre": "Novice",
 "xp": 0
 },
@@ -999,7 +1015,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 71,
+"rang": 72,
 "titre": "Novice",
 "xp": 0
 },
@@ -1015,7 +1031,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 42,
+"rang": 43,
 "titre": "Novice",
 "xp": 2
 },
@@ -1260,7 +1276,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 50,
+"rang": 51,
 "titre": "Novice",
 "xp": 2
 },
@@ -1280,7 +1296,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 69,
+"rang": 70,
 "titre": "Novice",
 "xp": 0
 },
@@ -1367,7 +1383,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 46,
+"rang": 47,
 "titre": "Novice",
 "xp": 2
 },
@@ -1472,7 +1488,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 51,
+"rang": 52,
 "titre": "Novice",
 "xp": 2
 },
@@ -1523,7 +1539,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 41,
+"rang": 42,
 "titre": "Novice",
 "xp": 2
 },
@@ -1660,7 +1676,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 70,
+"rang": 71,
 "titre": "Novice",
 "xp": 0
 },
@@ -1774,7 +1790,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 55,
+"rang": 56,
 "titre": "Novice",
 "xp": 0
 },
@@ -1810,7 +1826,7 @@
 "dans": 2,
 "niveau": 1,
 "pour": 100,
-"rang": 45,
+"rang": 46,
 "titre": "Novice",
 "xp": 2
 },
