@@ -880,7 +880,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 73,
+"rang": 74,
 "titre": "Novice",
 "xp": 0
 },
@@ -1015,7 +1015,7 @@
 "dans": 0,
 "niveau": 1,
 "pour": 100,
-"rang": 72,
+"rang": 73,
 "titre": "Novice",
 "xp": 0
 },
@@ -1671,12 +1671,28 @@
 "nom": "Synoz_",
 "vu": "2026-09-29"
 },
-"the_death7695": {
+"taduping": {
 "niveau": {
 "dans": 0,
 "niveau": 1,
 "pour": 100,
 "rang": 71,
+"titre": "Novice",
+"xp": 0
+},
+"nom": "TaDuPing",
+"passeport": {
+"etapes": 0,
+"fini": false
+},
+"vu": "2026-11-28"
+},
+"the_death7695": {
+"niveau": {
+"dans": 0,
+"niveau": 1,
+"pour": 100,
+"rang": 72,
 "titre": "Novice",
 "xp": 0
 },
